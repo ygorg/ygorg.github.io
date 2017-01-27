@@ -50,8 +50,8 @@ function generate(grammar, input) {
 
 function turtle(code) {
     resetMatrix();
-    var angle = PI/6;
-    translate(width/2, height);
+    var angle = PI / 6;
+    translate(width / 2, height);
     var len = 50;
 
     for (var i = 0; i < code.length; i++) {
@@ -91,16 +91,19 @@ function turtle(code) {
 
 
 function setup() {
-    createCanvas(600, 600);
-    var button = createButton("Generate");
-    button.mousePressed(function() {
+    var canvas = createCanvas(600, 600);
+    var p = createP("The generate button might not generate nothing for a while because there's a probability to generate something, so keep clicking.");
+    var div = createP("");
+    var generateButton = createButton("Generate").mousePressed(function() {
         current_sentence = generate(grammar1, current_sentence);
-        //createP(current_sentence);
     });
-    button = createButton("Reset");
-    button.mousePressed(function() {
+    generateButton.parent(div);
+    var resetButton = createButton("Reset").mousePressed(function() {
         current_sentence = "";
     });
+    resetButton.parent(div);
+    canvas.canvas.style.width = "";
+    canvas.canvas.style.height = "60vh";
 }
 
 function draw() {
