@@ -1,1 +1,38 @@
-Hello World
+<!DOCTYPE html>
+<html>
+<?php include 'connectes.php' ?>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Sommaire</title>
+		<link rel="stylesheet" href="ressources/stylesheets/feuille.css" />
+        <script src="ressources/scripts/jquery-2.1.3.min.js"></script>
+        <script src="ressources/scripts/bouncy.js"></script>
+    </head>
+
+    <body onload="init();">
+        <div class="body_wrap">
+            <div class="header_cont">
+                <header>
+                    <h1>Sommaire</h1>
+                </header>
+            </div>
+            <div class="body_cont">
+                <ul>
+					<li><a href="Accelerometre">Accelerometre</a></li>
+					<li><a href="Gallerie d'images">Gallerie d'images</a></li>
+					<li><a href="LeManoir">LeManoir</a></li>
+					<li><a href="Musique">Musique</a></li>
+					<li><a href="Sequenceur">Sequenceur</a></li>
+					<li><a href="Tetris">Tetris</a></li>
+				</ul>
+            </div>
+        </div>
+        <script>
+            function init() {
+                makeItBouncy('a');
+            }
+        </script>
+    </body>
+
+</html>
