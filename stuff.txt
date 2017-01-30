@@ -1,1 +1,0 @@
-for i in * ; do test -d "$i" && echo "<li><a href=\"$i\">$i</a></li>" ; done
