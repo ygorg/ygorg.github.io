@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="Ressources/Styles/tetris.css" />
+	<link rel="stylesheet" href="Ressources/Styles/userBlock.css" />
+	
+	<script src="Ressources/Scripts/jquery-2.1.3.min.js"></script>
+	
+	<script src="Ressources/Scripts/tetris.js"></script>
+	<script src="Ressources/Scripts/tetrominos.js"></script>
+	<script src="Ressources/Scripts/userBlock.js"></script>
+	<script src="Ressources/Scripts/audio-video.js"></script>
+	<script src="Ressources/Scripts/leaderboard.js"></script>
+	<script src="Ressources/Scripts/dessin.js"></script>
+	<script src="Ressources/Scripts/menus.js"></script>
+
+</head>
+
+<body onload="init()">
+	
+	<button id="nextMusic"> Next Music</button>
+
+	<p id="error_msg"></p>
+	
+	<div id="score">Score : 0</div>
+	<canvas width="500" height="600">Le Navigateur ne supporte pas la balise canvas </canvas>
+
+	<button id="mute" style="background-color: red;">Mute</button>
+	<button id="clear_leaderBoard" onclick="localStorage.removeItem('leaderBoard')" style="display: none;"> Reset LeaderBoard</button>
+	
+	<button id="change_fun" onclick="change_fun_mode()" style="display: none;">Epilepsie</button>
+
+	<div id="audioWrapper">
+		<audio class="audio dubstep" controls preload="auto">
+			<source src="Ressources/Medias/TetrisXauric.mp3" type="audio/mpeg">
+				Le Navigateur ne supporte pas la balise audio.
+		</audio>
+	</div>
+
+
+	<div id="userBlockWrapper" style="display: none;">
+		<div class="userBlock menu wrapper">
+			<button onclick="userBlockInitCreate(); return false;">Créer Bloc</button>
+			<button onclick="userBlockInitManage(); return false;">Gerer Blocs</button>
+		</div>
+
+		<div class="userBlock create wrapper">
+			<button onclick="userBlockInitMenu(); return false;">Retour</button>
+			<form onsubmit="return false;">
+				<label for="userBlockCreateSize">Taille du bloc :</label>
+				<br/>
+				<input type="number" id="userBlockCreateSize" class="userBlock create form size" />
+				<br/>
+				<input type="submit" onclick="userBlockGetGridSize(); return false;" />
+			</form>
+			<div class="userBlock create container"></div>
+			<button onclick="userBlockGetBlock(); return false;">Valider</button>
+		</div>
+
+		<div class="userBlock manage wrapper">
+			<button onclick="userBlockInitMenu(); return false;">Retour</button>
+			<button class="userBlock manage reset">Reinitialiser</button>
+			<div class="userBlock manage display container"></div>
+		</div>
+	</div>
+	
+	<button onclick="stop()" id="stop"> debugger </button>
+		
+	<img src="Ressources/Images/Tetris-logo.png" id="image_tetris" style="display: none;">
+	<img src="Ressources/Images/reloaded2.png" id="image_reloaded" style="display: none;">
+	<img src="Ressources/Images/Button09.png" id="image_button" style="display: none;">
+	
+	<div id="video-fond" style="display: none">
+		<video width="320" height="240" loop preload="auto">
+			<source src="Ressources/Medias/Nyan_cat.mp4" type="video/mp4" /> Your browser does not support the video tag.
+		</video>
+	</div>
+</body>
+
+</html>

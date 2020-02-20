@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script src="../ressources/scripts/jquery-2.1.3.min.js"></script>
+    <script src="riffwave.js"></script>
+    <script src="UI.js"></script>
+    <script src="script.js"></script>
+    <script>
+        $(function() {
+            init();
+        })
+
+    </script>
+    <style>
+        label {
+            display: inline-block;
+            width: 140px;
+            text-align: right;
+        }
+        
+        canvas {
+            background-color: aqua;
+            width: 50%;
+            height: 300px;
+        }
+
+    </style>
+</head>
+<!--Ajouter la possibilite de choisir:
+
+    Choisir frequence ou aleatoire avec max et min
+    Son clean ou avec harmoniques ou au hasard
+    Si avec harmonqiues :
+        harmniques a intervals reguliers ou au hasard (avec max et min)
+        ou predefinis genre tout le temps 2, 5, 8
+    Choisir la duree:
+        predefini ou aleatoire avec un max et un min-->
+
+<body>
+    <audio class="play" controls></audio>
+    <p>Cette page genere des sons aléatoires grace a la librairie <a href="http://www.codebase.es/riffwave/">RIFFWAVE</a>.</p>
+    <p>Les sons générés ont une frequence qui change a chaque fois et le nombre d'harmonique qui les composent aussi.</p>
+    <div class="info">
+        <p>Frequence :<span class="frequence"></span></p>
+        <p>Harmoniques :<span class="harmonique"></span></p>
+        <p>Duree :<span class="duree"></span></p>
+    </div>
+
+    <div id="options">
+        <label for="optUseTone">Utiliser les tons musicaux</label>
+        <input type="checkbox" id="optUseTone" />
+        <br/>
+        <label for="optOctaveMin">Octave min :</label>
+        <input type="number" id="optOctaveMin" min="1" />
+        <br/>
+        <label for="optOctaveMax">Octave max :</label>
+        <input type="number" id="optOctaveMax" max="12" />
+        <br/>
+
+        <label for="optRandomFreq">Frequence aléatoire</label>
+        <input type="checkbox" id="optRandomFreq" />
+        <br/>
+        <label for="optFreq">Frequence :</label>
+        <input type="number" id="optFreq" min="0" />
+        <br/>
+        <label for="optRandomFreqMin">Frequence min :</label>
+        <input type="number" id="optRandomFreqMin" min="0" />
+        <br/>
+        <label for="optRandomFreqMax">Frequence max :</label>
+        <input type="number" id="optRandomFreqMax" min="0" />
+        <br/>
+
+
+        <label for="optRandomHarmonique">Harmoniques aléatoires</label>
+        <input type="checkbox" id="optRandomHarmonique" />
+        <br/>
+        <label for="optDefineHarmonique">Definir les harmoniques :</label>
+        <input type="text" id="optDefineHarmonique" />
+        <br/>
+
+
+        <label for="optRandomDuration">Duree aléatoire</label>
+        <input type="checkbox" id="optRandomDuration" />
+        <br/>
+        <label for="optDuration">Duree :</label>
+        <input type="number" id="optDuration" min="0" />
+        <br/>
+        <label for="optRandomDurationMin">Duree min :</label>
+        <input type="number" id="optRandomDurationMin" min="0" />
+        <br/>
+        <label for="optRandomDurationMax">Duree max :</label>
+        <input type="number" id="optRandomDurationMax" min="0" />
+        <br/>
+    </div>
+
+    <canvas height="300" width="500"></canvas>
+
+
+</body>
+
+</html>
