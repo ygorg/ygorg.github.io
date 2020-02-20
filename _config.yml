@@ -24,19 +24,44 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ygorg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  ygorg
+github_username: ygorg
 profile_picture: assets/portrait.jpg
 # Build settings
 #theme: minima
-theme: academic-minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-last-modified-at
+
+social_links:
+  twitter: ra1nbowpill
+  github:  ygorg
 
 links:
   -
     title: github
     url: http://github.com/ygorg
+
+papers:
+  -
+    title: "KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents."
+    url: https://hal.archives-ouvertes.fr/hal-02395709
+    authors: Ygor Gallina, Florian Boudin, and Béatrice Daille.
+    journal: 12th International Conference on Natural Language Generation (INLG)
+    date: Oct. 2019
+  -
+    title: "State of the art of deep learning methods for automatic keyphrase extraction."
+    url: https://hal.archives-ouvertes.fr/hal-02395693
+    authors: Ygor Gallina.
+    journal: 21e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RECITAL)
+    date: Jul. 2019.
+  -
+    title: "DeFT 2019 : Auto-encodeurs, Gradient Boosting et combinaisons de modèles pour l’identification automatique de mots-clés."
+    url: http://hal.univ-nantes.fr/hal-02433723
+    authors: "Mérième Bouhandi, Florian Boudin, and Ygor Gallina."
+    journal: "Défi Fouille de Textes (DEFT)"
+    date: "Jul. 2019"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
