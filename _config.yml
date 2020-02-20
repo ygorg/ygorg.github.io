@@ -34,7 +34,6 @@ plugins:
   - jekyll-last-modified-at
 
 social_links:
-  twitter: ra1nbowpill
   github:  ygorg
 
 links:
