@@ -1,4 +1,0 @@
-http://awesomewallpapersblog.com/category/animals/
-
-mogrify  -format jpg -path thumbs -thumbnail 100x100 pictures/*.jpg
-(echo var images=\[;ls thumbs/ | while read filename; do echo \"$filename\",; done; echo \]\;) > images.js
