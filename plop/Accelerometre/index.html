@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>test accelerometer</title>
+
+    <script type="application/javascript">
+        var ctx;
+        var writeTheShit = false;
+
+        function init() {
+
+            document.getElementById('toggleWriting').addEventListener('click', function(e) {
+
+                if (writeTheShit == true) {
+                    writeTheShit = false;
+                    this.innerHTML = 'Not Writing';
+                } else {
+                    writeTheShit = true;
+                    this.innerHTML = 'Writing';
+                }
+
+            });
+
+            ctx = document.getElementsByTagName('canvas')[0].getContext('2d');
+
+            ctx.fillStyle = 'blue';
+            ctx.save();
+            ctx.translate(150, 150);
+            ctx.fillRect(-5, -5, 10, 10);
+            ctx.restore();
+
+
+            if (window.DeviceMotionEvent != undefined) {
+
+                window.ondevicemotion = function(e) {
+
+                    ctx.clearRect(0, 0, 300, 300);
+
+                    ctx.save();
+                    ctx.translate(150, 150);
+                    ctx.fillRect(-5 + e.accelerationIncludingGravity.x * 10, -5 + e.accelerationIncludingGravity.y * 10, 10, 10);
+                    ctx.restore();
+
+                    document.getElementById("accelerationX").innerHTML = parseInt(e.accelerationIncludingGravity.x, 10);
+                    document.getElementById("accelerationY").innerHTML = parseInt(e.accelerationIncludingGravity.y, 10);
+                    document.getElementById("accelerationZ").innerHTML = parseInt(e.accelerationIncludingGravity.z, 10);
+                    if (writeTheShit == true) {
+                        document.getElementById('accX').innerHTML += e.accelerationIncludingGravity.x + '<br/>';
+                        document.getElementById('accY').innerHTML += e.accelerationIncludingGravity.y + '<br/>';
+                        document.getElementById('accZ').innerHTML += e.accelerationIncludingGravity.z + '<br/>';
+                    }
+
+                    if (e.rotationRate) {
+                        document.getElementById("rotationAlpha").innerHTML = parseInt(e.rotationRate.alpha, 10);
+                        document.getElementById("rotationBeta").innerHTML = parseInt(e.rotationRate.beta, 10);
+                        document.getElementById("rotationGamma").innerHTML = parseInt(e.rotationRate.gamma, 10);
+                    }
+                }
+
+            } else {
+                document.getElementById("list").innerHTML = "No device motion found";
+            }
+
+            if (window.DeviceOrientationEvent != undefined) {
+
+                window.ondeviceorientation = function(e) {
+
+                    document.getElementById("alpha").innerHTML = e.alpha;
+                    document.getElementById("beta").innerHTML = e.beta;
+                    document.getElementById("gamma").innerHTML = e.gamma;
+
+                    console.log(e);
+                };
+
+            } else {
+                document.getElementById("list").innerHTML = "No device motion found";
+            }
+        }
+
+    </script>
+
+</head>
+
+<body onload="init();">
+
+    <h1>Accelerometer Javascript Test</h1>
+
+    <p>Visitez cette page avec un appareil équipé d'un accelerometre ou d'un giroscope.</p>
+
+    <button id="toggleWriting">Not Writing</button>
+    <ul id="list">
+        <li>acceleration x: <span id="accelerationX"></span>g</li>
+        <li>acceleration y: <span id="accelerationY"></span>g</li>
+        <li>acceleration z: <span id="accelerationZ"></span>g</li>
+        <br/>
+        <li>rotation alpha: <span id="rotationAlpha"></span>degree</li>
+        <li>rotation beta: <span id="rotationBeta"></span>degree</li>
+        <li>rotation gamma: <span id="rotationGamma"></span>degree</li>
+        <br/>
+        <li>alpha: <span id="alpha"></span></li>
+        <li>beta: <span id="beta"></span></li>
+        <li>gamma: <span id="gamma"></span></li>
+    </ul>
+
+    <table>
+        <tr id="accX"></tr>
+        <tr id="accY"></tr>
+        <tr id="accZ"></tr>
+    </table>
+    <canvas width="300" height="300" style="border:1px solid black;">
+        Canvas non supporté -_-'
+    </canvas>
+
+</body>
+
+</html>
