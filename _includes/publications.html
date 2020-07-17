@@ -18,6 +18,14 @@
         {% if paper_url %}<a href="{{ paper_url | escape }}">{% endif %}
         {{ paper.title | escape }}
         {% if paper_url %}</a>{% endif %}
+        {% if paper.link %}
+        {% if paper.link contains "http://" or paper.link contains "https://" %}
+          {% assign paper_link = paper.link %}
+        {% else %}
+          {% assign paper_link = "http://" | append: paper.link %}
+        {% endif %}
+        [<a href="{{ paper_link | escape }}">code</a>]
+      {% endif %}
       </span>
       <span class="authors">{{ paper.authors | escape }}</span>
       <span class="journal-info">
