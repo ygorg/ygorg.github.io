@@ -31,7 +31,7 @@ profile_picture: assets/portrait.jpg
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-last-modified-at
+#  - jekyll-last-modified-at  # Not supported anymore by github
 
 social_links:
   github:  ygorg
