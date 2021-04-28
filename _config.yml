@@ -43,17 +43,24 @@ links:
 
 papers:
   -
+    title: "Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness."
+    url: "https://arxiv.org/pdf/2103.12440.pdf"
+    link: "https://github.com/boudinfl/redefining-absent-keyphrases"
+    authors: "Florian Boudin, and Ygor Gallina."
+    journal: "2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HTL)"
+    date: "Jun. 2021"
+  -
     title: "Large-Scale Evaluation of Keyphrase Extraction Models."
     url: "https://hal.archives-ouvertes.fr/hal-02878953"
     link: "https://github.com/ygorg/JCDL_2020_KPE_Eval"
-    authors: "Ygor Gallina, Florian Boudin, Béatrice Daille."
+    authors: "Ygor Gallina, Florian Boudin, and Béatrice Daille."
     journal: "ACM/IEEE Joint Conference on Digital Libraries (JCDL)"
     date: "Aug. 2020"
   -
-    title: " Keyphrase Generation for Scientific Document Retrieval."
+    title: "Keyphrase Generation for Scientific Document Retrieval."
     url: "https://hal.archives-ouvertes.fr/hal-02556086"
     link: "https://github.com/boudinfl/ir-using-kg"
-    authors: "Florian Boudin, Ygor Gallina, Akiko Aizawa."
+    authors: "Florian Boudin, Ygor Gallina, and Akiko Aizawa."
     journal: "58th Annual Meeting of the Association for Computational Linguistics (ACL)"
     date: "Jul. 2020"
   -
