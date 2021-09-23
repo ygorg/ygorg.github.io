@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📰 KPTimes : News Article for Keyphrase Generation"
+title:  "📰 KPTimes : News Article for Keyphrase Generation"
 date:   2019-10-28 15:11:50 +0900
 ---
 
