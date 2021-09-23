@@ -21,20 +21,20 @@
 title: ygor.gallina
 email: ygor.gallina@univ-nantes.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ygorg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: ygorg
-profile_picture: assets/portrait.jpg
 # Build settings
-#theme: minima
-theme: academic-minima
+theme: minima
 plugins:
   - jekyll-feed
 #  - jekyll-last-modified-at  # Not supported anymore by github
 
-social_links:
-  github:  ygorg
+show_drafts: false
+
+minima:
+  social_links:
+    github:  ygorg
 
 links:
   -

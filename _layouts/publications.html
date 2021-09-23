@@ -2,6 +2,18 @@
 layout: default
 ---
 
+<style>
+ul.publications { list-style: none; margin: 0; }
+ul.publications li { margin-bottom: 16px; }
+ul.publications .title { display: block; }
+ul.publications .authors { display: block; font-style: italic; }
+ul.publications .journal-info { color: #828282; font-size: 0.9rem; }
+ul.publications .year { float: right; color: #828282; font-size: 0.9rem; }
+.publication { padding-bottom: 1.5em; }
+
+</style>
+
+
 <ul class="publications">
 {% for paper in page.papers %}
   <li class="article">
