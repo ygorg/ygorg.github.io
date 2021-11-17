@@ -52,8 +52,10 @@
 		
 		.incorrect {
 			border: 3px solid red !important;
+			color: red;
+			font-weight: bolder;
 		}
-		
+
 		.headband {
 			display: block;
 			position: sticky;
@@ -62,10 +64,17 @@
 			right: 0;
 			height: 50px;
 		}
-		
-		.refreshButton {
+
+
+		.headband .headband-content {
 			display: block;
-			margin-top: 20px;
+			margin: auto;
+			text-align: center;
+		}
+
+		.headband .headband-content .refreshButton {
+			display: inline-block;
+			margin-top: 5px;
 			margin-left: auto;
 			margin-right: auto;
 			width: 100px;
@@ -73,6 +82,17 @@
 			background-color: #fafafa;
 			border: 1px solid #999;
 			border-radius: 10px;
+		}
+
+		.headband .headband-content .completionRate {
+			display: inline-block;
+			border-bottom: 1px dotted #999;
+			background-color: #fafafa;
+			color: #999;
+			width: 50px;
+			height: 20px;
+			margin-left: 20px;
+			border-radius: 5px;
 		}
 
 		td {
@@ -86,45 +106,63 @@
 			border-collapse: collapse;
 		}
 
-    .edge-left {
-    	border-left: 2px solid black;
-    }
+		#image_table td {
+			cursor: pointer;
+		}
 
-    .edge-right {
-    	border-right: 2px solid black;
-    }
+		.edge-left {
+			border-left: 2px solid black;
+		}
 
-    .edge-top {
-    	border-top: 2px solid black;
-    }
-    .edge-bottom {
-    	border-bottom: 2px solid black;
-    }
+		.edge-right {
+			border-right: 2px solid black;
+		}
+
+		.edge-top {
+			border-top: 2px solid black;
+		}
+		.edge-bottom {
+			border-bottom: 2px solid black;
+		}
+		#copied_msg {
+			background-color: white;
+			position: absolute;
+			display: none;
+		}
    </style>
 </head>
 <body>
 	<div class="loading hidden">
-		<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="circle-notch" class="icon spin" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-			<path fill="currentColor" d="M512 256c0 141.2-114.8 256-256 256s-256-114.8-256-256c0-112.4 75.19-213.4 182.9-245.4c16.94-5.047 34.75 4.641 39.78 21.55c5.062 16.94-4.594 34.75-21.53 39.8C120.4 95.97 64 171.7 64 256c0 105.9 86.13 192 192 192s192-86.13 192-192c0-84.34-56.38-160-137.1-184c-16.94-5.047-26.59-22.86-21.53-39.8c5.031-16.91 22.84-26.56 39.78-21.55C436.8 42.64 512 143.6 512 256z"></path>
+		<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="circle-notch" class="icon spin"
+			role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+			<path fill="currentColor"
+				d="M512 256c0 141.2-114.8 256-256 256s-256-114.8-256-256c0-112.4 75.19-213.4 182.9-245.4c16.94-5.047 34.75 4.641 39.78 21.55c5.062 16.94-4.594 34.75-21.53 39.8C120.4 95.97 64 171.7 64 256c0 105.9 86.13 192 192 192s192-86.13 192-192c0-84.34-56.38-160-137.1-184c-16.94-5.047-26.59-22.86-21.53-39.8c5.031-16.91 22.84-26.56 39.78-21.55C436.8 42.64 512 143.6 512 256z">
+			</path>
 		</svg>
 	</div>
-	
+
 	<div class="headband">
-		<button class="refreshButton" onclick="refreshPixels();">
-			Rafraîchir
-		</button>
+		<div class="headband-content">
+			<button class="refreshButton" onclick="refreshPixels();">
+				Rafraîchir
+			</button>
+			<div class="completionRate">
+				<span class="completionRateValue"></span> %
+			</div>
+
+		</div>
+
 	</div>
+	<div id="copied_msg">Copié</div>
+	
 	<table id="image_table"></table>
 
-Crédit : SheeroChana#6208
-
-<!-- <img src='DirtyBiology.png'></img> -->
-
-<a href="/Users/ygorgallina/Documents/Prog/ygorg.github.io/plop/terres_fertiles.py">Source</a>
+Crédit : SheeroChana#6208, ZeRemz#0434, Adalon#9161
 
 </body>
 
 <script>
+	// ZeRemz#0434 (édité par ra1nbowpill#7214)
 	const row0 = 151;
 	const col0 = 241;
 	const maxRow = 250;
@@ -137,6 +175,11 @@ Crédit : SheeroChana#6208
 	
 	function hideSpinner() {
 		spinner.classList.add('hidden');
+	}
+
+	const completionRateValue = document.body.getElementsByClassName('completionRateValue')[0];
+		function setCompletionRate(value) {
+			completionRateValue.innerText = (100 * value).toLocaleString(undefined, { maximumFractionDigits: 0 });
 	}
 	
 	function getClassValue (element, prefix) {
@@ -174,10 +217,13 @@ Crédit : SheeroChana#6208
 	}
 
 	function isSameColor(currentColor, myColor) {
-    a = hexToRGB(currentColor);
-    b = hexToRGB(myColor);
-    diff = 0; for (var i = 0; i < a.length; i++) {diff += a[i] - b[i]}
-        return diff < 10;
+		a = hexToRGB(currentColor);
+		b = hexToRGB(myColor);
+		diff = 0;
+		for (var i = 0; i < a.length; i++) {
+			diff += a[i] - b[i];
+		}
+		return diff < 10;
     }
 
 	function isSameColor(currentColor, myColor) {
@@ -198,22 +244,34 @@ Crédit : SheeroChana#6208
 		
 		const currentColor = currentPixel.hexColor.toLowerCase();
 		const referenceColor = '#' + cell.textContent.split(' ')[1].toLowerCase();
-		if(!isSameColor(referenceColor, currentColor)) {
-			cell.classList.add('incorrect');
-		}
-		else {
+		const isSame = isSameColor(referenceColor, currentColor);
+		if (isSame) {
 			cell.classList.remove('incorrect');
 		}
+		else {
+			cell.classList.add('incorrect');
+		}
+
+		return isSame;
 	}
 	
 	function onRequestSuccess(request) {
 		const allPixels = JSON.parse(request.responseText);
 		const allCells = document.getElementById("image_table").getElementsByTagName('td');
-		for(const cell of allCells) {
-			processCell(cell, allPixels);
+
+		let nbCorrect = 0;
+		let nbTotal = 0;
+		for (const cell of allCells) {
+			if (processCell(cell, allPixels)) {
+				nbCorrect++;
+			}
+			nbTotal++;
 		}
-		
-		const loading = document.body.getElementsByClassName('loading')[0];
+
+
+		setCompletionRate(nbCorrect / nbTotal);
+
+		console.log('refresh complete');
 		hideSpinner();
 	}
 	
@@ -239,6 +297,29 @@ Crédit : SheeroChana#6208
 		console.log('refresh complete');
 	}
 
+
+	var msg_timer = null;
+	function display_copied_msg(x, y) {
+		let msg_div = document.getElementById('copied_msg');
+		msg_div.style.left = x + 'px';
+		msg_div.style.top = y + 'px';
+		msg_div.style.display = 'block';
+		if (msg_timer) {
+			clearTimeout(msg_timer);
+			msg_timer = null;
+		}
+		msg_timer = setTimeout(function() {
+		   msg_div.style.display = 'none';
+		   msg_timer = null;
+		}, 500);
+	}
+
+	function copyToClipboard(e) {
+		navigator.clipboard.writeText(e.currentTarget.getElementsByClassName('color')[0].innerText);
+		display_copied_msg(e.x, e.y);
+	}
+
+
 	function construct_table() {
 		var table = document.getElementById('image_table');
 		var row = null, cell = null;
@@ -247,21 +328,22 @@ Crédit : SheeroChana#6208
 			for (var j = 0; j < img_color[i].length; j++) {
 				cell = document.createElement('td');
 
-				cell.innerHTML = (col0+j) + ":" + (row0+i) + ' ' + img_color[i][j].substring(1);
+				cell.innerHTML = `${col0 + j}:${row0 + i} <span class="color">${img_color[i][j].substring(1)}</span>`;
 				cell.style.background = img_color[i][j];
 				if (j % 10 === 0) {
-        	cell.classList.add('edge-left')
+        			cell.classList.add('edge-left');
 				} else if ((j + 1) % 10 === 0) {
-        	cell.classList.add('edge-right')
-    		}
-    		if (i % 10 === 0) {
-        	cell.classList.add('edge-top')
-    		} else if ((i + 1) % 10 === 0) {
-        	cell.classList.add('edge-bottom')
-    		}
-    		cell.classList.add(`row${i}`)
-    		cell.classList.add(`col${j}`)
-    	  row.appendChild(cell)
+        			cell.classList.add('edge-right');
+    			}
+	    		if (i % 10 === 0) {
+	        		cell.classList.add('edge-top');
+	    		} else if ((i + 1) % 10 === 0) {
+	        		cell.classList.add('edge-bottom');
+    			}
+	    		cell.classList.add(`row${i}`);
+	    		cell.classList.add(`col${j}`);
+	    		cell.onclick = copyToClipboard;
+    	  		row.appendChild(cell);
 			}
 			table.appendChild(row)
 		}
