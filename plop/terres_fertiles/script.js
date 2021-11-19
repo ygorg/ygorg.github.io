@@ -159,16 +159,16 @@ function minMaxRowCol() {
 
 function imageToPixelTable(img) {
 	/* Convert an <img> to a RGB pixel matrix */
-	var canvas = document.createElement('canvas');
+	const canvas = document.createElement('canvas');
 	canvas.style.display = 'none';
 	document.body.appendChild(canvas);
-	var ctx = canvas.getContext('2d');
+	const ctx = canvas.getContext('2d');
 	canvas.width = img.width;
 	canvas.height = img.height;
 	ctx.drawImage(img, 0, 0);
-	var imgd = ctx.getImageData(0, 0, img.width, img.height);
+	const imgd = ctx.getImageData(0, 0, img.width, img.height).data;
+	console.log(imgd);
 	var pixels = [], acc = null;
-	imgd = img.data;
 	for (var i = 0; i < img.height; i++) {
 		acc = [];
 		for (var j = 0; j < img.width; j++) {
