@@ -1,0 +1,159 @@
+body {
+	position:  relative;
+}
+
+.loading {
+	display: block;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 1000;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hidden {
+	display: none !important;
+}
+
+@keyframes spin-icon {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+	transform: rotate(359deg);
+	}
+}
+
+.icon {
+	width: 10em;
+	height: 10em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%), translateY(-50%);
+	color: #fafafa;
+	opacity: 0.3;
+}
+
+.spin {
+	animation-name: spin-icon;
+	animation-delay: 0;
+	animation-direction: normal;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+
+.incorrect {
+	border: 3px solid red !important;
+	color: red;
+	font-weight: bolder;
+}
+
+.headband {
+	display: block;
+	position: sticky;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 50px;
+}
+
+
+.headband .headband-content {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+.headband .headband-content .refreshButton {
+	display: inline-block;
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+	height: 30px;
+	background-color: #fafafa;
+	border: 1px solid #999;
+	border-radius: 10px;
+}
+
+.headband .headband-content .colorThresholdEditor {
+	display: inline-block;
+	background-color: #fafafa;
+	color: black;
+	padding: 5px 15px;
+	margin-left: 20px;
+	border-radius: 15px;
+}
+
+.headband .headband-content .colorThresholdEditor input {
+	display: inline;
+	margin-left: 10px;
+	background-color: #fff;
+	width: 50px;
+	height: 20px;
+	line-height: 20px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+.headband .headband-content .completionRate {
+	display: inline-block;
+	border-bottom: 1px dotted #999;
+	background-color: #fafafa;
+	color: #999;
+	width: 50px;
+	height: 20px;
+	margin-left: 20px;
+	border-radius: 5px;
+}
+
+td {
+	border: 2px solid white;
+	text-align: center;
+	font-size: .75em;
+	padding: 5px 2px 5px 2px;
+}
+
+#image_table {
+	border-collapse: collapse;
+}
+
+#image_table td {
+	cursor: pointer;
+}
+
+.edge-left {
+	border-left: 2px solid black;
+}
+
+.edge-right {
+	border-right: 2px solid black;
+}
+
+.edge-top {
+	border-top: 2px solid black;
+}
+.edge-bottom {
+	border-bottom: 2px solid black;
+}
+
+#copied_msg {
+	position: fixed;
+	background-color: white;
+	color: #333;
+	padding: 5px 10px;
+	text-align: center;
+	border: 1px solid #999;
+	border-radius: 5px;
+	opacity: 0.8;
+}
+
+#copied_msg.fade {
+	opacity: 0;
+	transition: opacity 0.5s linear;
+	display: block !important;
+}
