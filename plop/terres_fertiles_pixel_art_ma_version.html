@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <meta charset="utf-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <title>Terres Fertiles</title>
-   <script type="text/javascript" src="terres_fertiles_img.json"></script>
-   <style>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Terres Fertiles</title>
+	<script type="text/javascript" src="terres_fertiles_img.json"></script>
+	<style>
 
    	body {
    		position:  relative;
@@ -36,14 +36,14 @@
 		}
 		
 		.icon {
-		  width: 10em;
-		  height: 10em;
-		  position: absolute;
-		  top: 50%;
-		  left: 50%;
-		  transform: translateX(-50%), translateY(-50%);
-		  color: #fafafa;
-		  opacity: 0.3;
+			width: 10em;
+			height: 10em;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translateX(-50%), translateY(-50%);
+			color: #fafafa;
+			opacity: 0.3;
 		}
 		
 		.spin {
@@ -166,9 +166,87 @@
 			transition: opacity 0.5s linear;
 			display: block !important;
 		}
-   </style>
+	</style>
 </head>
 <body>
+
+	<div>
+		<input type="file" id="candidate" accept="image/*">
+		<button onclick="addItem()">add item</button>
+
+		<ul id="dynamic-list"></ul>
+	</div>
+	<script type="text/javascript">
+
+		function removeItem(e){
+			var li = e.currentTarget.parentNode;
+			li.parentNode.removeChild(li);
+		}
+
+		function imageToPixelTable(img) {
+			var canvas = document.createElement('canvas');
+			canvas.style.display = 'none';
+			document.body.appendChild(canvas);
+			var ctx = canvas.getContext('2d');
+			canvas.width = img.width;
+			canvas.height = img.height;
+			ctx.drawImage(img, 0, 0);
+			var imgd = ctx.getImageData(0, 0, img.width, img.height).data;
+			var pixels = [], acc = null;
+			for (var i = 0; i < img.height; i++) {
+				acc = [];
+				for (var j = 0; j < img.width; j++) {
+					//var tmp = ctx.getImageData(j, i, 1, 1).data;
+
+					var idx = (i * img.width + j) * 4;
+					var tmp = '#' + rgbToHex(imgd[idx], imgd[idx+1], imgd[idx+2])
+					acc.push(tmp);
+				}
+				pixels.push(acc);
+			}
+			return pixels;
+		}
+
+		function change_displayed_image(e) {
+			var data = e.currentTarget.parentNode.getElementsByClassName('json_img')[0];
+			data = JSON.parse(data.textContent);
+			construct_table(data);
+		}
+
+		document.getElementById('candidate').addEventListener("change", function(e) {
+			let file_name  = this.files[0].name;
+			let file = this.files[0];
+			const reader = new FileReader();
+			reader.addEventListener("load", (e) => {
+				var img = new Image();
+				img.src = e.target.result;
+				img.style.display = 'none';
+
+				var d = document.createElement('div');
+				d.classList.add('json_img');
+				var pixels = imageToPixelTable(img)
+				d.innerHTML = JSON.stringify(pixels);
+				d.style.display = 'none';
+
+				var li = document.createElement("li");
+				var span = document.createElement('span');
+				span.textContent = file_name;
+				span.onclick = change_displayed_image;
+				li.appendChild(span);
+
+				var rem_button = document.createElement('button');
+				rem_button.textContent = 'Supprimer';
+				rem_button.onclick = removeItem;
+				li.appendChild(rem_button);
+				li.appendChild(img);
+				li.appendChild(d);
+
+				document.getElementById("dynamic-list").appendChild(li);
+			});
+			reader.readAsDataURL(file);
+		});
+	</script>
+
 	<div class="loading hidden">
 		<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="circle-notch" class="icon spin" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 			<path fill="currentColor" d="M512 256c0 141.2-114.8 256-256 256s-256-114.8-256-256c0-112.4 75.19-213.4 182.9-245.4c16.94-5.047 34.75 4.641 39.78 21.55c5.062 16.94-4.594 34.75-21.53 39.8C120.4 95.97 64 171.7 64 256c0 105.9 86.13 192 192 192s192-86.13 192-192c0-84.34-56.38-160-137.1-184c-16.94-5.047-26.59-22.86-21.53-39.8c5.031-16.91 22.84-26.56 39.78-21.55C436.8 42.64 512 143.6 512 256z">
@@ -186,7 +264,13 @@
 				<input id="colorThresholdInput" type="number" value="10">
 			</div>
 			<div class="completionRate">
-				<span class="completionRateValue">75</span> %
+				<span class="completionRateValue"></span> %
+			</div>
+			<div class="originCoordEditor">
+				<label for="originCoordX">Lig</label>
+				<input type="number" id="originCoordX" value="151">
+				<label for="originCoordY">Col</label>
+				<input type="number" id="originCoordY" value="241">
 			</div>
 
 		</div>
@@ -200,10 +284,11 @@ Crédit : SheeroChana#6208, ZeRemz#0434, Adalon#9161
 
 <script>
 	// ZeRemz#0434 (édité par ra1nbowpill#7214)
-	const row0 = 151;
-	const col0 = 241;
-	const maxRow = 250;
-	const maxCol = 290;
+	/*const maxRow = 250;
+	const maxCol = 290;*/
+
+	const originRow = document.getElementById('originCoordX');
+	const originCol = document.getElementById('originCoordY');
 
 	const spinner = document.body.getElementsByClassName('loading')[0];
 	function showSpinner() {
@@ -235,22 +320,37 @@ Crédit : SheeroChana#6208, ZeRemz#0434, Adalon#9161
 		return getClassValue(element, 'col');
 	}
 	
+	/* From https://joeetuso.medium.com/javascript-algorithms-convert-rgb-to-hex-79772e554914 */
+	function decToHex(value) {
+		if (value > 255) {
+			return 'FF';
+		} else if (value < 0) {
+			return '00';
+		} else {
+			return value.toString(16).padStart(2, '0').toUpperCase();
+		}
+	}
+
+	function rgbToHex(r, g, b) {
+		return decToHex(r) + decToHex(g) + decToHex(b);
+	}
+
 	function hexToRGB (hex) {
-	   let r = 0, g = 0, b = 0;
-	   // handling 3 digit hex
-	   if(hex.length == 4){
-	      r = "0x" + hex[1] + hex[1];
-	      g = "0x" + hex[2] + hex[2];
-	      b = "0x" + hex[3] + hex[3];
-	      // handling 6 digit hex
-	   }else if (hex.length == 7){
+		let r = 0, g = 0, b = 0;
+		// handling 3 digit hex
+		if(hex.length == 4){
+			r = "0x" + hex[1] + hex[1];
+			g = "0x" + hex[2] + hex[2];
+			b = "0x" + hex[3] + hex[3];
+			// handling 6 digit hex
+		}else if (hex.length == 7){
 
-	      r = "0x" + hex[1] + hex[2];
-	      g = "0x" + hex[3] + hex[4];
-	      b = "0x" + hex[5] + hex[6];
-	   };
+			r = "0x" + hex[1] + hex[2];
+			g = "0x" + hex[3] + hex[4];
+			b = "0x" + hex[5] + hex[6];
+		};
 
-	   return [+r, +g, +b];
+		return [+r, +g, +b];
 	}
 
 	const colorThresholdInput = document.getElementById('colorThresholdInput');
@@ -261,9 +361,8 @@ Crédit : SheeroChana#6208, ZeRemz#0434, Adalon#9161
 		for (var i = 0; i < a.length; i++) {
 			diff += Math.abs(a[i] - b[i]);
 		}
-
 		return diff < colorThresholdInput.value;
-    }
+    	}
 
 	/* function isSameColor(currentColor, myColor) {
 	 	return currentColor === myColor;
@@ -273,8 +372,8 @@ Crédit : SheeroChana#6208, ZeRemz#0434, Adalon#9161
 	function processCell(cell, allPixels) {
 		const row = getRow(cell);
 		const col = getCol(cell);
-		const x = col0 + col;
-		const y = row0 + row;
+		const x = parseInt(originCol.value) + col;
+		const y = parseInt(originRow.value) + row;
 		
 		const currentPixel = allPixels.find(px => px.x === x && px.y === y);
 		if(!currentPixel) {
@@ -294,6 +393,24 @@ Crédit : SheeroChana#6208, ZeRemz#0434, Adalon#9161
 
 		return isSame;
 	}
+
+	function minMaxRowCol() {
+		const allCells = document.getElementById("image_table").getElementsByTagName('td');
+		let row = parseInt(allCells[0].innerText.split(' ')[0].split(':')[0]);
+		let col = parseInt(allCells[0].innerText.split(' ')[0].split(':')[1]);
+		var min_r = row, max_r = row;
+		var min_c = col, max_c = col;
+		var r, c;
+		for (var i = 1; i < allCells.length; i++) {
+			r = parseInt(allCells[i].innerText.split(' ')[0].split(':')[0]);;
+			c = parseInt(allCells[i].innerText.split(' ')[0].split(':')[1]);
+			min_r = Math.min(r, min_r);
+			max_r = Math.max(r, max_r);
+			min_c = Math.min(c, min_c);
+			max_c = Math.max(c, max_c);
+		}
+		return [min_r, max_r, min_c, max_c];
+	}
 	
 	function onRequestSuccess(request) {
 		const allPixels = JSON.parse(request.responseText);
@@ -308,7 +425,6 @@ Crédit : SheeroChana#6208, ZeRemz#0434, Adalon#9161
 			nbTotal++;
 		}
 
-
 		setCompletionRate(nbCorrect / nbTotal);
 
 		console.log('refresh complete');
@@ -317,7 +433,9 @@ Crédit : SheeroChana#6208, ZeRemz#0434, Adalon#9161
 	
 	function makeRequest() {
 		const request = new XMLHttpRequest();
-		const requestUrl = `https://api.codati.ovh/pixels/zone/?minx=${col0}&miny=${row0}&maxx=${maxCol}&maxy=${maxRow}`;
+		// for each cell get row/col and min/max
+		const [minCol, maxCol, minRow, maxRow] = minMaxRowCol();
+		const requestUrl = `https://api.codati.ovh/pixels/zone/?minx=${minCol}&miny=${minRow}&maxx=${maxCol}&maxy=${maxRow}`;
 		request.open('get', requestUrl, true);
 		request.onload = () => onRequestSuccess(request);
 		request.onerror = () => {
@@ -359,37 +477,63 @@ Crédit : SheeroChana#6208, ZeRemz#0434, Adalon#9161
 		display_copied_msg(e.x, e.y);
 	}
 
-
-	function construct_table() {
+	function construct_table(img_color) {
+		const minCol = parseInt(originCol.value), minRow = parseInt(originRow.value);
 		var table = document.getElementById('image_table');
+		table.innerHTML = '';
 		var row = null, cell = null;
 		for (var i = 0; i < img_color.length; i++) {
 			row = document.createElement('tr')
 			for (var j = 0; j < img_color[i].length; j++) {
 				cell = document.createElement('td');
 
-				cell.innerHTML = `${col0 + j}:${row0 + i} <span class="color">${img_color[i][j].substring(1)}</span>`;
+				cell.innerHTML = `${minCol + j}:${minRow + i} <span class="color">${img_color[i][j].substring(1)}</span>`;
 				cell.style.background = img_color[i][j];
 				if (j % 10 === 0) {
-        			cell.classList.add('edge-left');
+					cell.classList.add('edge-left');
 				} else if ((j + 1) % 10 === 0) {
-        			cell.classList.add('edge-right');
-    			}
-	    		if (i % 10 === 0) {
-	        		cell.classList.add('edge-top');
-	    		} else if ((i + 1) % 10 === 0) {
-	        		cell.classList.add('edge-bottom');
-    			}
-	    		cell.classList.add(`row${i}`);
-	    		cell.classList.add(`col${j}`);
-	    		cell.onclick = copyToClipboard;
-    	  		row.appendChild(cell);
+					cell.classList.add('edge-right');
+				}
+				if (i % 10 === 0) {
+					cell.classList.add('edge-top');
+				} else if ((i + 1) % 10 === 0) {
+					cell.classList.add('edge-bottom');
+				}
+				cell.classList.add(`row${i}`);
+				cell.classList.add(`col${j}`);
+				cell.onclick = copyToClipboard;
+				row.appendChild(cell);
 			}
 			table.appendChild(row)
 		}
 	}
-	
-	(function() { construct_table(); })();
+
+	(function() {
+		var url = new URL(window.location.href);
+		var params = url.searchParams;
+		var data = img_color;
+
+		if (params.has('x')) {
+			originRow.value = params.get('x')
+		}
+		if (params.has('y')) {
+			originCol.value = params.get('y')
+		}
+		if (params.has('img')) {
+			console.log('loading the image')
+
+			var img = new Image();
+			img.onload = function(e){
+				imageToPixelTable(e.target)
+				construct_table(data);
+			};
+			img.src = params.get('img')
+			//data = imageToPixelTable(img)
+		}
+
+		//construct_table(data);
+		//refreshPixels();
+	})();
 	
 </script>
 </body>

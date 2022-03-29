@@ -30,8 +30,6 @@ plugins:
   - jekyll-feed
 #  - jekyll-last-modified-at  # Not supported anymore by github
 
-show_drafts: false
-
 minima:
   social_links:
     github:  ygorg

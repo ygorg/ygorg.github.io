@@ -90,6 +90,13 @@ function construct_table(img_color) {
 	}
 }
 
+function update_table() {
+	const img = document.getElementById('sourceImg')
+	var pixels = imageToPixelTable(img)
+	construct_table(pixels);
+}
+
+
 /* ---------------- */
 /* Image processing */
 /* ---------------- */
@@ -183,7 +190,7 @@ function imageToPixelTable(img) {
 }
 
 /* ------------------ */
-/* Comaprison to flag */
+/* Comparison to flag */
 /* ------------------ */
 
 
@@ -260,7 +267,63 @@ function refreshPixels() {
 
 // We should wait until the image is loaded
 document.body.onload = function() {
-	var img = document.getElementById('sourceImg')
-	var pixels = imageToPixelTable(img)
-	construct_table(pixels);
+	update_table();
 };
+
+
+const dropArea = document.body;
+
+(function(){
+
+    // gestionnaires
+    function initHandlers() {
+        dropArea.ondrop = handleDrop;
+        dropArea.ondragover = handleDragOver;
+        dropArea.ondragenter = handleDragOver;
+        dropArea.ondragend = e => {
+        	dropArea.classList.remove('hover');
+        };
+        dropArea.ondragleave = dropArea.ondragend;
+    }
+
+    // survol lors du déplacement
+    function handleDragOver(event) {
+        event.stopPropagation();
+        event.preventDefault();
+        console.log(event);
+        dropArea.classList.add('hover');
+    }
+
+    // glisser déposer
+    function handleDrop(event) {
+        event.stopPropagation();
+        event.preventDefault();
+		dropArea.classList.remove('hover');
+		if (event.dataTransfer.files.length != 1) {
+			console.log('Too much !')
+			return;
+		}
+		const file = event.dataTransfer.files[0];
+		console.log('One doc was dropped' + file.name);
+		var reader = new FileReader();
+		reader.onload = e => {
+			console.log('File was loaded !')
+			const img = document.getElementById('sourceImg')
+			img.src = e.target.result;
+			console.log(img.width, img.height);
+			if (img.width > 400 || img.height > 400) {
+				alert('Images need to be < to 400 pixels wide or tall.')
+				return;
+			}
+
+			update_table();
+		};
+		reader.readAsDataURL(file);
+    }
+
+    function validDragDrop(e) {
+
+    }
+
+    initHandlers();
+})();

@@ -1,7 +1,7 @@
 # Inspiration de https://sites.google.com/view/coeurhistorique/accueil
 import matplotlib.pyplot as plt
 import pandas as pd
-
+import json
 
 def rgb_to_hex(rgb):
     return '%02x%02x%02x' % rgb
@@ -58,9 +58,13 @@ for i in range(img.shape[0]):
     for j in range(img.shape[1]):
         # Convertis les composants RGB de l'image en hexa (avec les coordonés)
         hex_ = rgb_to_hex(tuple(map(int, img[i, j, :3] * 255)))
-        acc.append(f'{j+orig_x}:{i+orig_y} {hex_}')
+        acc.append('#' + hex_)
+        #acc.append(f'{j+orig_x}:{i+orig_y} {hex_}')
     data.append(acc)
+print('const img_color = ' + json.dumps(data).replace('], [', '],\n\t[').replace('[[', '[\n\t[').replace(']]', ']\n]'))
 
+
+'''
 # On utilise pandas pour convertir notre tableau en tableau HTML et colorer les cases
 df = pd.DataFrame(data)
 
@@ -109,3 +113,4 @@ Crédit : SheeroChana#6208
 
 </body>
 """.format(file_img, __file__))
+'''
