@@ -28,7 +28,6 @@ url: "http://ygorg.github.io" # the base hostname & protocol for your site, e.g.
 theme: minima
 plugins:
   - jekyll-feed
-#  - jekyll-last-modified-at  # Not supported anymore by github
 
 minima:
   social_links:
@@ -39,6 +38,13 @@ links:
     title: github
     url: http://github.com/ygorg
 
+include:
+  -
+    _teaching
+
+header_pages:
+  - publications.md
+  - teaching.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
