@@ -29,14 +29,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  social_links:
-    github:  ygorg
-
-links:
-  -
-    title: github
-    url: http://github.com/ygorg
+github_username: ygorg
 
 include:
   -
