@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications
 papers:
   -
+    title: "End-to-end indexation in scientific digital libraries."
+    url: "https://hal.archives-ouvertes.fr/tel-03667015/document"
+    authors: "Ygor Gallina."
+    journal: "PhD defended at Nantes Université"
+    date: "Mar. 2022"
+  -
     title: "Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness."
     url: "https://dx.doi.org/10.18653/v1/2020.acl-main.105"
     link: "https://github.com/boudinfl/redefining-absent-keyphrases"

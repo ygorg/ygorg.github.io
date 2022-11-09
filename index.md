@@ -13,8 +13,10 @@ layout: home
 
 ![portrait](/assets/portrait.jpg){: .profile-picture }
 
-I am a PhD Student of Computer Science at the University of Nantes, France. The name of my PhD is "End-to-end indexation in scientific digital libraries" ("Indexation de bout-en-bout dans les bibliothèques scientifiques numériques"). My research topic is keyphrase extraction and lies within the Natural Language Processing field.
+I am a Natural Language Processing researcher and am interested in hateful speech detection, model bias detection/mitigation and keyphrase extraction.
 
-trajectory: BsC student at [AMU](https://www.univ-amu.fr) -> MsC student at [UN](https://www.univ-nantes.fr) -> PhD student at [LS2N](https://www.ls2n.fr)
+I have a temporary position as teacher and researcher in the Computer Science department of Nantes Université in Nantes, France. It follows my PhD "End-to-end indexation in scientific digital libraries" ("Indexation de bout-en-bout dans les bibliothèques scientifiques numériques").
+
+trajectory: BsC student at [AMU](https://www.univ-amu.fr) -> MsC student at [NU](https://www.univ-nantes.fr) -> PhD student at [LS2N](https://www.ls2n.fr) -> ATER at [NU](https://www.univ-nantes.fr)
 
 cv: [download](assets/cv_en.pdf)
