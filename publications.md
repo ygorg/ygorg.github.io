@@ -8,7 +8,7 @@ papers:
     url: "https://dx.doi.org/10.18653/v1/2020.acl-main.105"
     link: "https://github.com/boudinfl/redefining-absent-keyphrases"
     authors: "Florian Boudin, and Ygor Gallina."
-    journal: "2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HTL)"
+    journal: "2021 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT)"
     date: "Jun. 2021"
   -
     title: "Large-Scale Evaluation of Keyphrase Extraction Models."
