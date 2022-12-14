@@ -19,6 +19,9 @@ permalink: /teaching
 
 * [Sujet TP2]({% link _teaching/X11I020_TP2.md %})
 
+## X3IT070 Projet (M2 ATAL)
+* [Sujet 2022]({% link _teaching/X3IT070_2022_Sujet_projet.pdf %})
+
 ## Traitement du langage naturel (5A Polytech)
 
 ### 2021-2020
