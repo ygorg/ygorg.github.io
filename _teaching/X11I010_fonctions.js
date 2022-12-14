@@ -91,7 +91,7 @@ function has_win(player_x, finish_line_x) {
 function move_player() {
   // Si on écrit "var position_x;" alors la variable globale position_x ne sera
   //  pas modifiée 
-  return position_x + 1;
+  position_x = position_x + 1;
 }
 
 // Affiche un message pour signifier que le jeu est gagné
