@@ -21,10 +21,9 @@ permalink: /teaching
 
 ## X3IT070 Projet (M2 ATAL)
 * [Sujet 2022]({% link _teaching/X3IT070_2022_Sujet_projet.pdf %})
+* [Sujet 2023]({% link _teaching/X3IT070_2023_Sujet_projet.pdf %})
 
 ## Traitement du langage naturel (5A Polytech)
-
-### 2021-2020
 
 * [Installation de python]({% link _teaching/HAX5-31_2021_Installation_python_libraries.md %})
 * [Sujet TP]({% link _teaching/HAX5-31_2021_TP.md %})
