@@ -19,6 +19,11 @@ permalink: /teaching
 
 * [Sujet TP2]({% link _teaching/X11I020_TP2.md %})
 
+## Sujet TER
+* [Sujet 2023]({% link _teaching/TER_2023_tweet_offenssif_contexte.pdf %})
+* [Sujet 2024]({% link _teaching/TER_2024_morpho.pdf %})
+
+
 ## X3IT070 Projet (M2 ATAL)
 * [Sujet 2022]({% link _teaching/X3IT070_2022_Sujet_projet.pdf %})
 * [Sujet 2023]({% link _teaching/X3IT070_2023_Sujet_projet.pdf %})
