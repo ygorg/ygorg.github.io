@@ -19,6 +19,9 @@ permalink: /teaching
 
 * [Sujet TP2]({% link _teaching/X11I020_TP2.md %})
 
+## X22I030 Systèmes d'Exploitation (L2 Info)
+* [Sujet TP11]({% link _teaching/X22I030_TP11_memoire.md %})
+
 ## Sujet TER
 * [Sujet 2023]({% link _teaching/TER_2023_tweet_offenssif_contexte.pdf %})
 * [Sujet 2024]({% link _teaching/TER_2024_morpho.pdf %})
