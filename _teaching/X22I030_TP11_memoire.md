@@ -20,6 +20,8 @@ La mémoire virtuelle d'un processus est constituée d'un ensemble de _régions_
 	2. assignez l'adresse de chaque variable à la zone mémoire
 	3. nommez les zones mémoires selon ce qu'elles contiennent
 
+Vous devez créer un fichier texte de cette forme (vous pouvez convertir les adresses en décimal):
+
 ```
 2b6a - 4b1a : Variables
 	2b6a : x
@@ -30,10 +32,11 @@ La mémoire virtuelle d'un processus est constituée d'un ensemble de _régions_
 
 7. Quelles sont les adresses des cases 0, 1 et 2 du tableau `tab` ? Qu'ont-elles de particulier ?
 8. Quelle est la différence entre l'adresse de `a` dans `une_fonction` et `une_fonction2` ? A quoi est-elle due ?
+9. Dans la carte de la mémoire a quoi correspond le chiffre avant le chemin de l'executable ?
 
-8. Pour aller plus loin: Que se passe-t-il dans la carte de la mémoire lorsqu'un thread est créé ?
+10. Pour aller plus loin: Que se passe-t-il dans la carte de la mémoire lorsqu'un thread est créé ?
 
-Vous devriez avoir un fichier de cette forme:
+**Remarque**: le système UNIX associe un numéro à chaque fichier sur le disque. Ce numéro (appelé numéro d'_i-node_) peut être visualisé en utilisant l'option -i de la commande `ls`.
 
 ```cpp
 #include <iostream>
