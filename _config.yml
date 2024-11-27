@@ -34,12 +34,14 @@ github_username: ygorg
 include:
   -
     _teaching
+  - 
+    plop
 
 header_pages:
   - publications.md
   - teaching.md
   - hobbies.md
-  - plop_dummy.md
+  - plop/index.html
 
 # Display posts which date > now
 future: true
