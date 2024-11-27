@@ -39,7 +39,7 @@ header_pages:
   - publications.md
   - teaching.md
   - hobbies.md
-  - plop.md
+  - plop_dummy.md
 
 # Display posts which date > now
 future: true
