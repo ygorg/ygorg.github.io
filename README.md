@@ -1,5 +1,8 @@
 https://github.com/rbenv/rbenv#readme
+
+```bash
 gem install bundler jekyll
-cf ygorg.github.io
+cd ygorg.github.io
 bundle install
 bundle exec jekyll serve
+```

@@ -38,6 +38,15 @@ include:
 header_pages:
   - publications.md
   - teaching.md
+  - hobbies.md
+  - plop.md
+
+# Display posts which date > now
+future: true
+
+collections:
+  hobbies:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

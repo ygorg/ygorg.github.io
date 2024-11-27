@@ -1,0 +1,36 @@
+---
+layout: post
+---
+
+<style>
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+}
+</style>
+
+{% assign tmp = page.datestart | date: '%s' %}
+{% assign elapsed = page.date | date: '%s' | minus: tmp | divided_by: 3600 | divided_by: 24 %}
+
+<p>
+Commencé le {{ page.datestart | date: "%d %b %Y" }}, ça a pris {{ elapsed }} jours, et a peu près {{ page.estimatedtime }} de travail.
+</p>
+
+<p>
+{{ content }}
+</p>
+
+<div class="gallery">
+{% for img in page.images %}
+	{% assign ext = img | slice: -3, 3 %}
+
+	{% if ext == "mp4" %}
+	<video controls width="100%">
+  		<source src="{{img}}"/>
+  	</video>
+	{% else %}
+		<img src="{{img}}">
+	{% endif %}
+{% endfor %}
+</div>
