@@ -10,4 +10,4 @@ images:
   - "situation.jpg"
   - "extra.jpg"
 ---
-Durant le confinement j'ai "fabriqué" un métier à tisser et réalisé cette tapisserie sans patron.
+Durant le confinement j'ai "fabriqué" un métier à tisser et réalisé cette tapisserie avec des laines du trainaient.
