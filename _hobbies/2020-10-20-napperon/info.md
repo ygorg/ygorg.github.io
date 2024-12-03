@@ -11,5 +11,5 @@ images:
   - "situation.jpg"
   - "extra.mp4"
 ---
-Mon premier projet de dentelle.
+Mon premier vrai projet de dentelle. Le fil provient de fuseaux acheté sur leboncoin.
 Le carton vient de [J'aimeladentelle](https://jaimeladentelle.stores.jp/items/5c87060a785b8e327464bda2).
