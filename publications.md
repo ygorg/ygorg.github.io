@@ -7,7 +7,7 @@ papers:
     title: "Language Model Adaptation to Specialized Domains through Selective Masking based on Genre and Topical Characteristics."
     url: "https://arxiv.org/abs/2402.12036"
     authors: "Anas Belfathi, Ygor Gallina, Nicolas Hernandez, Richard Dufour, Laura Monceaux."
-    journal: "Traitement Automatique des Langues Naturelles (TALN)."
+    journal: "Traitement Automatique des Langues Naturelles (TALN)"
     date: "Jul. 2024"
   -
     title: "End-to-end indexation in scientific digital libraries."
