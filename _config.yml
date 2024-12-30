@@ -32,10 +32,8 @@ plugins:
 github_username: ygorg
 
 include:
-  -
-    _teaching
-  - 
-    plop
+  - _teaching
+  - plop
 
 header_pages:
   - publications.md

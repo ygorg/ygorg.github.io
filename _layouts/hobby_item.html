@@ -26,7 +26,7 @@ Commencé le {{ page.datestart | date: "%d %b %Y" }}, ça a pris {{ elapsed }} j
 	{% assign ext = img | slice: -3, 3 %}
 
 	{% if ext == "mp4" %}
-	<video controls width="100%">
+	<video controls width="100%" mute autoplay loop>
   		<source src="{{img}}"/>
   	</video>
 	{% else %}
