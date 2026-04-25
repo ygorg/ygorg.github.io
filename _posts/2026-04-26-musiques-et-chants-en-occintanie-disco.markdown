@@ -13,7 +13,7 @@ Ce post est une version textuel de la "Discographie selective" du livre "Musique
 
 ## AD'ARRON (JACQUES BAUDOUIN)
 - « Er navèth : sauts e branlos deth Biarn », Autop, 1997.
-- « Aci qu'em Reis, Mossur! » (hommage à Félix Arnau-din), Institut occitan, 2000.
+- « Aci qu'em Reis, Mossur! » (hommage à Félix Arnaudin), Institut occitan, 2000.
 - « Tout en faucillant les prés », Autop, 2003.
 
 ## AIGA LINDA
@@ -93,7 +93,7 @@ Ce post est une version textuel de la "Discographie selective" du livre "Musique
 - « Cants e musicas dau pais nissart », Ventador, 1979.
 
 ## BALA GUERA
-- « La votz deus anjos, Poly-phonies du Béarn », Les chants de la terre, Alpha, 2003.
+- « La votz deus anjos, Polyphonies du Béarn », Les chants de la terre, Alpha, 2003.
 
 ## BANDA DAU CEPON
 - « Cansons e dansas d'aqui », Autop, 2006,
@@ -104,7 +104,7 @@ Ce post est une version textuel de la "Discographie selective" du livre "Musique
 ## BELLSOLA (GISELA)
 - « Ab la fresca clartat. Lo cant dels trobadors a Catalunha »
 (avec Ensemble Saurimonda, Autop, 2002.
-- « Bela domna. Noble dame et amour courtois » (avec Ensemble instrumental L'iti-néraire musical), Ed Jade, 2004.
+- « Bela domna. Noble dame et amour courtois » (avec Ensemble instrumental L'itinéraire musical), Ed Jade, 2004.
 
 ## BELTRAME (GASTON)
 - « No laissem pus umiliar », Ventadom, 1971.
@@ -129,7 +129,7 @@ Ce post est une version textuel de la "Discographie selective" du livre "Musique
 
 ## BODEGA
 - « Bodéga, Bodegaires ! Anthologie de la cornemuse du haut-Languedoc », 3 CD Abeille music, 2004
-Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude trio, Montanha Negra, Trio Espinasse-Le Meur, Aquò Rai, La confrérie des souf-fleurs, Trio Yan Cozian, Soanaires d'Oc, Duo Xavier de la Torre-François Bloqué, Duo Martres-Brugière.
+Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude trio, Montanha Negra, Trio Espinasse-Le Meur, Aquò Rai, La confrérie des souffleurs, Trio Yan Cozian, Soanaires d'Oc, Duo Xavier de la Torre-François Bloqué, Duo Martres-Brugière.
 
 ## BOISSIERE (PEIRE)
 - « Margarida, Cantar en Pais d'Oc », Cinq planètes, 2007.
@@ -151,7 +151,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « Les lettres de mon moulin en chanson », Lep Music, 2002.
 
 ## BOUYGUES (CHRISTIAN)
-- « Dançar (danses du Rou-ergue) », Dralhe, 2000.
+- « Dançar (danses du Rouergue) », Dralhe, 2000.
 - « Per dançar » 1 et 2 (+ livret pédagogique), Dralhe, 2000.
 
 ## BRAMERIE (MIQUELA)
@@ -175,7 +175,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - Cf. [Perlinpinpin Folc](#perlinpinpin-folc), Tena-rèze.
 
 ## CAHAUPE (AUGUSTIN)
-- « Un autre regard sur le chant ossalois : Aubestin Cauhape », Menestrers gas-cons, 2003.
+- « Un autre regard sur le chant ossalois : Aubestin Cauhape », Menestrers gascons, 2003.
 - « Bilingüe », Oc Sonic, 2006.
 
 ## CANTA ALBA
@@ -190,22 +190,22 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 ## CARDABELA
 - « Cardabela », Ventadorn, 1977.
 - « La Cancon novela », Ventadorn, 1978
-- « La joia a près la campan-ha », Ventador, 1983.
+- « La joia a près la campanha », Ventador, 1983.
 - « Menèrba 1210 » (avec Cardabela), ODAC, 1996.
 
 ## CARLOTTI (JAN-MARIA)
-- « Cant e musica de Pro-vença, XII-XXe siècles » (avec Mont-Joia), Le Chant du Monde, 1975.
+- « Cant e musica de Provença, XII-XXe siècles » (avec Mont-Joia), Le Chant du Monde, 1975.
 - « Cançons dei festas proven-çalas » (avec Mont-Joia), Le Chant du monde, 1977.
-- « Nautrei siam tres bomi-ans » (avec Mont-Joia), Le Chant du Monde, 1979.
+- « Nautrei siam tres bomians » (avec Mont-Joia), Le Chant du Monde, 1979.
 - « Salabrun » (avec Mont-Joia), Le Chant du Monde, 1981.
 - « Le secret de Jaume le berger », Vif argent, 1986.
 - « Chansons des métiers de Provence et du Comtat », Ocora, 1989.
-- « Anita-Anita » (avec P. Vail-lant, R.Tesi), Silex, 1995.
+- « Anita-Anita » (avec P. Vaillant, R.Tesi), Silex, 1995.
 - « Pierre et le loup », Le Chant du monde, 1997.
 - « Linhana/ Lignane », Empreinte digitale, 1997.
 - « Pachiqueli ven de nuech », Comptines et chansons, Silex, 1994.
 - « Trobar. Chanson des troubadours », Silex, 1995.
-- « Dire » (poèmes de R. La-font), Mont-Joia, 2005.
+- « Dire » (poèmes de R. Lafont), Mont-Joia, 2005.
 
 ## CAVALIER (LAURENT)
 - « Finissez d'entrer » (avec la Fabrique), Roche-Breugnot, 1998.
@@ -243,7 +243,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « La vielle à roue de l'imaginaire », Auvidis, 1982.
 - « Les maîtres de la vielle à roue : Valentin Clastrier », Auvidis, 1987.
 - « Hérésie », Silex, 1991.
-- « Héloise » (avec M. Ris-sler), Wergo, 1993.
+- « Héloise » (avec M. Rissler), Wergo, 1993.
 - « Le bûcher des silences », Silex, 1994.
 - « Paludes » (avec M. Rissler et C. Rizzo), Wergo, 1995.
 - « Tentations d'Abélard » (avec M. Rissler), Wergo, 1995.
@@ -278,7 +278,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 ## CONTE (PATRICE)
 - « Cant e musica de Provenca du XIIe au XXe siècles » (avec MontJoia), Le Chant du monde, 1975.
 - « Cançons dei festas proven-çalas » (avec Mont-Joia), Le Chant du monde, 1977.
-- « Lambrusc », Ventadorn, 1977.
+- « Lambrusc », Ventadorn, 1977. [lien](https://archive.org/details/05-seguida-deu-manhoac-vira-moliner-rondeu-rondeu)
 - « La liberté ou la mort » (musique de scène), Teatro de la Carrièra, 1977.
 - « Hommage aux txistulaires basques », Autop, 1978.
 - « Nautrei siam tres bomians » (avec MontJoia), Le Chant du Monde, 1979.
@@ -326,7 +326,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « Palestinians », Ventadorn, 1971.
 - « Troc de vida », Ventadorn, 1973.
 - « La flor de libertat », Recaliu, 1975.
-- « Lo monde sera béu de-man », Recaliu, 1977.
+- « Lo monde sera béu deman », Recaliu, 1977.
 - « Flor de libertat », Assoc Gens du Verdon, 2001.
 - « Contra suberna » (livre disque), Copsi, 2006.
 - « Standards Oc » (avec Danielle Franzin), Un autre-vent, 2008
@@ -337,7 +337,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « Musique des veillées en Auvergne. Entre chien et loup », Amta, 2004.
 
 ## DELBEAU (PEIRE-ANDRIEU)
-- « Vents e marèas », Centre Etudes Occitanes Montpel-lier, 1969.
+- « Vents e marèas », Centre Etudes Occitanes Montpellier, 1969.
 - « Camas de boi/ Jambes de bois », Chant du monde, 1973.
 
 ## DEL SAUVETERRE
@@ -364,7 +364,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - Cf. [Rosina de Peira](#de-peira-rosina).
 
 ## DUO CHEOPS
-- « Entre Lengado et Prou-venço », Autop, 1997.
+- « Entre Lengado et Prouvenço », Autop, 1997.
 - « Ligoumbau », Autop 2001.
 
 ## DUPAIN
@@ -400,7 +400,7 @@ Compil, Amta, 1998.
 
 ## FABULOUS TROBADORS
 - « Era pas de faire », Roker Promocion - Bondage, 1992.
-- « Pas de ci, La rate », Ro-ker Promocion - Bondage, 1993.
+- « Pas de ci, La rate », Roker Promocion - Bondage, 1993.
 - « Ma ville est le plus beau park », Mercury, 1995.
 - « On the Linha Imaginot », Mercury, 1998.
 - « Duel de sans-pareil », Tôt ou Tard - Warner, 2003.
@@ -471,13 +471,13 @@ Avec Les Musiciens de Provence, 10 CD, Arion, 1970-1980.
 Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « Le galoubet-tambourin. Musique d'hier et d'aujourd'hui », Ocora, 1995.
 - « Les fêtes d'Hébée de Rameau » (avec W. Christie), Erato, 1996.
-- « L'Art du galoubet-tam-bourin provençal », Arion, 2001.
+- « L'Art du galoubet-tambourin provençal », Arion, 2001.
 
 ## GACHA EMPEGA
 - « Polyphonies marseillaises », Empreinte Digitale, 1998.
 
 ## GALIBERT (CLAUDIA)
-- « Escota mon grand », Venta-dom, 1976.
+- « Escota mon grand », Ventadorn, 1976.
 
 ## GALDA ZEN
 - « Chromatophonies », L'Autre distribution, 2002
@@ -487,7 +487,7 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « Los pastre de paraulas, Gougaud canta occitan », Cavalier, 1974.
 
 ## GOULAMAS'K
-- « Le kri des cigales », Skalo-pards anonymes, 2002.
+- « Le kri des cigales », Skalopards anonymes, 2002.
 - « Gardarem la terra », Patatr'oc, 2004.
 - « Fai Petar ! », Mosaic Music, 2007.
 
@@ -513,7 +513,7 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « Gai Saber : Trobar rOc », Autop, 1997.
 - « La Reis : Se chanto... », Autop, 1997.
 - « Silvio Peron et Gabriel Ferreo : Il ballo delle valli occitane d'Italie », Autop, 1998.
-- « Gai Saber : Esprit de fron-tiera », Autop, 1999.
+- « Gai Saber : Esprit de frontiera », Autop, 1999.
 - « Tsarriye : Suanature di strade per musica senza trade », Autop, 1999.
 - « Lhi Sonaires : Ai fach un sumi », Autop, 1999.
 - « Couro la Cevitou : Polifonie d'Oc », Autop, 2000.
@@ -539,7 +539,7 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 
 ## JOSUER (CHRISTIAN)
 - « Branlo naveth », Autop, 2005.
-- « Crestian Josuer et Luis Miguel Bajen. Pirineos magi-cos, Quasernet de viatge musicau », Menestrèrs Gascons, 2007.
+- « Crestian Josuer et Luis Miguel Bajen. Pirineos magicos, Quasernet de viatge musicau », Menestrèrs Gascons, 2007.
 
 ## JACMELINA
 - « Te caussissi », Révolum, 1978.
@@ -562,9 +562,9 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « Pomme d'amour » (avec Les Balbelettes), 2008.
 
 ## LA FABRIQUE
-- « Acide folklorique et pro-duits dérivés », Modal, 2001.
+- « Acide folklorique et produits dérivés », Modal, 2001.
 - « Rasez le Puy de Dôme quon voie la mer ! », (coll.), 2002.
-- « Nuit » (avec A. Ricros), Nord-fud, 2002.
+- « Nuit » (avec A. Ricros), Nord-sud, 2002.
 - « Musique des veillées en Auvergne - Entre chien et loup » (coll.), 2004.
 
 ## LAFITTE (JEAN-PIERRE)
@@ -572,7 +572,7 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « Joi de Levant » (avec R. Jurié), Nord-Sud, 2005.
 
 ## LAMBRUSC
-- « La-bash, Cants e musica de Gasconha e alentorns », Ventadorn, 1977.
+- « La bash, Cants e musica de Gasconha e alentorns », Ventadorn, 1977.
 
 ## LA MAL COIFFEE
 - « La Mal coiffée, polyphonies occitanes », Modal, 2007.
@@ -584,11 +584,11 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « Chants à voix égales du Béarn et de Gascogne », 2 vol, Buda, 2007.
 
 ## LA SAUZE
-- « Lo vinhairon », Venta-dor, 1978 (réédité Saturne, 2002)
+- « Lo vinhairon », Ventadorn, 1978 (réédité Saturne, 2002)
 - « Montredon », Ventadorn, 1979 (réédité Saturne, 2002)
-- « La super-vedeta », Venta-dor, 1983 (réédité Saturne, 2002).
+- « La super-vedeta », Ventadorn, 1983 (réédité Saturne, 2002).
 - « La Sauze en concert », Phonothèque méditerranéenne, 1997.
-- « La tèrra se botiòla », Satur-ne, 2003
+- « La tèrra se botiòla », Saturne, 2003
 - « Tonton Francès », 1986 (réédité Saturne, 2002).
 
 ## LA TALVERA
@@ -674,7 +674,7 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 
 ## LO COR DE LA PLANA
 - « Es lo titre », Paratge-Nord-Sud, 2003.
-- « Tant deman », Buda-Uni-versal, 2007
+- « Tant deman », Buda-Universal, 2007
 
 ## LODDO (DANIEL)
 - Cf. [La Talvera](#la-talvera).
@@ -778,7 +778,7 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « Arrivés d'air chaud » (avec 40 fanfares et un bagad), Douarnenez, 1991.
 - « Véranda » (avec P. Vaillant, R. Tesi), Silex, 1993.
 - « Mindelo », Autop, 1993.
-- « Sardanajazz » (avec la Co-bla Mil.Lénaria), Autop, 1995.
+- « Sardanajazz » (avec la Cobla Mil.Lénaria), Autop, 1995.
 - « Chansons des troubadours » (avec J.M. Carlotti ), Silex, 1996.
 - « Indians Gavachs » (avec des musiciens du Rajasthan), Nord-Sud, 2001.
 
@@ -793,7 +793,7 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « Et pourtant, elle tourne », Révolum, 1992.
 - « El Jinete ». Paratge - Nord- sud, 2002.
 - « Co milho de Marti » (avec Gérard Pansanel), Nord-Sud, 2006.
-- « Tolosa » (avec G. Pansanel), Nord-Sid, 2008.
+- « Tolosa » (avec G. Pansanel), Nord-Sud, 2008.
 
 ## MARTIN (BRUNO)
 - « D'Estiu », Autop, 1998.
@@ -835,7 +835,7 @@ José Roux : cabreta d'amor, Amta, 2007.
 - « Vive le PIIM », Autop, 1990.
 - « Parla patois », Bondage-Arcade, 1991.
 - « Violent », Autop, 1992.
-- « Chourmo », Bondage-arcade, 1993.
+- « Chourmo », Bondage-Arcade, 1993.
 - « Qu'elle est bleue », Autop, 1993.
 - « Commando Fada », Shaman-Polygram, 1995.
 - « On met le oai partout », Shaman-Polygram, 1996.
@@ -855,7 +855,7 @@ José Roux : cabreta d'amor, Amta, 2007.
 ## MAURESCA FRACAS DUB
 - « Mauresca Fracas Dub », Stop Cono Movement, 2002.
 - « Francament », Autop, 2003.
-- « Contesta », Les Indépendants-Mo sáic Music, 2006.
+- « Contesta », Les Indépendants-Mosáic Music, 2006.
 - « Bartàs », Autop, 2008. MAURIS
 - « Vuivre drech », Ventadorn, 1975
 - « Chao viva » (avec l'Ontario Blues Banda), Ventadorn, 1971.
