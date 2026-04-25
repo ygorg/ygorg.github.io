@@ -6,6 +6,8 @@ date:   2026-04-26 10:00:00 +0900
 
 Ce post est une version textuel de la "Discographie selective" du livre "Musique et chants en occitanie" de Frank Tenaille, édité par Le Chantier & Les editions du layeur en 2008.
 
+# Discographie Sélective
+
 ## ACCORDEON
 - « Al son del diableton », Antologie de l'accordéon traditionnel occitan, La Talvera, 2006.
 
@@ -85,7 +87,7 @@ Ce post est une version textuel de la "Discographie selective" du livre "Musique
 - « Ici même », Oc Sonic, 1996.
 - « Dedins », Oc Sonic, 2003, AY MONINO (JAKES)
 - « 12 sonets de Bernard Manciet », Manufactures verbales, 2007.
-- Cf. [Manufactures verbales](#manufactures-verbales), [Menestres Gascons](#menestres-gascons), [JF. Tisner](#tisner-joan-frances).
+- Cf. [Manufactures verbales](#les-manufactures-verbales), [Menestrers Gascons](#menestrers-gascons), [JF. Tisner](#tisner-joan-frances).
 
 ## BACHAS
 - « Cants e musicas dau pais nissart », Ventador, 1979.
@@ -117,7 +119,7 @@ Ce post est une version textuel de la "Discographie selective" du livre "Musique
 - Cf. [Lo Jai](#lo-jai).
 
 ## BIANCO (MICHEL)
-- Cf. [Bachas-Montjoia](#bachas-montjoia), [Corou de Berra](#corou-de-berra).
+- Cf. [Bachas](#bachas)-Montjoia, [Corou de Berra](#corou-de-berra).
 
 ## BIG ARR OC
 - « Le chant du Sud », Rev, 1980.
@@ -170,7 +172,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « Un grain de quartz », Oc-Sonoc, 2005.
 
 ## CADEILLAN (ALAIN)
-- Cf. [Perlinpinpin Folc](#perlinpinpin-folc), [Tena-rèze](#tena-reze).
+- Cf. [Perlinpinpin Folc](#perlinpinpin-folc), Tena-rèze.
 
 ## CAHAUPE (AUGUSTIN)
 - « Un autre regard sur le chant ossalois : Aubestin Cauhape », Menestrers gas-cons, 2003.
@@ -225,7 +227,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « Musique des violoneux de Gascogne ». Cinq Planètes, Astérios, 2005.
 
 ## CHARRIE (ALAIN)
-- Cf. [Une Anche passe](#une-anche-passe), [Les Souffleurs de rêves](les-souffleurs-de-reves).
+- Cf. [Une Anche passe](#une-anche-passe), [Les Souffleurs de rêves](#les-souffleurs-de-reves).
 
 ## CHER CHAPAIS
 - « En vos escotar, Chants et contes dau Puei-Domat », IEO, 1976.
@@ -371,7 +373,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « Les vivants », Virgin 2005.
 
 ## DURIF (OLIVIER)
-- Cf. [Le Grand Rouge](#le-grand-rouge) (avec E. Montbel, Ch. Oller, P. Imbert).
+- Cf. Le Grand Rouge (avec E. Montbel, Ch. Oller, P. Imbert).
 - « Musiques de violon, C'est les vacances » (avec J.F. Vrod), Amta, 1987.
 - « Le violon de la forge » (avec J.P Champeval), Amta, 1991.
 - « La concordance des temps » (avec Trio violon), 1991.
@@ -394,7 +396,7 @@ Compil, Amta, 1998.
 - « Cornemuse excentrique », Amta, 1994.
 - « Camins », Celia-Musidic, 1997.
 - « Alambic » (avec le groupe Djoc), Autop, 2007.
-- Cf. [Nadau](#nadau).
+- Cf. [Nadau](#los-de-nadau).
 
 ## FABULOUS TROBADORS
 - « Era pas de faire », Roker Promocion - Bondage, 1992.
@@ -406,7 +408,7 @@ Compil, Amta, 1998.
 ## FAGES (MARIE JOSE)
 - « Canta canta neneton, Chansonnier totémique languedocien », tome 1, Modal, 2004.
 - « Lo resson de la pèira, Chansonnier totémique languedocien », tome 2, Modal, 2007.
-- Cf. [Canta Alba](#canta-alba), [Banda Sagana](#banda-sagana).
+- Cf. [Canta Alba](#canta-alba), Banda Sagana.
 
 ## FAI LUM
 - « Al canton d'uei », Dralhe, 1997.
@@ -756,7 +758,7 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 
 ## MADIER (JEAN-LUC)
 - « Gasconha Plus, En dançar » Modal, 2007.
-- Cf. [Au son de votz](#au-son-de-votz).
+- Cf. Au son de votz.
 
 ## MANGANELLI (STEPHAN)
 - « Vaqui », Autop, 1992.
@@ -848,7 +850,7 @@ José Roux : cabreta d'amor, Amta, 2007.
 ## MAZELLIER (PATRICK)
 - « Le violon traditionnel en Dauphiné, Champsaur... Silex, 1994.
 - « Une tradition de chant dans les Hautes-Alpes : Les Renveillées d'Orcières » (livre + CD), Care, 2001.
-- Cf. [Rural Café](#rural-Cafe).
+- Cf. [Rural Café](#rural-cafe).
 
 ## MAURESCA FRACAS DUB
 - « Mauresca Fracas Dub », Stop Cono Movement, 2002.
@@ -860,7 +862,7 @@ José Roux : cabreta d'amor, Amta, 2007.
 - « Nissa rebela! », Ventadorn, 1981.
 
 ## MENESTRERS GASCONS
-- Cf. [Joan-Frances Tisner](#tisner-joan-frances), [Jakez Aymonino](#jakez-aymonino).
+- Cf. [Joan-Frances Tisner](#tisner-joan-frances), Jakez Aymonino.
 
 ## MESPLE (PIERRE ARRIUS)
 - « Béarn, veillées en Vallée d'Ossau », Ocora, 1982.
@@ -1138,7 +1140,7 @@ José Roux : cabreta d'amor, Amta, 2007.
 - « Rondès e congos de las lanas » (avec Menestrèrs Gascons), MG, 1998.
 - « Branlo navèth » (Menestrèrs Gascons), MG, 2000.
 - « Ua, miduna, miltrèna 4 » (avec Menestrèrs Gascons), MG, 1997.
-- « - Cf. [Verd e blue](#verd-e-blue), [Manufactures verbales](manufactures-verbales).
+- Cf. [Verd e blu](#verd-e-blu), [Manufactures verbales](#les-manufactures-verbales).
 
 ## TODISCO (JEAN-LOUIS)
 - « Musique provençale, tradition au présent » (avec Ric e fouale), Autop, 1999.

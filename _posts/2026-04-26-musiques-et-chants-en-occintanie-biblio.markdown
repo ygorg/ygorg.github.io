@@ -1,0 +1,396 @@
+---
+layout: post
+title:  "Musique et chants en occitanie - Bibliographie selective"
+date:   2026-04-26 10:00:00 +0900
+---
+
+Ce post est une version textuel de la "Bibliographie selective" du livre "Musique et chants en occitanie" de Frank Tenaille, édité par Le Chantier & Les editions du layeur en 2008.
+
+# Bibliographie Sélective
+
+## TROUBADOURS, MUSIQUE, CULTURE
+- Damase Arbaud, Chants populaires de la Provence, Manosque 1814-1876 (réédition Tac Motifs, 1999).
+- Jean-Baptiste Bouillet, Album Auvergnat, 1853, (réédition Laffite Reprints, 1978).
+- François Vidal cadet, Le Trésor du tambourinaire. Lou Tambourin, 1864 (réédition Marcel Petit-CPM, 1978).
+- Auguste Fourès, Saltimbanques du Languedoc, 1889 (La Découvrance, 2005).
+- Félix Arnaudin, Chants populaires de la Grande Lande et des régions voisines, Honoré Champion, 1912.
+- Jean Poueigh, Chansons populaires des Pyrénées françaises, 1926 (Laffitte-Reprint, 1977).
+- Jean Bec, La Musique des troubadours, Laurens, 1928.
+- Julien Tiersot, La Chanson populaire et les écrivains romantiques, Plon, 1931.
+- Evariste Lévi-Provençal, Histoire de l'Espagne musulmane au Xe siècle, 1932 (réédition Maisonneuve et Larose, 1999).
+- Cahiers du Sud, Le Génie d'oc et l'homme Méditerranéen, Marseille, 1943.
+- Arnold Van Gennep, Manuel du folklore français contemporain. Picard, 1943-1958.
+- Jacques Chailley, Histoire musicale du Moyen-Age, PUF, 1950.
+- Joseph Canteloube, Anthologie des chants populaires français : Auvergne, Durand et Cie, 1951.
+- Claude Seignolle, Le Folklore du Languedoc, Maisonneuve, 1960.
+- René Lavaud et René Nelli, Les Troubadours, Desclée de Brouwer, 1960-66 (réédition 2000).
+- Emmanuel Le Roy Ladurie, Histoire du Languedoc, PUF, 1962.
+- René Nelli, L'Erotique des troubadours, Privat, 1963.
+- René Nelli, Le Phénomène cathare, Privat, 1963.
+- Charles Camproux, Le Joy d'amour des troubadours, Causse et Castelnau, 1965.
+- Fernand Niel, Albigeois et Cathares, P.U.F. Que sais-je, 1965.
+- Jean Lacam, Les Sarrazins dans le haut Moyen-Age français. Maisonneuve et Larose, 1965.
+- Pierre Bec, Petite anthologie de la lyrique occitane au Moyen-âge, Aubanel, 1966.
+- Emmanuel Leroy-Ladurie, Paysans du Languedoc, P.U.F, 1966.
+- Michel Roquebert, Christian Soula, Citadelles du vertige, Privat, 1966.
+- Claude Seignolle, Le Folklore de la Provence, Maisonneuve et Larose, 1967.
+- Henri Gougaud, Poèmes politiques des troubadours, Bélibaste, 1969.
+- Jean-Marie Petit et Jean Téna, le Romancero occitan, Maspéro, 1969.
+- Jean Larzac, La Musica occitana, IEO, 1970.
+- Daniel Fabre, Jacques Lacroix, Histoires et légendes du Languedoc mystérieux, Tchou, 1970.
+- Jacques Roubaud, Anthologie des troubadours, Seghers, 1971.
+- Robert Jably, Le Folklore du Languedoc, Maisonneuve, 1971.
+- Marie Rouanet, Occitanie 1960-1970. Les poètes de la décolonisation, Pierre-Jean Oswald, 1971.
+- Henri-Irénée Marrou, Les Troubadours, Seuil, 1971.
+- Pierre Rollet, La Vie quotidienne en Provence au temps de Mistral, Hachette, 1971.
+- Jean Lazzac, Anthologie de la poésie occitane, Privat, 1972.
+- Marcel Carrières, La Musique occitane de 1550 à 1800, Cap e Cap, 1972.
+- Yves Rouquette, La Nouvelle chanson occita ne, Privat, 1972.
+- Daniel Fabre, Jacques Lacroix, La Vie quotidienne des paysans en Languedoc au XIXe siècle, Hachette, 1973.
+- Roger Beteille, La Vie quotidienne en Rouergue avant 1914, Hachette, 1973.
+- Eugène Martin-Chabit, La Chanson de la croisade albigeoise, Les Belles lettres, 1973.
+- René Nelli, Erotique des Troubadours, E.G.E 10-18, 1974.
+- Roland Pécout, Claude Marti, Seghers, 1974.
+- Robert Lafont, Anthologie des Baroques Occitans, Aubanel, 1974.
+- Emmanuel Le Roy Ladurie, Montaillou, village occitan 1294-1324, Gallimard, 1975.
+- René Nelli, La Vie quotidienne des Cathares du Languedoc au XIIle siècle, Hachette, 1975.
+- Cécile Marie, Anthologie de la chanson occitane, Maisonneuve et Larose, 1975.
+- Daniel Fabre, Jacques Lacroix, Les Communautés du Sud, 10-18, 1975.
+- Louis-Jean Calvet, Joan-Pau Verdier, Seghers, 1976.
+- Michel Voyelle, Les Métamorphoses de la fête en Provence de 1750 à 1820, Aubier-Flammarion, 1976.
+- Huguette Couffignal, La Cuisine des pays d'oc, de l'Atlantique à la Méditerranée, Editions Solar, 1976.
+- Michel Cosem, Le Livre d'or de l'Occitanie, Seghers, 1977.
+- René Merle, Culture occitane, per avançar, Editions sociales, 1977.
+- Pierre Bec, Anthologie de la prose occitane du Moyen-Age Aubanel, 1977.
+- Daniel Fabre et Charles Camberoque, La Fête en Languedoc, Privat, 1977.
+- Meg Bodin, Les femmes troubadours, Denoël, 1978.
+- Anne-Marie Brisebarre, Bergers des Cévennes, Berger-Levrault, 1979.
+- Louis Barthas, Les Carnets de guerre de Louis Barthas tonnelier, Maspero, 1978.
+- Jean-Noêl Pelen, Récits et contes populaires des Cévennes, Gallimard, 1978.
+- Roland Pécout, La Musique folk des peuples de France, Stock, 1979.
+- Philippe Joutard, Les Cévennes, de la montagne à l'homme, Privat, 1979.
+- Christian Caujolle, Cançons popularas d'Occitania per deman... Syros, 1979.
+- Pierre Bec, Anthologie des troubadours, Stock, 1979.
+- René Nelli, Troubadours et trouvères, Hachette, 1979.
+- Bernard Desblancs, Les Anches simples, Conservatoire occitan, 1980.
+- Emmanuel Le Roy Ladurie, L'Argent, l'amour, la mort en pays d'oc, Seuil, 1980.
+- Jacques Roubaud, Les Troubadours, anthologie bilingue, Seghers 1980.
+- Jean Anglade, La Vie quotidienne dans le Massif Central, Hachette, 1981.
+- Frédéric Bard et Jan-Mari Carlotti, Anthologia de la nova cançon occitana, Edisud, 1982.
+- Claude Sicre, Vive l'âmericke... quelques idées blues pour colorer la France, Publisud-Adda, 1982.
+- Jean-Noel Pelen, Le Conte populaire en Cévennes, 1983 (réédité Payot 1994).
+- Pierre Bec, Burlesques et obscénités chez les troubadours, Stock, 1984.
+- Claude Barsotti, Le Music-hall marseillais de 1815 à 1950, Mesclum, 1984.
+- Félix-Marcel Castan, Manifeste multiculturel et antirégionaliste, Cocagne 1984.
+- Lucien Gaillard, Victor Gélu, poète du peuple marseillais, Laffitte, 1985.
+- Yves Rouquette, Charles Camberoque, Les Paillasses, Verdier, 1985.
+- Jacques Le Goff, Les Intellectuels au Moyen-Age, Seuil, 1985.
+- Artisans du Languedoc (2t), Les Editions de la source, 1985.
+- Margarita Egan, Les Vies des troubadours, 10/18, 1985.
+- Charles Camberoque, Les Paillasses, Verdier, 1985.
+- Lucien Gaillard, Victor Gélu, poète du peuple marseillais, Jeanne Laffitte, 1985.
+- Lothaire Mabru, La Cornemuse des Landes en Gascogne, Centre Lapios, 1986.
+- Jacques Roubaud, La Fleur inverse, essai sur l'art formel des troubadours, Ramsay, 1986.
+- Luc-Charles Dominique, Musique populaire en pays d'Oc, Loubatières, 1987.
+- Christian Lauranson-Rosaz, L'Auvergne et ses marges du VIII au Xle siècle, Cahier de la Haute Loire, 1987.
+- Jean-Noël Pelen, L'Autrefois des cévenols, Edisud, 1987.
+- Christian Vieussens, Pifraire en Gironde, Cirma, 1988.
+- « Passant par Paris... musiques d'Auvergne en scène », Vibrations N°5, Privat, 1988.
+- Lothaire Mabru, Musiques... pratiques musicales en milieu rural (XIXe-XXe siècles).
+- L'exemple des Landes de Gascogne, Centre Lapios, 1988.
+- Jean-Louis Bonnet, Bouzinac, Moulinié et les musiciens du pays d'Aude XVI-XVIIe siècle, Société musicologie de Languedoc, 1988.
+- André Cortada, Cobles et joglars de Catalogne Nord, Trabucaïre, 1989.
+- Jean Larzac, L'Istoria de l'art occitan, CIDO, 1989.
+- Yves Gilbert, Le Languedoc et ses images, L'Harmattan, 1989.
+- Martin Aurell, La Vielle et l'épée, troubadours et politique en Provence au XIIème siècle, Aubier, 1989.
+- Henri Gougaud, Chanson de la croisade albigeoise, LGF, 1989.
+- Lothaire Mabru, Le Fifre en Bazadais, Centre Lapios, 1990.
+- Daniel Fabre, Charles Camberoque, La Fête en Languedoc, Privat, 1990.
+- Marie Rouanet, La Cuisine amoureuse, courtoise et occitane, Loubatières, 1990.
+- Cornemuses, Souffles infinis, souffles continus, FAMDT-Modal, 1991.
+- Tre Fontane, Les Troubadours d'Aquitaine, Princi Neguer, 1991.
+- Collecter. La mémoire de l'autre, FAMDT-Geste Editions, 1991.
+- Patric, Profession troubadour, Aura, 1992.
+- Pierre Bec, Vièles ou violes, Klincksieck, 1992.
+- Jean Balard et les Cahiers du Sud, Centre Vieille Charité-Marseille, 1993.
+- Maurice Guis, Theirry Lefrançois et Remi Venture, Le galoubet-tambourin : instrument traditionnel de Provence, Edisud, 1993.
+- Jean-Luc Pouliquen, Entre Gascogne et Provence (entretiens avec les poètes Serge Bec et Bernard Manciet), Edisud, 1994.
+- Luc-Charles Dominique, Les Ménétriers français sous l'ancien régime, Klincksieck, 1994.
+- Se canta que cante, recueil de chants occitans, Gemp La Talvera, 1994.
+- Felix Arnaudin, Œuvres completes, 8 t, Ed Confluence, 1994-2003.
+- Pierre Bec, Chants d'amour des femmes-troubadours, Stock, 1995.
+- Edith Marois, Danse et musique dans les romans champêtres de Georges Sand, La Châtre, 1995.
+- Claude Alranc, Théâtre d'Oc contemporain, Domens, 1995.
+- Catherine Homo-Lechner, Sons et instruments de musique au Moyen-Age, Errance, 1996.
+- Adrienne Durand-Tullou, Le Diable et le bon dieu en Oc, Payot, 1996.
+- Marie-Thérèze Duflos-Priot, Un siède de groupes folkloriques en France, L'Harmattan, 1995.
+- Jacme Gaudas, Fabulous stories. Les Fabulons trobadors, Ostal del libre, 1995.
+- Claude Riot, Chants et instruments. Trouveurs et jongleurs au Moyen-Age, Desclée de Brouwer, 1995.
+- Claude Alranc, Théâtre d'Oc contemporain.
+- Les Arts de jouer du midi de la France, Domens, 1995.
+- Daniel Crozes, Métiers de tradition, coutumes en fête, Editions du Rouergue, 1995.
+- Vielle à roue. Territoires illimités, FAMDT-Modal, 1996.
+- Léon Froment, Chansons du pays d'Oc, Editions du Rouergue, 1996.
+- Yes Bomb'Ai. Nouvelles chansons du pays niçois, Fuzeau, 1996.
+- Gérard Zuccheto, Terre des troubadours, Les Editions de Paris-Max Chaleil, 1996.
+- Accordéon diatonique. Itinéraire bis, FAMDT-Modal, 1997.
+- Charles Camberoque, Monde d'Oc, CIDO, 1997.
+- Félix-Marcel Castan, Jeunese des troubadours, Cocagne, 1997.
+- Jean Claude Marol, La Fin' amor. Chants des troubadours, XIIe et XIIIe siècles, Le Seuil, 1998.
+- Olivier Durif, Musiques des monts d'Auvergne et du Limousin, Actes Sud, 1998.
+- Gérard Zuchetto et Jörn Gruber, Le Livre d'or des troubadours Anthologie XII-XIVe siècle, Editions de Paris, 1998.
+- Arnold Van Gennep, Le Folklore français, Laffont, 1998.
+- Corou de Berra, Lou Cansounie, Serre, 1998.
+- Musiques traditionnelles en Auvergne (coord : Josée Dubreuil), Revue d'Auvergne, 1999.
+- Pierre Bec, La Joute poétique, Les Belles Lettres, 1999.
+- Imaginaires auvergnats. Cent ans d'intérêt pour les musiques traditionnelles populaires, FAMDT-AMTA, 1999.
+- Jean-Bernard Cahours d'Aspry, Les Musiciens au Pays basque : du Moyen-Age au XXe siècle, Atlantica, 2000.
+- Jacques Berlioz, Le Pays cathare, Les religions médiévales et leurs expressions méridionales, Seuil, 2000.
+- Chants des cloches et voix de la terre, Presses du Languedoc, 2000.
+- Jean-François Chanet, Les Félibres cantaliens, aux sources du régionalisme auvergnat (1879-1914), Ad o sa, 2000.
+- Pyrénées orientales-Roussillon, Bonneton, 2000.
+- Christophe Rulhes, Les Occitans imaginés, ethnicité et prophétismes occitans, IEO, 2000.
+- Jan dau Melhau, Presses du Languedoc, 2001.
+- Manciet-Lubat, Poisiques, Labeluz, 2001.
+- Claude Seignolle, Promenade à travers les traditions populaires languedociennes, Maisonneuve et Larose, 2001.
+- Henri Boyer et Philippe Gardy (coord), Dix siècles d'usage d'images de l'occitan, LHarmattan, 2001.
+- Colette Larraburu, Peio Etcheverry-Ainchart, Euskal rock'n'roll : histoire du rock basque, Atlantica, 2001.
+- Marie-France Houdart, Pays et paysans du Limousin, Maiade-éditions, 2002.
+- Didier Perre, La Chanson occitane en Velay, Modal-AMTA, 2003.
+- Jérome Bruneau, Les Joutes languedociennes, L'Harmattan, 2003.
+- Claire Torreilles et Marie-Jeanne Verny, Contes e cants, Université Montpellier III, 2003.
+- Chansonnier occitan, CRDP Midi-Pyrénées, 2003.
+- Violet Alford, Fêtes pyrénéennes, Loubatières, 2004.
+- Roland Pécout, Agach occitan, Aspects de la culture d'oc, Université Montpellier III, 2004.
+- Pierre Laurence, La Mémoire orale en Cévennes vallée Française et pays de Calberte, Parc National des Cévennes, 2004.
+- Yves Rouquette, entre parole et spectacle, Presses du Languedoc, 2004.
+- Robert Lafont, Baroques occitans. Anthologie de la poésie en langue d'oc 1560-1660, Université Paul Valéry, 2004.
+- Jean Guilaine, Daniel Fabre, Mans de Brèish, La Fête à Lader, Garae-Hésiode, 2004.
+- Troubadours et cathares en Occitanie médiévale (colloque), L'hydre, 2004.
+- Alem Surre-Garcia, Au-delà des rives, les orients d'Occitanie, Dervy, 2005.
+- Jacques Viret, Musique médiévale, 2005.
+- Trobar, L'explosion, Atlantica, 2005.
+- Catars e trobadors. Occitania e Catalonha renaissença e futur, Ideco, 2003.
+- Chansons traditionnelles et populaires de la Drôme, Culture et langue d'Oc, 2005.
+- Marie-Carmen Garcia, William Genieys, L'Invention du Pays Cathare. Essai sur la constitution d'un territoire imaginé, L'Harmattan, 2005.
+- Isaure Gratacos, Calendrier pyrénéen. Rites, coutumes et croyances calendaires, Privat, 2005.
+- Françoise Délesty, La Provence des pastorales, Paul Tacussel, 2005.
+- L'Art des chansonniers, Istatis, 2005.
+- Elizabeth Cestor, Les Musiques particularistes.
+- Chanter la langue d'Oc en Provence à la fin du XXe siècle, L'Harmattan, 2006.
+- Marcel Amont, Les plus belles chansons de Gascogne, Sud-Ouest, 2006.
+- Christophe Labes et Perrine Rimajou, Nadau, mémoire vive, Cairn, 2007.
+- Luc-Charles Dominique, Musiques savantes, musiques populaires, Les symboliques du sonore en France 1200-1750, CNRS Editions, 2007.
+- Daniel Loddo, L'Epopée du rock noir, Rocktime-La Talvera, 2007.
+- Dominique Luce-Dudemaine, Flamenca et les novas à triangle amoureux : contestation et renouveau de la fin'amor, Presses Universitaires de Méditerranée, 2007.
+- Hervé Lieutard et Marie-Jeanne Verny (coord), L'Ecole française et les langues régionales XIX-XXe siècles, Presses Universitaires de la Méditerranée, 2007.
+
+## HISTOIRE
+- René Rigaudon, Histoire de l'Auvergne, PUF, 1948.
+- René Nelli, Spiritualité de l'hérésie : le Catharisme, Privat, 1953.
+- Zoé Oldenbourg, Le Bücher de Montségur. Gallimard, 1959.
+- Bernhard Blumenkranz, Juifs et Chrétiens dans le monde occidental 430-1096, Mouron and Co, 1960 (Réédition Honoré Champion, 1977).
+- Pierre Tucoo-Chala, Histoire du Béarn, PUF, 1962.
+- Philippe Joutard, Journaux camisards, 10-18, 1965.
+- Jean Duvernoy, L'Inquisition à Pamiers, Privat, 1966.
+- Histoire de Provence (direct E. Baratier), Privat, 1969.
+- René Nelli, Dictionnaire des hérésies méridionales, Privat, 1970.
+- Henri Espieux, Histoire de l'Occitanie, Cap e Cap, 1970.
+- Robert Lafont, Clefs pour l'Occitanie, Seghers, 1970 (réédition 1987).
+- Michel Roquebert, L'épopée cathare, Privat, 5 vol, 1970-1998.
+- Daniel Fabre et Jacques Lacroix, La Vie quotidienne des paysans du Languedoc au XIXe siècle, Hachette, 1973.
+- Jean Cavalier, Mémoires sur la guerre des Camisards, Payot, 1973.
+- André Vauchez, La Spiritualité du Moyen-âge occidental, VII-XII siècles, PUF, 1975.
+- Histoire du Languedoc (dir Ph. Wolff), Privat, 1976.
+- Philippe Joutard, Les Camisards, Gallimard, 1976.
+- René Nelli, Mais enfin qu'est-ce que l'Occitanie ?, Privat, 1978.
+- Collectif, Histoire de l'Occitanie (dir A. Armengad, R. Lafont), IEO-Hachette, 1979.
+- Jean Duvernoy, L'Histoire des Cathares, Privat, 1979.
+- Histoire du Languedoc de 1900 à nos jours (coll. dir G. Cholvy), Privat, 1980.
+- Le Temps cévenol, conscience d'une terre, 4 vol, Sédillan 1980-88.
+- Jean Favier, La Guerre de Cent Ans, Fayard, 1980.
+- Michel Roquebert, Montségur, les cendres de la liberté, Privat, 1981.
+- J. Devernoy, P. Labal, R. Lafont, Ph. Martel, M. Roquebert, Les Cathares en Occitanie, Fayard, 1982.
+- Jordi Blanc, Jaures e Occitania, Vent Terral, 1985.
+- D. Bidot-Germa, M. Grosclaude, JP. Duchon, Histoire du Béarn, Ed. per Noste, 1985.
+- Anne Breton, Le vrai visage du Catharisme, Loubatières, 1988.
+- André Dupuy, Encyclopédie occitane, Editions Horvath, 1989.
+- Yves Rouquette, Cathares ! Loubatières, 1991.
+- Anne Brenon, Femmes cathares, Perrin, 1992.
+- Lilane Crète, Les Camisards, Librairie Perrin, 1992.
+- Michel Jas, Braises cathares, Filiation secrète à l'heure de la Réforme, Loubatières, 1992.
+- François Bayrou, Henri IV, le roi libre, Flammarion, 1994.
+- Anne Brenon, Les Cathares, pauvres du Christ ou apôtres de Satan ?, Gallimard, 1997.
+- Michel Roquebert, Les Cathares : de la chute de Montségur aux derniers bûchers (1244-1329), Perrin, 1998.
+- André Dupuy, Histoire chronologique de la civilisation occitane, Slatkine, 1998.
+- Jean Duvernoy, Inquisition en terre cathare, Privat, 1998.
+- Anne Brenon, Le Dico des Cathares, Milan, 2000.
+- Bertrand de la Farge, La Croix occitane, Loubatières, 2000.
+- Michel Roquebert, L'Epopée cathare, 2 vol, Perrin-Privat, 2001.
+- Max Rouquette, Cathares, Loubatières, 2003.
+- Troubadours et Cathares en Occitanie médiévale (colloque). L'Hydre, 2004.
+- Vichy, état occitan? , Revue Arkheia n°14-16, 2004.
+- Marie Carmen Garcia, William Genieys, l'Invention du pays catalan, L'Harmattan, 2005.
+- René Soula, Les Cathares entre légende et histoire, la mémoire de l'albigéisme du XIXe siècle à nos jours, IEO, 2005.
+- Etienne Cassignol, France d'oil contre France d'oc, La Compagnie littéraire, 2006.
+- Georges Labouysse, Histoire de France : L'imposture. IEO, 2007.
+
+## POLITIQUE
+- Robert Lafont, Mistral ou l'illusion. Plon, 1954.
+- François Fontan, Ethnisme: vers un nationalisme humaniste, Librairie occitane, 1961.
+- Robert Lafont, La Révolution régionaliste, Gallimard, 1967.
+- François Fontan, La Nation occitane, ses frontières, ses régions. Librairie occitane, 1969.
+- Félix Napo, 1907, la révolte des vignerons, Privat, 1971.
+- Robert Lafont, Décoloniser la France, Les régions face à l'Europe, Gallimard, 1971.
+- Comité occitan d'études et d'action (COEA), Le Petit livre de l'Occitanie (direct Jean Larzac), 4 Vertats-Maspero, 1972.
+- André Dupuy, Petite encyclopédie occitane, Saber, 1972.
+- Robert Lafont, Lettre ouverte aux Français d'un occitan, Albin Michel, 1973.
+- Robert Lafont, La Revendication occitane, Flammarion, 1974.
+- Félix-Marcel Castan, Décentralisation Occitaniste, Montauban, 1974.
+- Michel Le Bris, Occitanie, Volèm viure, Gallimard, 1974.
+- Claude Marti, Homme d'Oc, Stock, 1974.
+- Michel Le Bris, Les fous du Larzac, Gallimard, 1975.
+- Yves Rouquette, Las Cronicas de Viure, Vent Terral, 1975.
+- Yves Rouquette, Los carboniers de la Sala, Vent Terral, 1975.
+- Robert Lafont, Autonomie : de la région à l'autogestion Gallimard, 1976.
+- Robert Lafont, Clefs pour l'Occitanie, Seghers, 1977.
+- Jean Marie Carbasse, Félibrige Rouge, Ed Mireille Lacaze, 1977.
+- René Nelli, La Femme et l'amour, Hérétiques et politiques, Phébus, 1977.
+- Alain Alcouffe, Robert Lafont, Pierre Lagarde, Pour l'Occitanie, Privat, 1979.
+- Occitanie, Numéro spécial de la revue Autrement, 1980.
+- Henri Jean-Jean, De l'utopie au pragmatisme. Le mouvement occitan 1976-1990, Trabucaire, 1992.
+- Robert Lafont, Le Dénouement français, Pauvert-Suger, 1986.
+- Giovanni Agresti, Les Fous de la langue.
+- Langue, littérature et idéologies occitanes au XIXe siècle, Edisud, 1986.
+- Louis-Jean Calvet, La Guerre des langues et les politiques linguistiques, Payot, 1987.
+- Christian Faure, Le Projet culturel de Vichy, CNRS, 1989.
+- Robert Lafont, Nous, Peuple européen, Kimé, 1991.
+- Robert Lafont, La Nation, l'Etat et les régions, Berg International, 1993.
+- Claude Mauron, Frédéric Mistral, Fayard, 1993.
+- Bernard Revel, Montredon, les vendanges du désespoir, Loubatières, 1996.
+- Paul Castela, Occitanie: histoire d'une aliénation, Editions du Beffroi, 1999.
+- Christophe Rulhes, Les Occitans imaginés. Ethnicité et prophétisme, IEO, 2000.
+- Laurent Abrate, 1900-1968. Occitanie, des idées et des hommes, IEO, 2001.
+- Jean-Pierre Juge, Chronologie occitane, Loubatières, 2001.
+- Anne-Marie Thiesse, La Création des identités nationales : Europe XVIIIe-XXe siècles, Seuil, 2001.
+- Simon Calamel, Dominique Javel, La Langue d'Oc pour étendard. Les félibres (1854 - 2002), Privat, 2002.
+- Robert Lafont, Petita istória europèa d'Occitània, Trabucaire, 2003.
+- Emile Ripert, Le Félibrige, Jeanne Laffite, 2004.
+- Llibert Tarragò, Le Puzzle catalan, la nation fiévreuse, Autrement, 2007.
+
+## LANGUE, LITTERATURE
+- Charles Camproux, Anthologie de la littérature occitane, Payot, 1953.
+- André Berry, Anthologie de la poésie occitane, Stock, 1961.
+- Pierre Bec, La Langue occitane, Que sais-je, 1963.
+- Pierre Bec, Anthologie de la prose occitane du Moyen-âge, Aubanel, 1970.
+- Pierre Bec, Manuel de philologie romane, Picard 2 vol, 1970-71 (réédité 2000).
+- Charles Camproux, Histoire de la littérature occitane, Payot, 1971.
+- Christian Anatole et Robert Lafont, Nouvelle histoire de la littérature occitane, PUF, 1970-71.
+- René Nelli, La Poésie occitane, Seghers, 1972.
+- Jean Rouquette, La littérature d'Oc, Que sais-je, 1978.
+- Yvon Boudet, L'Eloge du patois, itinéraire d'un occitan, Gallilée, 1977.
+- Henri Mendras, Voyage au pays de l'utopie rustique, Actes Sud, 1979.
+- Pierre Bec, Anthologie des troubadours, 10-18, 1979.
+- Yves Rouquette, Occitanie, petit traité de géographie cordiale, CIDO, 1984.
+- Inventer le monde. Les Rhônalpins et leurs langages, Musée Dauphinois de Grenoble, 1990.
+- Henri Boyer, Clés sociolinguistiques pour le « francitan », CRDP Montpellier, 1990.
+- Philippe Gardy, Une écriture en archipel, cinquante ans de poésie occitane (1940-1990), Fédérop, 1992.
+- Etienne Hammel et Philippe Gardy, L'Occitan en Languedoc-Roussillon, Trabucaire, 1994.
+- Max Rouquette ou la tentation théâtrale. Presses du Languedoc, 1996.
+- Philippe Gardy, L'Ecriture occitane contemporaine, une quête de mots, L'Harmattan, 1996.
+- Bernard Manciet, la voix d'une œuvre, Presses du Languedoc, 1997.
+- Robert Lafont, Histoire et anthologie de la littérature d'Oc, Presses du Languedoc, 1997.
+- C. Clairis, D. Costaouec, J.B. Coyos, Langues et cultures régionales de France. Etat des lieux, enseignement, politiques, L'Harmattan, 2000.
+- Jean Sibille, Les Langues régionales, Flammarion, 2000.
+- Jean-François Courouan, Manifestes linguistiques occitans, XVI-XVII siècles, Atlantica, 2001.
+- Jan dau Melhau, poète paysan-païen, Presses du Languedoc, 2001.
+- Laurent Abrate, Occitanie, des idées et des hommes, 1900-1968, IEO, 2001.
+- Robert Lafont, Aux origines occitanes de l'Europe littéraire. L'Harmattan, 2002.
+- Petite histoire sociale de la langue occitane (F.Peter Kirsch, G.Kremnitz, B.Schlieben-Lange), Trabucaire, 2002.
+- Robert Lafont, Un impossible théâtre, Presses du Languedoc, 2003.
+- Hervé Terral. La Langue d'Oc. Devant l'école (1789-1951), IDECO, 2005.
+- Robert Lafont, Le Roman de la langue, CELO-William Blake and Co, 2005.
+- Hervé Terral, Antonin Perbosc, Les langues de France à l'école, Trabucaire, 2006.
+- Précis d'occitan et de catalan (coord : Christian Nique), CRDP Montpellier, 2006.
+- Giovanni Agresti, Parcours linguistiques et culturels en Occitanie 1996-2006, Aracné, 2006.
+
+## ROMANS, TEMOIGNAGES, ESSAIS
+- Frédéric Mistral, Lou tresor dou Felibrige, 1879-1886, (Rééditions Edisud, Jeanne Laffitte, Princi Neguer).
+- Jean Giono, Colline, Grasset, 1929.
+- Jean Giono, Le Serpent d'étoiles, 1931 (Grasset, 1999).
+- Jean Giono, Le Chant du monde, Grasset, 1934.
+- Jean Giono, Que ma joie demeure, Grasset, 1935.
+- André Chamson, Roux le bandit, Grasset, 1925.
+- Joseph d'Arbaud, La Bête du Vaccarès, Grasset, 1942 (réédition 2007).
+- Henri Bosco, Le Mas Théotime, Grasset, 1946.
+- Gaston Baissette, L'Etang de l'or, Presses du Languedoc, 1946 (réédition Presses du Languedoc, 1991).
+- Marie Mauron, La Transhumance, Amiot-Dumont, 1959.
+- Max Rouquette, Verd Paradis, 1961 (traduction: Editions de Paris 1990).
+- Jean-Pierre Chabrol, Les Fous de Dieu, Gallimard, 1961.
+- Henri Lefebvre, Pyrénées, Rencontre, 1965.
+- André Chamson, Suite cévenole, Plon, 1968.
+- Max-Olivier Lacamp, Les Feux de la colère, Grasset, 1969.
+- Marie Mauron, La Provence qu'on assassine, Julliard, 1972.
+- Gaston Baissette, Ces grappes de ma vigne, Julliard, 1975.
+- Léonce Chaleix, La Mémoire du village, Stock, 1977.
+- Jean Pierre Chabrol et Claude Marti, Caminarèm, Laffont, 1978.
+- Henri Mendras, Voyage au pays de l'utopie rustique, Actes Sud, 1979.
+- Claude Marti, Les Petites Espagnes, Grasset, 1984.
+- Adrienne Durand-Tullou, Le Pays des aspho dèles, Payot, 1989.
+- Yves Rouquette, Midis, Petite géographie cordiale, Loubatières, 1992.
+- Jean-Pierre Chabrol, Gens de la Cévenne, Omnibus, 1993.
+- Joëlle Ginestet, Jean Boudou, la force d'aimer, Praessens, 1997.
+- Claude Marti, Ombres et lumières, Loubatières, 1998.
+- Claude Marti, Corbières au cour, Loubatières, 1998.
+- Marcelle Delpastre, Saumes pagans Psaumes païens, Lo Chamin de Sent Jaume, 1999.
+- Max Rouquette, Ils sont les bergers des étoiles, Rocher, 2001.
+- Daniel Daumas, Troçs de vidas / Tessons de vie, Biface. 2004.
+- Juan-Luc Sauvaigo, Compendium dérisoire du désir, Jorn, 2007.
+
+## DANSES
+- Francine Lancelot, Les Sociétés de farandole en Languedoc et Provence, ARES, 1973.
+- Lucienne Porte-Marrou, Dançar au pais danses occitanes en Provence, IEO-Ventadorn, 1983.
+- Maurice-Alexis-Louis Louis, Le Folklore et la danse, Editions d'aujourd'hui, 1984.
+- Thierry Boisvert, Impressions de quadrilles, ADAM 24, 1987.
+- Les Chercheurs et collecteurs en danse traditionnelle : répertoire, FAMDT-Modal, 1995.
+- Fernand Carlhian-Ribois, Bacchu-Ber et les danses d'épée dans les Alpes occidentales, Edisud, 1996.
+- Isabelle Brochard, Etienne Isabelle, Guide de la danse en Europe, Cité de la musique de Paris, 1999.
+- Yves Guilcher, La Danse traditionnelle en France : d'une ancienne civilisation paysanne à un loisir revivaliste, FAMDT Modal, 2001.
+- Sami Sadak, Enquête régionale sur les musiques et danses traditionnelles communautaires et musiques du monde, Arcade-PACA, 2001.
+- Emmanuelle Rayon, Pratique artistique en amateur : Musique, danse, théâtre et spectacles en Provence-Alpes-Côte d'Azur, Arcade, 2001.
+- Philippe Pasquier, Les Danses de caractères : études et impact en Provence, Prouvènço en Festo, 2002.
+- Musiques à danser d'en France, Modal, 2002.
+- Magali Viale, Les Brevets de danse dans le Sud-Est de la France, 1808- 1965, Université de Nice Sophia-Antipolis, 2002.
+- Rencontres : la pratique de la danse traditionnelle, Carnet du ménétrier N°18, 2003.
+- Etat des lieux de la danse dans le Var, Association Aspasya - Adiam 83, 2004.
+- Catherine Augé et Yvonne Paire, L'Engagement corporel dans les danses traditionnelles de France métropolitaine, DMDTS, 2006.
+
+## REVUES/PRESSE
+- L'Escargot-folk.
+- Modal, revue des musiciens routiniers.
+- Pastel (Conservatoire occitan).
+- Cahiers des études cathares.
+- Plein Jeu, cahiers d'éco-musiques.
+- Connaissance du Pays d'Oc (1973-1988).
+- Linha Imaginot.
+- Revue Méditerria.
+- Accordance.
+- La Setmana.
+- La Clau.
+- Taktik.
+- Aquo d'Aqui.
+- Trad Magazine.
+- Mondomix.
+- World.
+- César.
+- Accordéon Magazine.
+- Folks Roots Magazine.
+- Ethnotempos.
+- Pages musiques de la presse régionale:
+- La Montagne
+- Midi-Libre
+- La Dépêche du Midi
+- Sud-Ouest
+- La Provence
+- Le Dauphiné Libéré
+- Le Progrès
