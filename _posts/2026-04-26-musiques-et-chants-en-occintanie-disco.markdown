@@ -17,7 +17,7 @@ Ce post est une version textuel de la "Discographie selective" du livre "Musique
 - « Tout en faucillant les prés », Autop, 2003.
 
 ## AIGA LINDA
-- « Chants et musiques des vallées cévenoles et du Mont Lozère », Autop, 1989.
+- « Chants et musiques des vallées cévenoles et du Mont Lozère », Autop, 1989. [notice](https://www.discogs.com/release/13263118-Aiga-Linda-Chant-Et-Musique-Des-Vall%C3%A9es-C%C3%A9venoles-Et-Du-Mont-Loz%C3%A8re)
 - « Sem aqui », Autop, 1993.
 - « Barrutladas », Autop, 1999.
 
@@ -26,8 +26,9 @@ Ce post est une version textuel de la "Discographie selective" du livre "Musique
 - « Fin Amor » (avec M. Bellity), Buda, 2007.
 
 ## ALIGOT ELEMENTS
-- « Les révoltés du Pounti », Tomme Fraîche, Modal, 2000 - « Rasez le Puy de Dôme qu'on voie la mer », 2002.
-- « Le signal du Luguet ", Modal, 2003.
+- « Les révoltés du Pounti », Tomme Fraîche, Modal, 2000
+- « Rasez le Puy de Dôme qu'on voie la mer », 2002.
+- « Le signal du Luguet », Modal, 2003.
 - « Musique des veillées en Auvergne », 2004.
 
 ## ALPES
@@ -102,8 +103,7 @@ Ce post est une version textuel de la "Discographie selective" du livre "Musique
 - « Du bal folk au concert debout », Autop, 2007.
 
 ## BELLSOLA (GISELA)
-- « Ab la fresca clartat. Lo cant dels trobadors a Catalunha »
-(avec Ensemble Saurimonda, Autop, 2002.
+- « Ab la fresca clartat. Lo cant dels trobadors a Catalunha » (avec Ensemble Saurimonda, Autop, 2002.
 - « Bela domna. Noble dame et amour courtois » (avec Ensemble instrumental L'itinéraire musical), Ed Jade, 2004.
 
 ## BELTRAME (GASTON)
@@ -129,18 +129,18 @@ Ce post est une version textuel de la "Discographie selective" du livre "Musique
 
 ## BODEGA
 - « Bodéga, Bodegaires ! Anthologie de la cornemuse du haut-Languedoc », 3 CD Abeille music, 2004
-Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude trio, Montanha Negra, Trio Espinasse-Le Meur, Aquò Rai, La confrérie des souffleurs, Trio Yan Cozian, Soanaires d'Oc, Duo Xavier de la Torre-François Bloqué, Duo Martres-Brugière.
+- Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude trio, Montanha Negra, Trio Espinasse-Le Meur, Aquò Rai, La confrérie des souffleurs, Trio Yan Cozian, Soanaires d'Oc, Duo Xavier de la Torre-François Bloqué, Duo Martres-Brugière.
 
 ## BOISSIERE (PEIRE)
 - « Margarida, Cantar en Pais d'Oc », Cinq planètes, 2007.
 
 ## BOMBES 2 BAL
-- « Danse avec ta grand-mère », Tôt ou tard, 2004.
-- « Bal indigène », Tôt ou tard, 2007.
+- « Danse avec ta grand-mère », Tôt ou tard, 2004. [lien](https://www.youtube.com/watch?v=CnPkBkDKiyQ&list=PLfoSdh0zwLVJEyXc0aHv-TGR5WJJBi3iW)
+- « Bal indigène », Tôt ou tard, 2007. [lien](https://www.youtube.com/watch?v=q30PoutqRxA&list=PLY1C-C97cj63ibenUh7WFgeNfHBoNePQd&pp=0gcJCdAEOCosWNin)
 
 ## BONHOURE (BRUNO)
-- « Se canta que recante (chants des moments perdus en Massif-Central) » (avec La Camera delle lacrime), Alpha, 2006.
-- « Noël baroque en Pays d'oc » (avec La Camera delle lacrime), Alpha, 2007.
+- « Se canta que recante (chants des moments perdus en Massif-Central) » (avec La Camera delle lacrime), Alpha, 2006. [lien](https://www.youtube.com/watch?v=4ZJgZv4Fd8I&list=PLt5CtgChhKqkPm60L14wO195Ex9q2keVa)
+- « Noël baroque en Pays d'oc » (avec La Camera delle lacrime), Alpha, 2007. [lien](https://www.youtube.com/watch?v=0mYUHyYCu3A&list=PLysvtmnTJNyGXT8FHPZ4VNBou3RnTAP_j&index=2)
 
 ## BONNET (GUY)
 - « Lou desmama », CBS, 1981.
@@ -148,7 +148,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « Guy Bonnet chante Trenet en Langue d'oc », Forlane, 1997.
 - « Fideu, fidèle », EPMMélodie, 2000.
 - « Au fil du temps », Lep Music, 2002.
-- « Les lettres de mon moulin en chanson », Lep Music, 2002.
+- « Les lettres de mon moulin en chanson », Lep Music, 2002. [lien](https://www.youtube.com/watch?v=t0oYYOY2DGQ&list=OLAK5uy_lkQtz5YrKVnJNRyPWmyYClV7_YgWgF0UI)
 
 ## BOUYGUES (CHRISTIAN)
 - « Dançar (danses du Rouergue) », Dralhe, 2000.
@@ -185,7 +185,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « Passat deman : musique d'occitania », Modal /Plein jeu, 1999.
 
 ## CARCASSES (PHILIPPE)
-- « Musique des joutes nautiques », ODAC, 1995.
+- « Musique des joutes nautiques », ODAC, 1995. [piste](https://www.youtube.com/watch?v=O1ducmYkdCs)
 
 ## CARDABELA
 - « Cardabela », Ventadorn, 1977.
@@ -195,7 +195,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 
 ## CARLOTTI (JAN-MARIA)
 - « Cant e musica de Provença, XII-XXe siècles » (avec Mont-Joia), Le Chant du Monde, 1975.
-- « Cançons dei festas proven-çalas » (avec Mont-Joia), Le Chant du monde, 1977.
+- « Cançons dei festas provençalas » (avec Mont-Joia), Le Chant du monde, 1977.
 - « Nautrei siam tres bomians » (avec Mont-Joia), Le Chant du Monde, 1979.
 - « Salabrun » (avec Mont-Joia), Le Chant du Monde, 1981.
 - « Le secret de Jaume le berger », Vif argent, 1986.
@@ -211,10 +211,10 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « Finissez d'entrer » (avec la Fabrique), Roche-Breugnot, 1998.
 - « Acide folklorique et produits dérivés » (avec La Fabrique), Modal, 2001.
 - « Nuit » (avec A. Ricros et La Fabrique), Nord-Sud, 2002.
-- « Du Bartas » (avec Du Bartas), Sirventès, 2006.
+- « Du Bartas » (avec Du Bartas), Sirventès, 2006. [lien](https://www.youtube.com/watch?v=9fVmAf19-co&list=PLhEAO5v2gFcUq5lrwIXtyankseabbcdZA)
 
 ## CHANTELEBRE
-- « Sur la route de Pallier », DM, 1995.
+- « Sur la route de Pallier », DM, 1995. [lien](https://www.youtube.com/watch?v=nf6xPgmyj4E&list=PLlv4kjB6pfSTutFG-cjPvrnjy1Hsgax50&pp=sAgC)
 
 ## CHARLES-DOMINIQUE (LUC)
 - « Riga-Raga, Musica nostra, musica del poble », Autop, 1979.
@@ -234,7 +234,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « Per le païs », Autop, 1978.
 
 ## CHIRON (ANDRE)
-- « André Chiron canto Brassens », vol 1 et 2, SAP, 1978-1979.
+- « André Chiron canto Brassens », vol 1 et 2, SAP, 1978-1979. [vol1](https://www.youtube.com/watch?v=8d37hOLw2tc) [vol2](https://www.youtube.com/watch?v=5iAwdvpfcFE)
 - « Canto sempre », La puce Musicale, 1996.
 - « La pastorale des santons de Provence », Megamedias, 1997.
 - « Canto et conto », La puce Musicale, 2002.
@@ -316,7 +316,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 - « En tut segre los jors ». Ventadorn, 1976.
 - « Lo deleser », Ventadorn, 1977
 - « Los d'a Roier. Cronicas dau Lemosin », Ventadorn, 1978.
-- « Lo diable es jos la porta », Ventadorn, 1978. (IEO Limousin, 2003)
+- « Lo diable es jos la porta », Ventadorn, 1978. (IEO Limousin, 2003) [lien](https://www.youtube.com/watch?v=VLYzmW-m5to)
 - « Cronicas dau Lemosin », Ventadorn, 1982.
 - « Los d'a Roier, musique de tradicion lemosina ». Los amics de los d'a Roeir, 1984.
 - « Cronocad d'Armanac », Lo chemin de Sent-Jaumes, 1987.
@@ -333,29 +333,29 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 
 ## D.C.A (TRIO)
 - « Trio D.C.A », Amta, 2002.
-- « Rasez le Puy de Dôme, qu'on voit la mer », Amta, 2003.
-- « Musique des veillées en Auvergne. Entre chien et loup », Amta, 2004.
+- « Rasez le Puy de Dôme, qu'on voit la mer », Amta, 2003. [cd](https://www.phonolithe.fr/produits/cd/478-divers-rasez-le-puy-de-dome-su-on-voie-la-mer-3477170752201)
+- « Musique des veillées en Auvergne. Entre chien et loup », Amta, 2004. [cd](https://www.phonolithe.fr/produits/cd/426-divers-entre-chien-et-loup-musiques-des-veillees-en-auvergne-3477170753000)
 
 ## DELBEAU (PEIRE-ANDRIEU)
 - « Vents e marèas », Centre Etudes Occitanes Montpellier, 1969.
-- « Camas de boi/ Jambes de bois », Chant du monde, 1973.
+- « Camas de boi/ Jambes de bois », Chant du monde, 1973. [piste](https://www.youtube.com/watch?v=-VQ9edT5B2k)
 
 ## DEL SAUVETERRE
-- « Los del Sauveterre », Le Chant du Monde, 1978.
+- « Los del Sauveterre », Le Chant du Monde, 1978. [lien](https://www.youtube.com/watch?v=RybavNE1FQw)
 
 ## DE MAIRE EN FILHA
 - « Cançons occitanas », Dralhe, Scalen 1996.
-- « Terra Maïre, Dralhe, 2000.
+- « Terra Maïre », Dralhe, 2000.
 
 ## DE PEIRA (ROSINA)
 - « Los dus filhets del Rei » (avec Martina de Peira), Révolum, 1973.
-- « Rosina de Peira », vol 2, Révolum, 1975.
-- « Se io sabiai volar », Révolum, 1976
-- « Cançons de femnas » (avec M. de Peira), Révolum, 1979.
+- « Rosina de Peira », vol 2, Révolum, 1975. [lien](https://www.youtube.com/watch?v=ghivHyxV6Zg)
+- « Se io sabiai volar », Révolum, 1976 [lien](https://www.youtube.com/watch?v=B57zaX0grgA)
+- « Cançons de femnas » (avec M. de Peira), Révolum, 1979. [lien](https://youtube.com/watch?v=E-zylwM81KM)
 - « Ié (avec M. de Peira) », Révolum, 1982.
 - « Nadal Encara » (avec R. Daga et F. Clara), Révolum, 1984.
 - « Trobadoras » (avec M. de Peira), Révolum, 1984.
-- « Anueit », Miqueli Music, 1991.
+- « Anueit », Miqueli Music, 1991. [lien](https://www.youtube.com/watch?v=CenCUYM5_zg)
 - « Sul viu, Gospel d'oc », Autop, 2003.
 
 ## DE PEIRA (MARTINA)
@@ -365,7 +365,7 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 
 ## DUO CHEOPS
 - « Entre Lengado et Prouvenço », Autop, 1997.
-- « Ligoumbau », Autop 2001.
+- « Ligoumbau », Autop 2001. [piste](https://duocheops.e-monsite.com/videos/chansons-en-provencal/ligoumbau.html)
 
 ## DUPAIN
 - « L'usina », Virgin 2000.
@@ -375,13 +375,12 @@ Avec : Canta Craba, Duo Philippe Cacassés-Ives Gras, Lo Jaç, Sófia de Dixmude
 ## DURIF (OLIVIER)
 - Cf. Le Grand Rouge (avec E. Montbel, Ch. Oller, P. Imbert).
 - « Musiques de violon, C'est les vacances » (avec J.F. Vrod), Amta, 1987.
-- « Le violon de la forge » (avec J.P Champeval), Amta, 1991.
+- « Le violon de la forge » (avec J.P Champeval), Amta, 1991. [notice](https://catalogue.bnf.fr/ark:/12148/cb382433304)
 - « La concordance des temps » (avec Trio violon), 1991.
 - « Faï dardar ! », Amta, 1993.
 - « Accordéons 94 - les costauds de la lune » 1 et 2, Autop, 1994.
 - « Violons - Morceaux choisis d'une rencontre... », Amta, 1995.
-- « Danses » (avec Trio Violon),
-Compil, Amta, 1998.
+- « Danses » (avec Trio Violon), Compil, Amta, 1998.
 - « Tu chantes pas ? » (avec A. Savouret et Trio Violon), Amta, 2001.
 - « Noël qui vient, Noël qui va » (avec la Bande de Seilhac), Amta, 2002.
 - « Musique des veillées en Auvergne. Entre chien et loup » (coll.), Amta, 2004.
@@ -419,8 +418,7 @@ Compil, Amta, 1998.
 
 ## FATCHE D'EUX
 - « Restez tranquille », Mosaïc Music, 2003.
-- « Avant que ça déraille »,
-Mo sac Music, 2005
+- « Avant que ça déraille », Mo sac Music, 2005
 - « Même si... », Mo saic Music, 2007.
 
 ## FEMMOUZES T
@@ -467,21 +465,21 @@ Mo sac Music, 2005
 - « Aital Sèm! », Aimi, 2004.
 
 ## GABRIEL (ANDRE)
-Avec Les Musiciens de Provence, 10 CD, Arion, 1970-1980.
-Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
-- « Le galoubet-tambourin. Musique d'hier et d'aujourd'hui », Ocora, 1995.
+- Avec Les Musiciens de Provence, 10 CD, Arion, 1970-1980.
+- Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
+- « Le galoubet-tambourin. Musique d'hier et d'aujourd'hui », Ocora, 1995. [notice](https://www.discogs.com/release/27009417-Various-France-Provence-Le-Galoubet-Tambourin-Musique-Dhier-Et-Daujourdhui-Galoubet-And-Tambourin-Mu), [lien-1](https://www.youtube.com/watch?v=anTepkjuaL4&pp=0gcJCdQKAYcqIYzv), [lien-2](https://www.youtube.com/watch?v=6lT0-K0Yxk8), [lien-3](https://www.youtube.com/watch?v=1HvLwaQ2u3c&t=83s), [lien-4](https://www.youtube.com/watch?v=vhreZZiNSzE)
 - « Les fêtes d'Hébée de Rameau » (avec W. Christie), Erato, 1996.
 - « L'Art du galoubet-tambourin provençal », Arion, 2001.
 
 ## GACHA EMPEGA
-- « Polyphonies marseillaises », Empreinte Digitale, 1998.
+- « Polyphonies marseillaises », Empreinte Digitale, 1998. [lien](https://www.deezer.com/us/album/57224282)
 
 ## GALIBERT (CLAUDIA)
 - « Escota mon grand », Ventadorn, 1976.
 
 ## GALDA ZEN
 - « Chromatophonies », L'Autre distribution, 2002
-- « Le tourment des lunes, Discoïdale, 2005.
+- « Le tourment des lunes », Discoïdale, 2005.
 
 ## GOUGAUD (Henri)
 - « Los pastre de paraulas, Gougaud canta occitan », Cavalier, 1974.
@@ -555,7 +553,9 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 ## LA COMPAGNIE DU RIGODON
 - « Rigodon sauvage », Ocora, 1995.
 - « Les violons du rigodon », Autop, 1997.
-- « Drailles, quintette de violons (Alpes du sud-Dauphiné) », Modal, 1999 - « Hier, aujourd'hui » (collectages et pratiques autour du rigaudon), Buda, 2000 - « Arco Alpino », Modal, 2002.
+- « Drailles, quintette de violons (Alpes du sud-Dauphiné) », Modal, 1999
+- « Hier, aujourd'hui » (collectages et pratiques autour du rigaudon), Buda, 2000
+- « Arco Alpino », Modal, 2002.
 - « Les violons du rigaudon, fanfare ménétrière », 2002.
 - « Atlas sonore », CMTRA, 2004.
 - « Tant que vire » (avec les Balbelettes), 2005.
@@ -673,15 +673,14 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « Hopopo », Daqui, 2003.
 
 ## LO COR DE LA PLANA
-- « Es lo titre », Paratge-Nord-Sud, 2003.
-- « Tant deman », Buda-Universal, 2007
+- « Es lo titre », Paratge-Nord-Sud, 2003. [lien](https://www.deezer.com/us/album/1204860)
+- « Tant deman », Buda-Universal, 2007 [lien](https://www.deezer.com/us/album/47452)
 
 ## LODDO (DANIEL)
 - Cf. [La Talvera](#la-talvera).
 
 ## LO JAI
-- « Musiques traditionnelles du Limousin », Révolum,
-1982.
+- « Musiques traditionnelles du Limousin », Révolum, 1982.
 - « Bal oche, Quand Lo Jai est là », Révolum, 1989.
 - « Musiques et voix traditionnelles d'aujourd'hui » (5 vol), Conservatoire Occitan, 1987-1989.
 - « French Traditionnel Music from Limousin ». Shanachie Records, 1987.
@@ -707,7 +706,8 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « T'on vas ? », VS, 1981.
 - « Qu'em ço qui em ! », VS, 1984.
 - « Du cuu au vent », LDN, 1991.
-- « Nadau en companhia » (en public), VHS, 1993 - « Pengabelot », LDN 1994.
+- « Nadau en companhia » (en public), VHS, 1993
+- « Pengabelot », LDN 1994.
 - « S'avi sabut » (compilation), LDN 1995.
 - « Nadau en companhia, Zénith 96 », Audiomaster, 1996.
 - « Plumalhon », LDN 1998.
@@ -827,7 +827,7 @@ Avec L'Ensemble Taller-Zyriab de Séville, 2 CD, 1990.
 - « Musica en Albigès, Tarn 1979-1996 », Cordae-La Talvera.
 - « Jean-Baptise Bouillet, musiques du Puy-de-Dôme » (avec Les 3 zens, Fai pétar, Dômad'airs, Bardane, Les ménétriers du coq noir, Les violons du Gamounet, Salat et ].-L. Deygas), Amta, 2004.
 - « Entre chien et loup. Musique des veillées d'Auvergne » (avec Un piano dans le pré, DCA, Traucaterme, Transept, Ribouldingue, La Jimbr'tée, La Fabrique, La Chavannée, Ici l'Auvergne, Chiens et Soufflets, Bardane, Aligot Eléments), Amta, 2004.
-José Roux : cabreta d'amor, Amta, 2007.
+- José Roux : cabreta d'amor, Amta, 2007.
 - Cf. [Atlas sonores du CMTRA](https://cmtra.org/Nos_actions/Ressources/1400_Les_Atlas_sonores.html) (lien externe)
 
 ## MASSILIA SOUND SYSTEM
@@ -1000,7 +1000,7 @@ José Roux : cabreta d'amor, Amta, 2007.
 - « Ocsessions », Aura, 2007.
 
 ## PELEN (JEAN-NOEL)
-- « Cansons popularas de las cevenas », Sapem, 1981.
+- « Cansons popularas de las cevenas », Sapem, 1981. [piste](https://www.youtube.com/watch?v=M7aDUSOmHGc), [piste](https://www.youtube.com/watch?v=bOYWvrfGpao), [piste](https://www.youtube.com/watch?v=jezIb7lRAxc) [notice](https://www.discogs.com/release/11440214-Jean-No%C3%ABl-Pelen-Cansons-Popularas-De-Las-Cevenas)
 
 ## PEIRA GUDA
 - « Lo leberon », Ventadorn, 1977.
@@ -1077,7 +1077,7 @@ José Roux : cabreta d'amor, Amta, 2007.
 
 ## SETTE (RENAT)
 - « La filha du ladrier », Autop, 1994.
-- « Cantar (avec P. Bonnet), L'empreinte digitale, 1997.
+- « Cantar » (avec P. Bonnet), L'empreinte digitale, 1997.
 - « Enamorada Madalena », L'empreinte digitale, 1998.
 - « La bela naissença », L'empreinte digitale, 1999.
 - « Dona Bela », FolkClub Ethnosuoni, 2001.
@@ -1115,10 +1115,10 @@ José Roux : cabreta d'amor, Amta, 2007.
 - « Aral », Buda, 2007.
 
 ## THERON (MANU)
-- « Polyphonies marseillaises » (avec Gacha Empega), L'empreinte digitale-Harmonia Mundi, 1998.
-- « Es lo titre » (avec Lo Cor de la Plana), Nord-Sud, 2003.
-- « Tant deman » (avec Lo Cor de la Plana), Buda, 2007.
-- « Chi na na poun » (avec P. Vaillant, D. Malavergne), Daqui, 2007.
+- « Polyphonies marseillaises » (avec Gacha Empega), L'empreinte digitale-Harmonia Mundi, 1998. [lien](https://www.deezer.com/us/album/57224282)
+- « Es lo titre » (avec Lo Cor de la Plana), Nord-Sud, 2003. [lien](https://www.deezer.com/us/album/1204860)
+- « Tant deman » (avec Lo Cor de la Plana), Buda, 2007. [lien](https://www.deezer.com/us/album/47452)
+- « Chi na na poun » (avec P. Vaillant, D. Malavergne), Daqui, 2007. [lien](https://www.deezer.com/us/album/617219)
 
 ## TISNER (JOAN-FRANCES)
 - « Cantas et danças de Gasconha » (avec Canicula), Autop, 1983.
@@ -1166,7 +1166,7 @@ José Roux : cabreta d'amor, Amta, 2007.
 - « Florilège », Alba Musica, 2007.
 - « Musiques à la cour d'Aliénor d'Aquitaine », Alba Musica, 2007.
 
-T.R.I.O.C
+## T\.R\.I\.O\.C
 - « Roseau en vie...brations », VDE Gallo/Concorde, 1995?
 
 ## UNE ANCHE PASSE
@@ -1187,24 +1187,24 @@ T.R.I.O.C
 ## VAILLANT (PATRICK)
 - « Cant e Musicas dau pais Nissart » (avec Bachas), Ventadorn, 1979.
 - « Littorales » (avec Bachas-Mont-Joia), Arion, 1986.
-- « Veranda » (avec Riccardo Tesi), Silex, 1991.
-- « Colline » (avec R. Tesi, G.L. Trovesi...). Silex, 1994.
-- « Anita, Anita », Silex, 1994.
+- « Veranda » (avec Riccardo Tesi), Silex, 1991. [lien](https://www.deezer.com/us/album/15522368)
+- « Colline » (avec R. Tesi, G.L. Trovesi...). Silex, 1994. [lien](https://www.deezer.com/us/album/15522374)
+- « Anita, Anita », Silex, 1994. [lien](https://www.deezer.com/us/album/969059601)
 - « Enamorada Madalena », L'empreinte digitale, 1998.
 - « Au sud de la mandoline » (avec le Mélonius Quartet), L'Empreinte digitale, 1999.
 - « La bela naissença » (avec R. Sette, D. Franzin, J.L. Ruf.), L'Empreinte digitale, 1999.
-- « Jan de l'ours », Modal, 1999.
+- « Jan de l'ours », Modal, 1999. [lien](https://www.deezer.com/us/album/342702637)
 - « Uno a zero » (avec G. Mirabassi (coll.), Autop, 2001.
 - « Amor'esca », (avec J. Micaelli), Naïve, 2001.
-- « Arco Alpino », (direction P. Vaillant), Modal, 2002.
-- « Au sud de la mandoline » (avec Le Mélonius Quartet), L'empreinte digitale, 2003.
-- « Chin na na poun » (avec D. Malavergne et M. Theron), Daqui, 2007.
+- « Arco Alpino », (direction P. Vaillant), Modal, 2002. [lien](https://www.deezer.com/us/album/825555861)
+- « Au sud de la mandoline » (avec Le Mélonius Quartet), L'empreinte digitale, 2003. [lien](https://www.deezer.com/us/album/55621782)
+- « Chi na na poun » (avec D. Malavergne et M. Theron), Daqui, 2007. [lien](https://www.deezer.com/us/album/617219)
 - « Bastian contrari », Modal, 2007.
 
 ## VAL D'ARAN
-Es Corbilhuèrs : - « Aran canta Gasconha », 1987, Picap.
-Lucia Mas : - « Ena Antara, Cante en occitan dera Val d'Aran », Autop, 1998.
-Bramatopin :- « Sarabat d'Aran », Autop, 2005.
+- Es Corbilhuèrs : « Aran canta Gasconha », 1987, Picap.
+- Lucia Mas : « Ena Antara, Cante en occitan dera Val d'Aran », Autop, 1998.
+- Bramatopin : « Sarabat d'Aran », Autop, 2005.
 
 ## VENTA DIS
 - « Sémafore », Autop, 1994.
@@ -1218,6 +1218,7 @@ Bramatopin :- « Sarabat d'Aran », Autop, 2005.
 - « Baladas e danças », Menestrers Gascons, 2005.
 
 ## VERDIER (JOAN PAU)
+[lien](https://www.deezer.com/us/artist/1104608)
 - « Occitania sempre », Philips, 1973.
 - « Veiqui l'Occitan », Philips, 1973.
 - « L'exil », Philips, 1973.
@@ -1232,8 +1233,8 @@ Bramatopin :- « Sarabat d'Aran », Autop, 2005.
 - « Vieillir auprès de toi », Philips, 1981.
 - « Machita », Philips, 1982.
 - « Chante-souvenir, poèmes du corrèzien Maurice Croze », Autop, 1986.
-- « Cinquième saisone, Scalen Disc, 1987.
-- « Le chant du sude (avec Bigaroc), Révolum, 1989.
+- « Cinquième saisone », Scalen Disc, 1987.
+- « Le chant du sud » (avec Bigaroc), Révolum, 1989.
 - « Pirouettes », Révolum, 1991.
 - « Vint ans aprèp », Novelum-TEO, 1993.
 - « Les grandes chansons », Phonogram, 1993.
@@ -1251,11 +1252,11 @@ Bramatopin :- « Sarabat d'Aran », Autop, 2005.
 - « Le bal », Dralhe, 2002.
 
 ## VIELLISTIC ORCHESTRA
-- « Mille ans déjà », Alba Musica, 1995.
-- « Cris de cordes », Alba Musica, 1995.
-- « Tsé tsé Symphonie », Alba Musica, 1997.
+- « Mille ans déjà », Alba Musica, 1995. [lien](https://www.deezer.com/us/album/44499)
+- « Cris de cordes », Alba Musica, 1995. [lien](https://www.deezer.com/us/album/44502)
+- « Tsé tsé Symphonie », Alba Musica, 1997. [lien](https://www.deezer.com/us/album/44503)
 - « Live à Saint-Chartier », Alba Musica, 2000.
-- « Archets infinis, miroirs du millénaire » (live Japon), Alba Musica 2000.
+- « Archets infinis, miroirs du millénaire » (live Japon), Alba Musica 2000. [lien](https://www.deezer.com/us/album/44497)
 - « A Millenium of Hurdy-Gurdy » (DVD), King Records Japon, 2005.
 
 ## VIEUSSENS (CHRISTIAN)
@@ -1272,10 +1273,10 @@ Bramatopin :- « Sarabat d'Aran », Autop, 2005.
 ## VROD (JEAN-FRANÇOIS)
 - « Ethnograffiti » (avec Cie chez Bousca), Silex, 1991.
 - « La concordance des temps » (avec Trio de violons), Silex, 1991.
-- « Voyage », Silex, 1996.
-- « Jean-François Vrod », Cinq Planètes, 1998.
+- « Voyage », Silex, 1996. [lien](https://www.deezer.com/us/album/6222564)
+- « Jean-François Vrod », Cinq Planètes, 1998. [lien](https://www.deezer.com/us/album/1014054)
 - « Faire l'idiome pour avoir du son », Box pock, 2000
-- « La soustraction de: fleurs », Radio France, 2006.
+- « La soustraction des fleurs », Radio France, 2006. [lien](https://www.deezer.com/us/album/251088)
 
 ## WORKSHOP DE HAUT-BOIS POPULAIRES
 - « Les Grinces Charmants », Cimo et To, 2002.
@@ -1290,11 +1291,11 @@ Bramatopin :- « Sarabat d'Aran », Autop, 2005.
 - « Chante les troubadours du XII et XIIIe siècles, vol 2 », Trobar e cantar (avec D. Regef, J. Khoudir), Gallo, 1992.
 - « Le Tourment de la Licorne » (avec le Trio Sonata concert), Gallo, 1992.
 - « L'hérétique » (avec Michel Rousset), Gallo. 1993.
-- « Une petite lampe sur la mer » (avec M.Rousset), Arion, 1993.
+- « Une petite lampe sur la mer » (avec M.Rousset), Arion, 1993. [lien](https://www.deezer.com/us/album/637132)
 - « Chante les troubadours du XIIe et XIIIe siècles , vol 3, Tensons de trobairitz » (avec ; K. Caré, G. Bellsolà, G. Robert, P. Brient), Gallo, 1993.
 - « Chante les troubadours du XIIe et XIIIe siècles. Trobar e tarab » (avec M. Rousset, F. Al-Aiedy), Gallo, 1995.
-- « Le manuscrit du Roi » s (avec L'Ensemble Perceval), Arion, 1993.
-- « Le troubadour Guiraut Riquier » (avec L'Ensemble Perceval), Arion, 1996.
+- « Le manuscrit du Roi » (avec L'Ensemble Perceval), Arion, 1993. [lien](https://www.deezer.com/us/artist/6199362)
+- « Le troubadour Guiraut Riquier » (avec L'Ensemble Perceval), Arion, 1996. [lien](https://www.deezer.com/us/album/729746)
 - « Canso viva », Alienor-Harmonia Mundi, 1996.
 - « Occitan Trob'art Concept 1, Trobar en Limousin », Abeille, 2000.
 - « Occitan Trob'art Concept 2, Chants en Limousin », Abeille.
