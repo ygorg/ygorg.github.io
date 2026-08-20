@@ -21,61 +21,71 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 
 ## Bibliographie
 
-- BERAUD-WILLIAMS Sylvette, « Chansons à danser » au sein du chapitre « Chansons et danses » in CARLAT Michel (Dir.), L’Ardèche , Curandera, 1985, pp 538-540.
-- CANTELOUBE Joseph, « Rigaudons » in Anthologie des chants populaires français, tome 2, Paris : Durand & Cie, 1951, pp 47-49 (« Haut-Dauphiné ») puis pp 62-64 (« Bas-Dauphiné »).
-- CHUZEL Geneviève et MAZELLIER Patrick, « Musiques, chants et danses » in Patrimoine en Isère : Trièves, Grenoble : Musée Dauphinois/Conservation Départementale du Patrimoine de l’Isère, 1996, pp 196-201.
+- BERAUD-WILLIAMS Sylvette, « Chansons à danser » au sein du chapitre « Chansons et danses » in CARLAT Michel (Dir.), L'Ardèche, Curandera, 1985, pp 538-540.
+- CANTELOUBE Joseph, « Rigaudons » in Anthologie des chants populaires français, tome 2, Paris : Durand & Cie, 1951, pp 47-49 ("Haut-Dauphiné") puis pp 62-64 ("Bas-Dauphiné").
+- CHUZEL Geneviève et MAZELLIER Patrick, « Musiques, chants et danses » in Patrimoine en Isère : Trièves, Grenoble : Musée Dauphinois/Conservation Départementale du Patrimoine de l'Isère, 1996, pp 196-201.
 - CMTRA, Le Rigodon, Lettre d'information n°63, Automne 2006
-	-  [https://cmtra.org/Nos_actions/Ressources/819_Le_Rigodon.html](https://cmtra.org/Nos_actions/Ressources/819_Le_Rigodon.html)
-- CMTRA, "Tirroirs" : Le rigodon en question, Entretien avec Michel Favre, date inconnue
-	- [https://cmtra.org/Nos_actions/Lettres_dinformation/809_Tiroirs.html](https://cmtra.org/Nos_actions/Lettres_dinformation/809_Tiroirs.html)
-- COMPAGNIE RECOURDÀS (LA), Rigodons et autres danses traditionnelles en Dauphiné , Autoédité, 200?.
+	-  [cmtra.org](https://cmtra.org/Nos_actions/Ressources/819_Le_Rigodon.html)
+- CMTRA, « Tirroirs » : Le rigodon en question, Entretien avec Michel Favre, date inconnue
+	- [cmtra.org](https://cmtra.org/Nos_actions/Lettres_dinformation/809_Tiroirs.html)
+- COMPAGNIE RECOURDÀS (LA), Rigodons et autres danses traditionnelles en Dauphiné, Autoédité, 200?.
 - GAUTHIER-LURTY P. & VINCENT M., « Trois rigaudons de Beaumont » in 31 chansons populaires dauphinoises, Grenoble : Didier Richard, pp 62-64.
 - GAUTHIER-VILLARS Marguerite, « Rigaudons » in Chansons du Dauphiné : Villard de Lans, Paris : Roudanez, 1929, pp 144-153
 	- Isère, Vercors
-- GUILCHER Jean-Michel, « Le domaine du rigodon, une province originale de la danse » in Chants et danses de tradition, Le monde alpin et rhodanien n°1-2/1984, Grenoble : Centre Alpin et Rhodanien d’Ethnologie, 1984, pp 7-72.
-	- [https://www.persee.fr/issue/mar_0758-4431_1984_num_12_1](https://www.persee.fr/issue/mar_0758-4431_1984_num_12_1)
-- GUILCHER Jean-Michel, Danse traditionnelle et anciens milieux ruraux français. Tradition, Histoire, Société , Paris : L’Harmattan (Collection « Ethnomusicologie et anthropologie musicale de l’espace français »), 2009. (Diverses références au rigodon tout au long de l’ouvrage ).
-	- [https://journals.openedition.org/rsa/173](https://journals.openedition.org/rsa/173)
-- GUILCHER Yves, « Rigodon (ou rigaudon) » in La danse traditionnelle en France, d’une ancienne civilisation paysanne à un loisir revivaliste , Saint-Jouin-de-Milly : FAMDT Modal, Folio / ADP / Librairie de la Danse, 1998, pp 265-266.
-	- [https://docplayer.fr/22531496-La-danse-traditionnelle-en-france-d-une-ancienne-civilisation-paysanne-a-un-loisir-revivaliste-par-yves-guilcher.html](https://docplayer.fr/22531496-La-danse-traditionnelle-en-france-d-une-ancienne-civilisation-paysanne-a-un-loisir-revivaliste-par-yves-guilcher.html)
-- MAZELLIER Patrick, « Refrains à danser : rigodons » in Les Renveillés d’Orcières. Une tradition de chant dans les Hautes-Alpes, Documents d’Ethnologie Régionale vol.21, livre+CD, Grenoble : Centre Alpin et Rhodanien d’Ethnologie, 2001, pp 104-106.
+- GUILCHER Jean-Michel, « Le domaine du rigodon, une province originale de la danse » in Chants et danses de tradition, Le monde alpin et rhodanien n°1-2/1984, Grenoble : Centre Alpin et Rhodanien d'Ethnologie, 1984, pp 7-72.
+	- [persee.fr](https://www.persee.fr/issue/mar_0758-4431_1984_num_12_1)
+- GUILCHER Jean-Michel, Danse traditionnelle et anciens milieux ruraux français. Tradition, Histoire, Société, Paris : L'Harmattan (Collection « Ethnomusicologie et anthropologie musicale de l'espace français »), 2009. (Diverses références au rigodon tout au long de l'ouvrage).
+	- [journals.openedition.org](https://journals.openedition.org/rsa/173)
+- GUILCHER Yves, « Rigodon (ou rigaudon) » in La danse traditionnelle en France, d'une ancienne civilisation paysanne à un loisir revivaliste, Saint-Jouin-de-Milly : FAMDT Modal, Folio / ADP / Librairie de la Danse, 1998, pp 265-266.
+	- Lien mort : https://docplayer.fr/22531496-La-danse-traditionnelle-en-france-d-une-ancienne-civilisation-paysanne-a-un-loisir-revivaliste-par-yves-guilcher.html
+- MAZELLIER Patrick, « Refrains à danser : rigodons » in Les Renveillés d'Orcières. Une tradition de chant dans les Hautes-Alpes, Documents d'Ethnologie Régionale vol.21, livre+CD, Grenoble : Centre Alpin et Rhodanien d'Ethnologie, 2001, pp 104-106.
 	- Livre CD
 - MAZELLIER Patrick, « Violoneux traditionnels en Dauphiné » in Violon populaire : le caméléon merveilleux, Saint-Jouin-de-Milly : Modal, 200?, pp 20-31
-- MAZELLIER Patrick, « Des folkloristes aux collectes contemporaines de chansons populaires. Quelques aspects des matériaux recueillis en Dauphiné et Vivarais » in Le monde alpin et rhodanien n°3-4/2004 , Grenoble : Centre Alpin et Rhodanien d’Ethnologie, 2004, pp 69-94
-	- [https://www.persee.fr/doc/mar_0758-4431_2004_num_32_3_1850#mar_0758-4431_2004_num_32_3_T1_0084_0000](https://www.persee.fr/doc/mar_0758-4431_2004_num_32_3_1850#mar_0758-4431_2004_num_32_3_T1_0084_0000)
-- MAZELLIER Patrick, « Rigodon » in Violon traditionnel. Dauphiné, Vivarais, Savoie. 35 mélodies, Vallon-Pont-D’Arc : Écho des Garrigues, 2013, pp 36-50.
-	- Dauphiné, Vivarais, Savoie Livre-CD Pédagogique : Trente-cinq mélodies notées, jouées et commentées dont 7 interprétations revivalistes au violon par P Mazellier de rigodons du Vivarais au Champsaur : Les Vachourins/Le rigodon de Genestelle/Au chasteù de ribateù (violon, guitare)/Los debrayas de Laye (violon, bouzouki)/La barca vira/ Les 4 cordons/Rigodon de Saint Firmin/ Le rigodon du Selon.
-- MULLER Claude, « Coutumes diverses : dansons le rigodon » in Coutumes et traditions du Dauphiné , Grenoble ? : éditions des Quatre Seigneurs, 1977, pp 107-110 (Le tome II, que je n’ai pas, évoque aussi le rigodon ).
+- MAZELLIER Patrick, « Des folkloristes aux collectes contemporaines de chansons populaires. Quelques aspects des matériaux recueillis en Dauphiné et Vivarais » in Le monde alpin et rhodanien n°3-4/2004, Grenoble : Centre Alpin et Rhodanien d'Ethnologie, 2004, pp 69-94
+	- [persee.fr](https://www.persee.fr/doc/mar_0758-4431_2004_num_32_3_1850#mar_0758-4431_2004_num_32_3_T1_0084_0000)
+- MAZELLIER Patrick, « Rigodon » in Violon traditionnel. Dauphiné, Vivarais, Savoie. 35 mélodies, Vallon-Pont-D'Arc : Écho des Garrigues, 2013, pp 36-50.
+	- Dauphiné, Vivarais, Savoie
+	- Livre-CD Pédagogique : Trente-cinq mélodies notées, jouées et commentées dont 7 interprétations revivalistes au violon par P Mazellier de rigodons du Vivarais au Champsaur :
+		- Les Vachourins
+		- Le rigodon de Genestelle
+		- Au chasteù de ribateù (violon, guitare)
+		- Los debrayas de Laye (violon, bouzouki)
+		- La barca vira
+		- Les 4 cordons
+		- Rigodon de Saint Firmin
+		- Le rigodon du Selon
+- MULLER Claude, « Coutumes diverses : dansons le rigodon » in Coutumes et traditions du Dauphiné, Grenoble ? : éditions des Quatre Seigneurs, 1977, pp 107-110 (Le tome II, que je n'ai pas, évoque aussi le rigodon).
 - PITTION Paul, « Les rigodons » in En pays dauphinois. Danses et chants traditionnels, Grenoble : Roissard, 1950, pp 14-100.
 	- Isère
-- RICHAUME Olivier, « La restitution du patrimoine musical : Les musiques « traditionnelles » entre le musée et les pratiques vivantes » in Buëch et Patrimoine : Patrimoine, facteur de développement ? Actes du colloque de Serres (Hautes-Alpes), 19 et 20 avril 1996 , Association Départementale de Sauvegarde du Patrimoine du Pays du Buëch et des Baronnies, 1997, pp 113-125.
+- RICHAUME Olivier, « La restitution du patrimoine musical : Les musiques "traditionnelles" entre le musée et les pratiques vivantes » in Buëch et Patrimoine : Patrimoine, facteur de développement ? Actes du colloque de Serres (Hautes-Alpes), 19 et 20 avril 1996, Association Départementale de Sauvegarde du Patrimoine du Pays du Buëch et des Baronnies, 1997, pp 113-125.
 	- Hautes-Alpes
-- RICHAUME Olivier, "De vive voix les chansons d'ici, les Pays du Buëch" 1998- CDMD 05
+- RICHAUME Olivier, « De vive voix les chansons d'ici, les Pays du Buëch » 1998 - CDMD 05
 	- Hautes-Alpes, Pays du Buëch
 - RIGODONS & TRADITIONS Dansons le Dauphiné livrets 1 et 2
 	- Sud Isère et Hautes Alpes Livrets explicatifs de Danses du Dauphiné (chorégraphie, musique) avec contenu pédagogique
-- SCHOOK Han, ZORZIN Nicolas, PASTUREL Valérie, MAZELLIER Patrick, RAMEL Jean-Louis & PLANTEVIN Jean-Bernard, « Danses » in Chansons traditionnelles et populaires de la Drôme , livre+CD, Nyons : Culture et Langue d’Oc, 2005, pp 252-300.
-	- Drôme Livre CD p 274 à 285 rigodons collectés dans la Drôme ( Diois, Vercors...) dont collecte de A Rochas en 1853.
-- TIERSOT Julien, « Le rigodon » in Chansons populaires recueillies dans les Alpes françaises (Savoie et Dauphiné), Grenoble : Librairie Dauphinoise, Moûtiers : Librairie Savoyarde, pp 509-530. Isère, Hautes-Alpes, Drôme
-- VAN GENNEP Arnold, « Rigaudons » dans le chapitre « Rondes et danses » in Le folklore du Dauphiné (Isère). Tome II , Paris : Librairie Orientale et Américaine, 1933, pp 667-669.
-- Justin Barrachin : Le rigodon dans la région Gapençaise (Ribaud éditeurs, 1951) Hautes-Alpes, Gapençais
-	- [https://www.espaci-occitan.com/botiga/fr/histoire-etudes/1667-le-rigodon-dans-la-region-gapencaise-justin-barrachin-9999000000137.html](https://www.espaci-occitan.com/botiga/fr/histoire-etudes/1667-le-rigodon-dans-la-region-gapencaise-justin-barrachin-9999000000137.html)
+- SCHOOK Han, ZORZIN Nicolas, PASTUREL Valérie, MAZELLIER Patrick, RAMEL Jean-Louis & PLANTEVIN Jean-Bernard, « Danses » in Chansons traditionnelles et populaires de la Drôme, livre+CD, Nyons : Culture et Langue d'Oc, 2005, pp 252-300.
+	- Drôme
+	- Livre CD p 274 à 285 rigodons collectés dans la Drôme (Diois, Vercors...) dont collecte de A Rochas en 1853.
+- TIERSOT Julien, « Le rigodon » in Chansons populaires recueillies dans les Alpes françaises (Savoie et Dauphiné), Grenoble : Librairie Dauphinoise, Moûtiers : Librairie Savoyarde, pp 509-530. Isère, Hautes-Alpes, Drôme.
+- VAN GENNEP Arnold, « Rigaudons » dans le chapitre « Rondes et danses » in Le folklore du Dauphiné (Isère). Tome II, Paris : Librairie Orientale et Américaine, 1933, pp 667-669.
+- Justin Barrachin : Le rigodon dans la région Gapençaise (Ribaud éditeurs, 1951)
+	- Hautes-Alpes, Gapençais
+	- [espaci-occitan.com](https://www.espaci-occitan.com/botiga/fr/histoire-etudes/1667-le-rigodon-dans-la-region-gapencaise-justin-barrachin-9999000000137.html)
 - Chants et chansons populaires du Languedoc / recueillis et publiés avec la musique notée et la traduction française par Louis Lambert
-	- [https://occitanica.eu/items/show/3089](https://occitanica.eu/items/show/3089)
-
-
-
+	- [occitanica.eu](https://occitanica.eu/items/show/3089)
 - BUYRET Louis, Danses Bressances, Groupe Folklorique du Pays de Bresse
-- GUICHARD Germain, Le rigodon dans les Trièves, 1885
-	- Isère, Trièves [https://gallica.bnf.fr/ark:/12148/bpt6k454106p.r=rigodon%20Guichard?rk=21459;2](https://gallica.bnf.fr/ark:/12148/bpt6k454106p.r=rigodon%20Guichard?rk=21459;2)
-- RIVIÈRE Maurice, Rigaudons chantés autrefois à St-Maurice de l'Exil (Revue des Langues Romanes 1895) textes en francoprovençal rhodanien /
-	- [https://gallica.bnf.fr/ark:/12148/bpt6k19861r/f232.item](https://gallica.bnf.fr/ark:/12148/bpt6k19861r/f232.item)
-- VASCHALDE Henry Chansons populaires du Vivarais Paris 1897 chansons à danser paroles en occitan de "Rigaudons" p 52 à 59
-- D'INDY Vincent Chansons populaires du Vivarais opus 52 4 rigaudons paroles en occitan et musiques p 142 à 146
-- MEYER David Sous lo rispo dou Drau Contes et Fatorgues en patois du Champsaur Pays Gavot GAP 1980 Hautes-Alpes, Champsaur / Paroles de Rigaudons en occitan vivaro alpin p 185 à 188
-- Mémoires du Plateau ardèchois EDG Vallon Pont d'Arc 2014 Plateau ardèchois Saint Etienne de lugdarés (07)
-	- [https://journals.openedition.org/ethnomusicologie/4166](https://journals.openedition.org/ethnomusicologie/4166)
-- LE VERCORS Chroniques et études Un siécle en hiver club d'histoire lycée J Prévot Villard de Lans 1982 Vercors les pays des 4 montagnes, Villard de Lans / Livre etudes sur la vie rurale. p 186 à 188
+- GUICHARD Germain, Le rigodon dans les Trièves, 1885, pp 244-259
+	- Isère, Trièves
+	- [gallica.bnf.fr](https://gallica.bnf.fr/ark:/12148/bpt6k454106p/f270.item.r=rigodon%20Guichard)
+- RIVIÈRE Maurice, Rigaudons chantés autrefois à St-Maurice de l'Exil dans Revue des Langues Romanes, 1895, pp 232-234
+	- Textes en francoprovençal rhodanien
+	- [gallica.bnf.fr](https://gallica.bnf.fr/ark:/12148/bpt6k19861r/f232.item)
+- VASCHALDE Henry Chansons populaires du Vivarais Paris 1897 chansons à danser paroles en occitan de « Rigaudons » p 52-59
+- D'INDY Vincent Chansons populaires du Vivarais opus 52 4 rigaudons paroles en occitan et musiques p 142-146
+- MEYER David Sous lo rispo dou Drau Contes et Fatorgues en patois du Champsaur Pays Gavot GAP 1980 Hautes-Alpes, Champsaur / Paroles de Rigaudons en occitan vivaro alpin p 185-188
+- Mémoires du Plateau ardèchois, EDG Vallon Pont d'Arc, 2014, Plateau ardèchois, Saint Etienne de lugdarés (07)
+	- [journals.openedition.org](https://journals.openedition.org/ethnomusicologie/4166)
+- LE VERCORS Chroniques et études Un siécle en hiver club d'histoire lycée J Prévot Villard de Lans 1982 Vercors les pays des 4 montagnes, Villard de Lans / Livre etudes sur la vie rurale. p 186-188
 	- 7 rigaudons sans musique collectés auprés de Mme Noaro.
 - MAZELLIER Patrick Les Violons du Rigodons (nov 1994) in Trad Magazine n° 37
 	- article 4 pages avec photos Article qui résume l'exposition Les Violons du rigodon commande CDMD 05 à P Mazellier en 1994 et réalisée avec la participation d'Olivier Richaume
@@ -85,207 +95,343 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 
 ## AUTRES RESSOURCES EN LIGNE
 
-* Doc sonore "Chemin de Rigodon" par Caroline Fontana
-	- [https://www.labandesonore.fr/rigodons/](https://www.labandesonore.fr/rigodons/)
-* émission Musiques de sacs et de cordes, sur le violon des alpes Alpes
-	- [https://belleaffaire.laea.fr/balado/musiques-de-sacs-et-de-cordes/le-violon-des-alpes](https://belleaffaire.laea.fr/balado/musiques-de-sacs-et-de-cordes/le-violon-des-alpes)
-* Territoire Dansé (cartographie des pratiques de danse dans la Drôme) Drôme
-	- [http://www.maison-de-la-tour.fr/territoire-danse/#/](http://www.maison-de-la-tour.fr/territoire-danse/#/)
-* chaine youtube Cie du Rigodon / violon avec Perrine Bourel...
-	- [https://www.youtube.com/channel/UCASQ8rcr7kTpSf_1dK9_WZw](https://www.youtube.com/channel/UCASQ8rcr7kTpSf_1dK9_WZw)
-* enregistrement de Rural Café
-	- [https://www.youtube.com/watch?v=xPjqLNgU7NI&feature=youtu.be](https://www.youtube.com/watch?v=xPjqLNgU7NI&feature=youtu.be)
-- impro rigodon dansé Duo Vargoz - Gros bal du vercors 2019 Vercors
-	- [https://www.youtube.com/watch?v=X0P0A_uQf4A](https://www.youtube.com/watch?v=X0P0A_uQf4A)
+* Doc sonore « Chemin de Rigodon » par Caroline Fontana
+	- [labandesonore.fr](https://www.labandesonore.fr/rigodons/)
+* Émission Musiques de sacs et de cordes, sur le violon des alpes
+	- Alpes
+	- [radioblv.com](https://www.radioblv.com/work/musiques-de-cordes-et-de-sacs/#media-audio-counter-46)
+* Territoire Dansé (cartographie des pratiques de danse dans la Drôme)
+	- Drôme
+	- [maison-de-la-tour.fr](http://www.maison-de-la-tour.fr/territoire-danse/#/)
+* Chaine youtube Cie du Rigodon / violon avec Perrine Bourel...
+	- [youtube.com](https://www.youtube.com/channel/UCASQ8rcr7kTpSf_1dK9_WZw)
+* Enregistrement de Rural Café
+	- [youtube.com](https://www.youtube.com/watch?v=xPjqLNgU7NI)
+- Impro rigodon dansé Duo Vargoz - Gros bal du vercors 2019
+	- Vercors
+	- [youtube.com](https://www.youtube.com/watch?v=X0P0A_uQf4A)
 - Folk des Terres Froides - Barco Viro
-	- [https://www.youtube.com/watch?v=fuMDkeRsBMM&t=2s](https://www.youtube.com/watch?v=fuMDkeRsBMM&t=2s)
+	- [youtube.com](https://www.youtube.com/watch?v=fuMDkeRsBMM)
 - Airs de rigodon du Gapençais par Rural Café (violon, cornemuse, bouzouki, contrebasse, percus...)
-	- [https://youtu.be/FLz0N4_c_UQ](https://youtu.be/FLz0N4_c_UQ)
-- Rigodon du Vercors Las filhas de la San Marti - Violon : Patrick Mazellier / Atelier danse Véronique Elouard Vercors
-	- [https://www.youtube.com/watch?v=wk-mjE7cZAE&feature=youtu.be](https://www.youtube.com/watch?v=wk-mjE7cZAE&feature=youtu.be)
+	- [youtube.com](https://www.youtube.com/watch?v=FLz0N4_c_UQ)
+- Rigodon du Vercors Las filhas de la San Marti - Violon : Patrick Mazellier / Atelier danse Véronique Elouard
+	- Vercors
+	- [youtube.com](https://www.youtube.com/watch?v=wk-mjE7cZAE)
 
 ## Archives sonores inédites
 
-- Fonds Claude Flagel / Terres d’Empreintes
-	- Champsaur. La famille de Claude Flagel (1932-2020) a récemment confié à Guillaume Veillet et Terres d’Empreintes 3 bandes inédites de collectage enregistrées auprès du violoneux Émile Escalle de Molines en Champsaur. Déjà numérisées par Claude Flagel lui-même, elles datent de 1972, et figurent donc parmi les collectes les plus anciennes (la plus ancienne ?) concernant M. Escalle. Cotes de pré-inventaire FLA-S-114/115/116. (Contenu en cours d’écoute et de documentation)
-- Fonds Guillaume Veillet / Terres d’Empreintes
-	- Champsaur. Quelques mentions du violoneux Félicien Philippe (du Château d’Ancelle) dans une série d’entretiens réalisés en février 2019 à Gap et Ancelle sur son histoire familiale (notamment auprès des frères Maizel d’Ancelle, ayant bien connu ce violoneux).
+- Fonds Claude Flagel / Terres d'Empreintes
+	- Champsaur.
+	- La famille de Claude Flagel (1932-2020) a récemment confié à Guillaume Veillet et Terres d'Empreintes 3 bandes inédites de collectage enregistrées auprès du violoneux Émile Escalle de Molines en Champsaur. Déjà numérisées par Claude Flagel lui-même, elles datent de 1972, et figurent donc parmi les collectes les plus anciennes (la plus ancienne ?) concernant M. Escalle. Cotes de pré-inventaire FLA-S-114/115/116. (Contenu en cours d'écoute et de documentation)
+- Fonds Guillaume Veillet / Terres d'Empreintes
+	- Champsaur.
+	- Quelques mentions du violoneux Félicien Philippe (du Château d'Ancelle) dans une série d'entretiens réalisés en février 2019 à Gap et Ancelle sur son histoire familiale (notamment auprès des frères Maizel d'Ancelle, ayant bien connu ce violoneux).
 - Fonds Devigne à la BnF (enquête de 1939).A4
-	- [http://comitehistoire.bnf.fr/dictionnaire-fonds/roger-d%C3%A9vigne](http://comitehistoire.bnf.fr/dictionnaire-fonds/roger-d%C3%A9vigne)
+	- [comitehistoire.bnf.fr](http://comitehistoire.bnf.fr/dictionnaire-fonds/roger-d%C3%A9vigne)
 - Fonds Patrice Lejeune
-	- Vercors + Plateau Ardéchois : [http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37296&fonds=8&nat=3&cid=1198](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37296&fonds=8&nat=3&cid=1198)
+	- Vercors + Plateau Ardéchois
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37296&fonds=8&nat=3&cid=1198)
 - Fonds Sylvette Béraud-Williams
-	- Ardèche (Boutières) : [http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37689&fonds=8&nat=3&cid=1346](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37689&fonds=8&nat=3&cid=1346)
+	- Ardèche (Boutières)
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37689&fonds=8&nat=3&cid=1346)
 - Fonds Charles Joisten / Musée Dauphinois
-	- Champsaur : patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=31770&fonds=8
+	- Champsaur
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=31770&fonds=8)
 - Fonds Pierre Adolphe Bérard, dit Patacol
-	- Valbonnais (Isère) : [http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=40777&fonds=8&nat=3&cid=3368](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=40777&fonds=8&nat=3&cid=3368)
+	- Valbonnais (Isère)
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=40777&fonds=8&nat=3&cid=3368)
 - Fonds Sylvestre Ducaroy
-	- Bresse : [http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=27194&fonds=&nat=3&cid=345](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=27194&fonds=&nat=3&cid=345)
+	- Bresse
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=27194&fonds=&nat=3&cid=345)
 - Fonds Francine Lancelot-Coursange
-	- Ardèche, Haut et bas Vivarais, Cévennes et Coiron Travail d'inventaire et relevés effectués par P Mazellier dans le cadre des Rencontres 2019
+	- Ardèche, Haut et bas Vivarais, Cévennes et Coiron
+	- Travail d'inventaire et relevés effectués par P Mazellier dans le cadre des Rencontres 2019
 - Fonds Michel Colleu
-	- Champsaur : Enregistrement d'Emile Escalle dans les années 1970
+	- Champsaur
+	- Enregistrement d'Emile Escalle dans les années 1970
 - Fonds Association Mont-Joia
-	- Champsaur : Enquêtes de 1978 auprès d'Emile Escalle / MMSH
+	- Champsaur
+	- Enquêtes de 1978 auprès d'Emile Escalle / MMSH
 - Enquête auprès d'un chanteur à danser du plateau du Coiron
-	- Ardèche (Coiron) : [http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=29759&fonds=3&cid=50](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=29759&fonds=3&cid=50)
+	- Ardèche (Coiron)
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=29759&fonds=3&cid=50)
 - Enquêtes de Dominique Laperche et Aline Sevila
-	- Ardèche (Coiron) : Non déposées
+	- Ardèche (Coiron)
+	- Non déposées
 - Fonds MnATP
-	- Champsaur : Enquête de Brigitte Cardon-Labossière en 1973 auprès d'Emile Escalle (cote 73.30) / MMSH
+	- Champsaur
+	- Enquête de Brigitte Cardon-Labossière en 1973 auprès d'Emile Escalle (cote 73.30) / MMSH
 - Fonds Christian Portron / CDMD05
-	- Champsaur : Enquête auprès d'Emille Escalle vers 1982 / MMSH
+	- Champsaur
+	- Enquête auprès d'Emille Escalle vers 1982 / MMSH
 - Fonds Jean-Paul Dumas / CDMD05
-	- Champsaur : Enquête auprès d'Emille Escalle vers 1980 / MMSH
+	- Champsaur
+	- Enquête auprès d'Emille Escalle vers 1980 / MMSH
 - Fonds Olivier Richaume & Valérie Pasturel / CDMD05
-	- Hautes-Alpes : Diverses enquêtes (musique, témoignages) dans les Hautes-Alpes dans les années 1990 / MMSH
+	- Hautes-Alpes
+	- Diverses enquêtes (musique, témoignages) dans les Hautes-Alpes dans les années 1990 / MMSH
 - Fonds Junqué-Oc/Jean Moureu
-	- Monts de Lacaune : Quelques airs de rigodon joués par Charles Alexandre / Inoc Aquitania
+	- Monts de Lacaune
+	- Quelques airs de rigodon joués par Charles Alexandre / Inoc Aquitania
 - Fond Patrick Mazellier
-	- Champsaur Triéves, Vercors, Vivarais.. Musée Dauphinois / CMTRA / Ainsi que quelques fonds non déposés / [http://www.ruralcafe.com](http://www.ruralcafe.com/recherches-et-ethnomusicologie/)
+	- Champsaur Triéves, Vercors, Vivarais..
+	- Musée Dauphinois / CMTRA / Ainsi que quelques fonds non déposés / [ruralcafe.com](http://www.ruralcafe.com/recherches-et-ethnomusicologie/)
 
 ## Enregistrements de collecte édités
 
 - Ardèche. Apprends-moi ton langage. Chansons recueillies en Ardèche, Aigardent AIG107, 1985
-	- Ardéche, Bas Vivarais, Coiron. - face A6 : « Ma maire n’aviá qu’un anhèu (rigodon) » (chanté par Milou Liotard, collectage en 1980 par Aline et Dominique Laperche à Saint-Gineys-en-Coiron) rare Rigodon au tra la la chanté par M Liotard ( titre zappé dans le titrage de la reédition!)differentes vires chantées au tra la la, variantes locales du rigodon.
+	- Ardéche, Bas Vivarais, Coiron.
+	- Face A/6 : « Ma maire n'aviá qu'un anhèu (rigodon) » (chanté par Milou Liotard, collectage en 1980 par Aline et Dominique Laperche à Saint-Gineys-en-Coiron) rare Rigodon au tra la la chanté par M Liotard (titre zappé dans le titrage de la reédition!)differentes vires chantées au tra la la, variantes locales du rigodon.
 - Violoneux et chanteurs traditionnels du Dauphiné (Champsaur, Beaumont), Anthologie de la musique traditionnelle française volume 4, 33T Le chant du Monde LDX74687, 1977
-	- Hautes-Alpes (Champsaur), Isère (Beaumont) : 33T CDM 1977
+	- Hautes-Alpes (Champsaur), Isère (Beaumont)
+	- 33T CDM 1977
 - Les chants de la soie. Atlas sonore Rhône-Alpes n°7 . CMTRA CMT007, 1993
-	- face A6 : « Le rigodon des Vans » (chanté par Marcelle Champetier, collectage à une date inconnue par Sylvette Beraud-Williams à Chazallus-Grospierres)
+	- Face A/6 : « Le rigodon des Vans » (chanté par Marcelle Champetier, collectage à une date inconnue par Sylvette Beraud-Williams à Chazallus-Grospierres)
 - Les Baronnies en Drôme provençale. Atlas sonore Rhône-Alpes n°8 . CMTRA CMT008, 1994
-	- Drôme. - face B 13 : Aie aie aie moun ami Piaulet / Rigodon d’Aucelon » (joué par M. Ponson, accordéon, collectage à une date inconnue à La Motte-Chalançon). - face B20 : « Rigodon d’Aucelon » (joué par M. Ponson, accordéon, collectage à une date inconnue à La Motte-Chalançon).
-- Chansons traditionnelles et populaires de la Drôme , livre+CD (voir bibliographie)
-	- Drôme. - piste 12 du CD joint : « La mère fricasso / La tanto Genevievo » (chanté par Paulin Donzet, collectage de 2003 par Valérie Pasturel à Villeperdrix).
-- Chants en francoprovençal de Rhône-Alpes. Atlas sonore Rhône-Alpes n°22 , livre + 2CD, CMTRA , 2012
-	- Isère/Drôme (Vercors). - piste 3 du CD1 : « La filla devè Corrençon / Tous les vachourins (rigodons) » (chanté par Gilbert Ravix, collectage en 2000 par Patrick Mazellier à Villard de Lans)
-	- - piste 4 du CD2 : « Quand ma mie vin me vère (rigodon) » (chanté par Rémi Bourgeon, collectage en 2000 par Patrick Mazellier à Saint-Agnan-en-Vercors)
-- CONSEIL GÉNÉRAL DE LA HAUTE-SAVOIE, Monte le son ! Les Alpes en musiques, livre + CD Collection « Culture 74 » n°10, catalogue d’exposition (commissariat : Guillaume VEILLET)
-	- - piste 30 du CD joint : « Air de rigodon du Gapençais » (joué par Émile Ghiglione, accordéon chromatique, collectage du 8 août 1939 par Roger Devigne à Gap, fonds BnF).
-- France, Alpes du Sud. Hier, Aujourd’hui : Collectages et pratiques actuelles autour du Rigodon, Muance Productions / Buda Musique 92751-2, 200?
-	- - piste 1 : « Bal à Saint-Étienne-en Dévoluy » (joué par Roger Michel, accordéon chromatique, collectage en 1994 par Michel Favre) - piste 2 : « Rigobert, Rigodon de Saint-Jacques » (réinterprétation par Les Violons du Rigodon / compo Robert Vargoz, puis trad. issu d’un collectage dans le Valgaudemar) - piste 3 : « Digo Janette » (chanté par Gilbert Manel, collectage à une date inconnue, IEO Gap) - piste 4 : « Rigodon de Bouglione, Aï cinq sous » (réinterprétation par Passe Montagne / trad.) - piste 7 : « La Tante Geneviève » (joué par Robert Ponson, accordéon, collectage en 1995 pour le CDMD par V. Pasturel , M. Pourroy, O. Richaume) - piste 8 : « Suite de rigodons ‘géographiques’ : Las fillas dès las Eiras, Ma maire n’avià qu’un aheu, Veni ve lou riou » (réinterprétation par Rural Café / trad.) - piste 13 : « Rigodon de Vandémie, Paure Gramuse » (réinterprétation par Drailles / trad.) - piste 14 : « Rigodon du Château d’Ancelle » (joué par Félicien Philippe, violon, collectage de 1973 par A. Marcellin à Ancelle, fonds Musée dauphinois) - piste 15 : « Rigodon du Vercors » (réinterprétation par Passe Montagne / trad.) - piste 17 : « La iren plus dansa » (réinterprétation par Les Violons du Rigodon / trad.) - piste 20 : « Que faites-vous bergère ? (aubade), Tu vas à Champipi (rigodon à quatre danseurs), La débraillée de Laye (rigodon) » (réinterprétation par Rural Café / trad. issu du répertoire du violoneux Emile Escalle) - piste 21 : « La bouteille roulera » (réinterprétation par Drailles / trad.) - piste 22 : « Marche des pénitents, Rigodons ‘Les bergers’ /’d’Orcière’/ ‘du Selon’ » (réinterprétation par Drailles / trad.)
-- MAZELLIER Patrick, livre + CD Les Renveillés d’Orcières. Une tradition de chant dans les Hautes-Alpes (voir bibliographie)
-	- Hautes-Alpes, Champsaur - piste 5 du CD joint : « Sont bleus, sont blancs » (chanté par Odette Blanc-Gras, collectage du 12 novembre 1994 par Patrick Mazellier à Orcières)
-- Musica Alpina I & II , Provita Alpina (Innsbruck, Autriche) FR930923, 1994
-	- - piste 3 du CD 1 : « Rigodon de Saint-Bonnet » (joué par Émile Escalle, violon, collectage de 1975/6 par Jean-Paul Autin, Michel Doyard, Patrick Mazellier & Jean-Pierre Simonnet à Molines-en-Champsaur) - piste 15 du CD1 : « Ta maïre a fait un bandit » (joué par Augustin Istier, violon, collectage de 1977 par Jean-Paul Autin, Michel Doyard, Patrick Mazellier & Jean-Pierre Simonnet en Beaumont)
+	- Drôme.
+	- Face B/13 : Aie aie aie moun ami Piaulet / Rigodon d'Aucelon » (joué par M. Ponson, accordéon, collectage à une date inconnue à La Motte-Chalançon).
+	- Face B/20 : « Rigodon d'Aucelon » (joué par M. Ponson, accordéon, collectage à une date inconnue à La Motte-Chalançon).
+- Chansons traditionnelles et populaires de la Drôme, livre+CD (voir bibliographie)
+	- Drôme.
+	- Piste 12 du CD joint : « La mère fricasso / La tanto Genevievo » (chanté par Paulin Donzet, collectage de 2003 par Valérie Pasturel à Villeperdrix).
+- Chants en francoprovençal de Rhône-Alpes. Atlas sonore Rhône-Alpes n°22, livre + 2CD, CMTRA, 2012
+	- Isère/Drôme (Vercors).
+	- Piste 3 du CD1 : « La filla devè Corrençon / Tous les vachourins (rigodons) » (chanté par Gilbert Ravix, collectage en 2000 par Patrick Mazellier à Villard de Lans)
+	- Piste 4 du CD2 : « Quand ma mie vin me vère (rigodon) » (chanté par Rémi Bourgeon, collectage en 2000 par Patrick Mazellier à Saint-Agnan-en-Vercors)
+- CONSEIL GÉNÉRAL DE LA HAUTE-SAVOIE, Monte le son ! Les Alpes en musiques, livre + CD Collection « Culture 74 » n°10, catalogue d'exposition (commissariat : Guillaume VEILLET)
+	- Piste 30 du CD joint : « Air de rigodon du Gapençais » (joué par Émile Ghiglione, accordéon chromatique, collectage du 8 août 1939 par Roger Devigne à Gap, fonds BnF).
+- France, Alpes du Sud. Hier, Aujourd'hui : Collectages et pratiques actuelles autour du Rigodon, Muance Productions / Buda Musique 92751-2, 200?
+	- Piste 1 : « Bal à Saint-Étienne-en Dévoluy » (joué par Roger Michel, accordéon chromatique, collectage en 1994 par Michel Favre)
+	- Piste 2 : « Rigobert, Rigodon de Saint-Jacques » (réinterprétation par Les Violons du Rigodon / compo Robert Vargoz, puis trad. issu d'un collectage dans le Valgaudemar)
+	- Piste 3 : « Digo Janette » (chanté par Gilbert Manel, collectage à une date inconnue, IEO Gap)
+	- Piste 4 : « Rigodon de Bouglione, Aï cinq sous » (réinterprétation par Passe Montagne / trad.)
+	- Piste 7 : « La Tante Geneviève » (joué par Robert Ponson, accordéon, collectage en 1995 pour le CDMD par V. Pasturel, M. Pourroy, O. Richaume)
+	- Piste 8 : « Suite de rigodons "géographiques" : Las fillas dès las Eiras, Ma maire n'avià qu'un aheu, Veni ve lou riou » (réinterprétation par Rural Café / trad.)
+	- Piste 13 : « Rigodon de Vandémie, Paure Gramuse » (réinterprétation par Drailles / trad.)
+	- Piste 14 : « Rigodon du Château d'Ancelle » (joué par Félicien Philippe, violon, collectage de 1973 par A. Marcellin à Ancelle, fonds Musée dauphinois)
+	- Piste 15 : « Rigodon du Vercors » (réinterprétation par Passe Montagne / trad.)
+	- Piste 17 : « La iren plus dansa » (réinterprétation par Les Violons du Rigodon / trad.)
+	- Piste 20 : « Que faites-vous bergère ? (aubade), Tu vas à Champipi (rigodon à quatre danseurs), La débraillée de Laye (rigodon) » (réinterprétation par Rural Café / trad. issu du répertoire du violoneux Emile Escalle)
+	- Piste 21 : « La bouteille roulera » (réinterprétation par Drailles / trad.)
+	- Piste 22 : « Marche des pénitents, Rigodons "Les bergers" /"d'Orcière"/ "du Selon" » (réinterprétation par Drailles / trad.)
+- MAZELLIER Patrick, livre + CD Les Renveillés d'Orcières. Une tradition de chant dans les Hautes-Alpes (voir bibliographie)
+	- Hautes-Alpes, Champsaur
+	- Piste 5 du CD joint : « Sont bleus, sont blancs » (chanté par Odette Blanc-Gras, collectage du 12 novembre 1994 par Patrick Mazellier à Orcières)
+- Musica Alpina I & II, Provita Alpina (Innsbruck, Autriche) FR930923, 1994
+	- Piste 3 du CD 1 : « Rigodon de Saint-Bonnet » (joué par Émile Escalle, violon, collectage de 1975/6 par Jean-Paul Autin, Michel Doyard, Patrick Mazellier & Jean-Pierre Simonnet à Molines-en-Champsaur)
+	- Piste 15 du CD1 : « Ta maïre a fait un bandit » (joué par Augustin Istier, violon, collectage de 1977 par Jean-Paul Autin, Michel Doyard, Patrick Mazellier & Jean-Pierre Simonnet en Beaumont)
 - Vercors (Le). Atlas sonore Rhône-Alpes 15, CMTRA, 2001
-	- piste 5 : « Tous les vachourins, La Genevoise (rigodons) » (chanté par Gilbert Ravix, collectage en 2000 par Patrick Mazellier à Villard de Lans) - piste 6 : « Quand ma mio vin me vère (rigodon) » (chanté par Rémi Bourgeon, collectage en 2000 par Patrick Mazellier à Saint-Agnan-en-Vercors) - piste 20 : « Las filhas de la San-Marti, Allà ve la fon Jeanneton (rigodons) » (réinterprétation par Patrick Mazellier, violon / trad.)
+	- Piste 5 : « Tous les vachourins, La Genevoise (rigodons) » (chanté par Gilbert Ravix, collectage en 2000 par Patrick Mazellier à Villard de Lans)
+	- Piste 6 : « Quand ma mio vin me vère (rigodon) » (chanté par Rémi Bourgeon, collectage en 2000 par Patrick Mazellier à Saint-Agnan-en-Vercors)
+	- Piste 20 : « Las filhas de la San-Marti, Allà ve la fon Jeanneton (rigodons) » (réinterprétation par Patrick Mazellier, violon / trad.)
 - Violon traditionnel en France (Le). Dauphiné : Les Pays du rigodon (Champsaur. Gapençais. Beaumont). Enregistrements historiques 1939-1977 . CMTRA / Silex Y225110, 1994
-	- Enquête auprès d’Émile Escalle (1975/1976, enregistrements de Patrick Mazellier et reprise d'une partie des collectes de 1976/77 figurant sur le 33T CDM. - piste 1 : « Rigodon de Saint-Bonnet » - piste 2 : « Rigodon : Les filles sont promises » - piste 3 : « Rigodon de Charance » - piste 4 : « Rigodon du Solon » - piste 5 : « Rigodons du Valgaudemar » - piste 6 : « Rigodon des quatre cordons » - piste 7 : « Rigodon : Tu vas à Champipi » - piste 8 : « Rigodon : La débraillée de Laye »
-- Violon traditionnel en France (Le). Dauphiné : Les Pays du rigodon (Champsaur. Gapençais. Beaumont). Enregistrements historiques 1939-1977 .
-	- Enquête de Roger Devigne (8 août 1939 à Gap, sauf piste 26, enregistrements de Roger Devigne, fonds BnF) : - piste 21 : « Rigodon de Saint-Bonnet » (chant et violon, Jean Shelme et Vallet) - piste 22 : « Rigodon de Manse » (violons, Jean Shelme et Vallet) - piste 23 : « Rigodon du Mas Chagny » (violon et chant, Jean Shelme et Vallet) - piste 24 : « Rigodon de Charance » (violons et chant, Jean Shelme et Vallet) - piste 25 : « Rigodon réaliste des Sarrazins » (chant, Charles Aurouze) - piste 26 : « Rigodon du Mas de Laye » (violons, violoneux de Laye, enregistré le 7 août 1939 à Embrun) - piste 27 : « Rigodon de Gap » (violon et chant, Vallet) - piste 28 : « Rigodon : Le coucou » (accordéon, Émile Ghiglione) - piste 29 : « Airs de rigodons du Gapençais » (accordéon, Émile Ghiglione) Enquête auprès d’Augustin Istier (1977, enregistrement de Patrick Mazellier): - piste 31 : « Rigodon : Ta maire a fa un bandit »
-- RIGODONS & TRADITIONS, Pas à pas… Le rigodon : danse traditionnelle du Dauphiné , Rigodons & Traditions / DSV Productions, 2006
-	- DVD Pédagogique + documentaire : [https://phonolithe.fr/boutique/livres-dvd/1322-rigodons-traditions-pas-a-pas.html](https://phonolithe.fr/boutique/livres-dvd/1322-rigodons-traditions-pas-a-pas.html)
+	- Enquête auprès d'Émile Escalle (1975/1976, enregistrements de Patrick Mazellier et reprise d'une partie des collectes de 1976/77 figurant sur le 33T CDM).
+		- Piste 1 : « Rigodon de Saint-Bonnet »
+		- Piste 2 : « Rigodon : Les filles sont promises »
+		- Piste 3 : « Rigodon de Charance »
+		- Piste 4 : « Rigodon du Solon »
+		- Piste 5 : « Rigodons du Valgaudemar »
+		- Piste 6 : « Rigodon des quatre cordons »
+		- Piste 7 : « Rigodon : Tu vas à Champipi »
+		- Piste 8 : « Rigodon : La débraillée de Laye »
+	- Enquête de Roger Devigne (8 août 1939 à Gap, sauf piste 26, enregistrements de Roger Devigne, fonds BnF) :
+		- Piste 21 : « Rigodon de Saint-Bonnet » (chant et violon, Jean Shelme et Vallet)
+		- Piste 22 : « Rigodon de Manse » (violons, Jean Shelme et Vallet)
+		- Piste 23 : « Rigodon du Mas Chagny » (violon et chant, Jean Shelme et Vallet)
+		- Piste 24 : « Rigodon de Charance » (violons et chant, Jean Shelme et Vallet)
+		- Piste 25 : « Rigodon réaliste des Sarrazins » (chant, Charles Aurouze)
+		- Piste 26 : « Rigodon du Mas de Laye » (violons, violoneux de Laye, enregistré le 7 août 1939 à Embrun)
+		- Piste 27 : « Rigodon de Gap » (violon et chant, Vallet)
+		- Piste 28 : « Rigodon : Le coucou » (accordéon, Émile Ghiglione)
+		- Piste 29 : « Airs de rigodons du Gapençais » (accordéon, Émile Ghiglione) Enquête auprès d'Augustin Istier (1977, enregistrement de Patrick Mazellier):
+		- Piste 31 : « Rigodon : Ta maire a fa un bandit »
+- RIGODONS & TRADITIONS, Pas à pas… Le rigodon : danse traditionnelle du Dauphiné, Rigodons & Traditions / DSV Productions, 2006
+	- DVD Pédagogique + documentaire : [phonolithe.fr](https://www.phonolithe.fr/produits/livres-dvds/1322-rigodons-traditions-pas-a-pas)
 
 ## Discographie : réinterprétations
 
-- DROUIN Jean, de l’Opéra-Comique accompagné par l’Orchestre de Julien PORRET : Rigaudon dauphinois (« Le printemps réjouit la bergère »), Scoladisques, n° de catalogue 3003, années 1930.
+- DROUIN Jean, de l'Opéra-Comique accompagné par l'Orchestre de Julien PORRET : Rigaudon dauphinois (« Le printemps réjouit la bergère »), Scoladisques, n° de catalogue 3003, années 1930.
 	- Disque 78 tours
-- DELPHINALE (LA), Groupe folklorique du Dauphiné , Disques EDD COL.175, 197 ?.
-	- Face 1/1 : « Le coucou (rigodon) »(trad. Pierre Chatel, Matheysine)
-- DELPHINALE (LA), Groupe folklorique du Dauphiné , Disque N°2 , Bello Disques COL.193, 197 ?.
-	- Face 1/1 : « Rigodon de La Mure » (trad. Matheysine) Face 1/2 : « Rigodon de Vaulnaveys Le Haut » (trad. Grésivaudan) Face 1/3 : « Le petit Pierre (rigodon) » (trad. Villard Saint Christophe, Matheysine) Face 2/1 : « La Genevoise (rigodon) » (trad. Villard de Lans, Vercors) Face 2/2 : « Rigodon de Mens » (trad. Trièves)
+- DELPHINALE (LA), Groupe folklorique du Dauphiné, Disques EDD COL.175, 197?.
+	- Face A/1 : « Le coucou (rigodon) »(trad. Pierre Chatel, Matheysine)
+- DELPHINALE (LA), Groupe folklorique du Dauphiné, Disque N°2, Bello Disques COL.193, 197?.
+	- Face A/1 : « Rigodon de La Mure » (trad. Matheysine)
+	- Face A/2 : « Rigodon de Vaulnaveys Le Haut » (trad. Grésivaudan)
+	- Face A/3 : « Le petit Pierre (rigodon) » (trad. Villard Saint Christophe, Matheysine)
+	- Face B/1 : « La Genevoise (rigodon) » (trad. Villard de Lans, Vercors)
+	- Face B/2 : « Rigodon de Mens » (trad. Trièves)
 - PASSE MONTAGNE, Les Pieds dans le plat, Muance Productions 3009 402, 1999
-- BAMBOCHE (LA), Hexagone/WEA n°883003, 197 ?.
+- BAMBOCHE (LA), Hexagone/WEA n°883003, 197?.
 	- Face B/5 : « Le buveur » (Berry) + « Rigaudon » (trad. Dauphiné, appris auprès de Pierre Cornier)
-- GRAND ROUGE (LE) in Musique traditionnelle française , RCA Media vol. 3 RM3, 1982.
+- GRAND ROUGE (LE) in Musique traditionnelle française, RCA Media vol. 3 RM3, 1982.
 	- Face B/7 : « Rigodon des filles de Mens » (trad. arr. Le Grand Rouge)
-- MONT-JÒIA, Cant e musica de Provença XIIème-XXème , Le Chant du Monde « Spécial Folk » LDX74590, 1978.
+- MONT-JÒIA, Cant e musica de Provença XIIème-XXème, Le Chant du Monde « Spécial Folk » LDX74590, 1978.
 	- Face B/3 : « « Rigaudon » (compo P. Favaro) + « Vautrei que siatz assemblats »
-- Anthologie de la chanson française enregistrée : La tradition. CD 11 : Chansons à danser (rondes, branles, valses, bourrées, rigodons…), (direction Marc ROBINE, Emmanuel PARISELLE & Gabriel YACOUB), EPM VC99-11, 1994 : piste 9 : « Les filles de Saint-Martin » (réinterprétation par Michel Favre / trad.) piste 23 : « Pauvre gramuse » (réinterprétation par Michel Favre / trad.)
+- Anthologie de la chanson française enregistrée : La tradition. CD 11 : Chansons à danser (rondes, branles, valses, bourrées, rigodons…), (direction Marc ROBINE, Emmanuel PARISELLE & Gabriel YACOUB), EPM VC99-11, 1994 :
+	- Piste 9 : « Les filles de Saint-Martin » (réinterprétation par Michel Favre / trad.)
+	- Piste 23 : « Pauvre gramuse » (réinterprétation par Michel Favre / trad.)
 - ARCO ALPINO, Violon traditionnel des Alpes, Modal PleinJeu MPJ 11023, 2001
-	- - Piste 1 : « Suite de rigaudons » (trad.) - Piste 8 : « Joute de rigaudons » (trad.) - Piste 11 : « Rigaudon testard » (compo Patrick Vaillant)
-- DRAILLES, QUINTETTE DE VIOLONS, Alpes du Sud. Dauphiné , Modal PleinJeu MPJ 111005, 1998
-	- piste 3 : « Suite de rigodons ‘Mie Jeaneton’ » (trad.) piste 6 : « Rigodon d’auvergne » (trad.) piste 7 : « Rigodon de Saint-Ol » (compo Olivier Richaume) piste 10 : « Les quatre rigodons » (trad.)
+	- Piste 1 : « Suite de rigaudons » (trad.)
+	- Piste 8 : « Joute de rigaudons » (trad.)
+	- Piste 11 : « Rigaudon testard » (compo Patrick Vaillant)
+- DRAILLES, QUINTETTE DE VIOLONS, Alpes du Sud. Dauphiné, Modal PleinJeu MPJ 111005, 1998
+	- Piste 3 : « Suite de rigodons "Mie Jeaneton" » (trad.)
+	- Piste 6 : « Rigodon d'auvergne » (trad.)
+	- Piste 7 : « Rigodon de Saint-Ol » (compo Olivier Richaume)
+	- Piste 10 : « Les quatre rigodons » (trad.)
 - DRAILLES, Paura gramusa ! Musiques des Alpes imaginaires, Cie du Rigodon D2013-02, 2013
-	- piste 1 : « Rigodon de Manse / Rigodon de l’âne » (trad.) - piste 2 : « Paura gramusa » (trad.) - piste 6 : « Paura gramusa / Rigodon du Valgaudemar » (trad.) - piste 10 : « Rigodon de Ghiglione » (trad.) - piste 11 : « Suite de rigodons : Rigodon du Selon, Les filles du mas Chagny, Les filles de Saint-Firmin, Les filles des Meyers » (trad.) - piste 13 : « Rigodon de ‘Pâte à Colle’ » (trad.) - piste 16 : « Rigodon de Vandemie » (trad.) - piste 17 : « Suite de rigodons : Vers Bonte, Lou tournet, Ma maire, Para lou tsa, Rigodon du Valgaudemar » (trad.)
+	- Piste 1 : « Rigodon de Manse / Rigodon de l'âne » (trad.)
+	- Piste 2 : « Paura gramusa » (trad.)
+	- Piste 6 : « Paura gramusa / Rigodon du Valgaudemar » (trad.)
+	- Piste 10 : « Rigodon de Ghiglione » (trad.)
+	- Piste 11 : « Suite de rigodons : Rigodon du Selon, Les filles du mas Chagny, Les filles de Saint-Firmin, Les filles des Meyers » (trad.)
+	- Piste 13 : « Rigodon de "Pâte à Colle" » (trad.)
+	- Piste 16 : « Rigodon de Vandemie » (trad.)
+	- Piste 17 : « Suite de rigodons : Vers Bonte, Lou tournet, Ma maire, Para lou tsa, Rigodon du Valgaudemar » (trad.)
 * LA SAUTARELA : danses des Alpes et de Provence – cassette audio – 1996
 * LE CAFE DES ARTS : Chansons chantées en Dauphiné – Volume1 : cassette audio CdA1 »
 * LE CAFE DES ARTS : Chansons chantées en Dauphiné – Volume 2 :« Minuit ! » – 1996
 * Les VIOLONS du RIGODON – Fanfare ménétrière. La Compagnie du Rigodon!! CD 2001
 * LES VIOLONS DU RIGODON : La Compagnie du Rigodon – Cassette 20 minutes 1997
 * LE CHANT DES ALPES, compilation réunissant 15 groupes traditionnels des Alpes du sud à la Suisse – Cd gratuit offert avec La revue Alpes-Magazine numéro 64 de Juillet-Août 2000
-	- 05 - la barca vira (par Passe Montagne) 10- Rigobert + St Jacques (par les Violons du Rigodon)
+	- Piste 05 : la barca vira (par Passe Montagne)
+	- Piste 10 : Rigobert + St Jacques (par les Violons du Rigodon)
 - MANTENAIRES CHANSOURIS (LES), Moissons en Champsaur, Autoprod, 1999
-	- piste 4 : « Rigodon du bandit » (trad.) - piste 13 « La débraya de Layo / Lou coucou » (trad.)
-- PASSE MONTAGNE, Les Pieds dans le plat , Muance Productions 3009 402, 1999
-	- piste 2 : « La barque vire » (trad., issu du répertoire d’Emile Escalle) - piste 4 : « Débraillée de Laye / rigodon de Manse » (trad., issus du répertoire de 1/ Emile Escalle & 2/ M. Jeanselme) - piste 7 : « Rigodon du Dévoluy » (trad.) - piste 8 : « Ta mère n’a qu’une dent / Viens vers le ruisseau » (trad.)
+	- Piste 4 : « Rigodon du bandit » (trad.)
+	- Piste 13 « La débraya de Layo / Lou coucou » (trad.)
+- PASSE MONTAGNE, Les Pieds dans le plat, Muance Productions 3009 402, 1999
+	- Piste 2 : « La barque vire » (trad., issu du répertoire d'Emile Escalle)
+	- Piste 4 : « Débraillée de Laye / rigodon de Manse » (trad., issus du répertoire de 1/ Emile Escalle & 2/ M. Jeanselme)
+	- Piste 7 : « Rigodon du Dévoluy » (trad.)
+	- Piste 8 : « Ta mère n'a qu'une dent / Viens vers le ruisseau » (trad.)
 - RIGODONS & TRADITIONS, Pas à pas… Le rigodon : danse traditionnelle du Dauphiné, Rigodons & Traditions / DSV Productions, 2006
 	- Dauphiné. DVD Le Rigodon : la Danse Traditionnelle du Dauphiné
 * RIGODONS ET TRADITIONS : Dansons le Dauphiné – volume 2 – CD 1997
 * RIGODONS ET TRADITIONS : Dansons le Dauphiné – volume 1 – CD 1994
-	- [http://rigodons.com/page/view/nos-productions/toutes-nos-productions](http://rigodons.com/page/view/nos-productions/toutes-nos-productions)
+	- Site plus en ligne [web.archive.org : rigodons.com](https://web.archive.org/web/20180819005311/http://rigodons.com/page/view/nos-productions/toutes-nos-productions)
 * RIGODONS ET TRADITIONS : CD De par nos sentes en 2011
 	- Dauphiné Diverses Danses du Dauphiné avec des arrangeemnts, des Traditionnelles et des Créations.
 * RIGODONS ET TRADITIONS : CD Cheminement... en 2002
 	- Dauphiné Diverses danses du Dauphiné dont des Rigodons trad et des créations
 * RIGODON SAUVAGE : Gabet – Favre – Sabalat – cassette audio 1992.
 - RIGODON SAUVAGE, Ocora Radio France C560053, 1995
-	- piste 2 : « Rigodon de Manse » (trad.) - piste 3 : « Suite de rigodons : Le coucou / Rigodon gapençais » (trad.) - piste 6 : « Rigodons : Les filles des Meyers, Les filles de vers Saint-Martin » (trad.) - piste 7 : « Rigodon de Saint-Bonnet » (trad.) - piste 9 : « Chant de noce et rigodon : Qu’il fait bon être à table / La iren plus dansa » (trad.) - piste 10 : « Rigodons du Vercors : Les Vachourins / Quand plantavou des salades » (trad.) - piste 11 : « Rigodons du Trièves : Ma maire n’avio qu’uno dent, Que soun fier lou berger » (trad.) - piste 13 : « Rigodons du Trièves : Aï cinq sous, Véni vé lou riou » (trad.) - piste 14 : « Rigodons du Champsaur : Les quatre cordons, La barco viro, Débrays de Laïa » (trad.)
-- RURAL CAFÉ, Les couleurs du cercle, musique traditionnelle du pays d’Ardèche… et d’ailleurs, Écho des Garrigues / L’Autre distribution / Mustradem, 200 ? piste 4 : « Suite de rigodons ‘géographiques’ » (trad. Dauphiné & Vivarais) Las filhas della z'eiras/ ma maire n'avio/veni ve lo riou (chantés en langue d'OC) - piste 7 : « Rigodons de Genestelle et Rigodon de Manse » (trad. Dauphiné & Vivarais)
-- RURAL CAFÉ, En suivant la draille , Écho des Garrigues / L’Autre distribution / Mustradem, 2005
-	- piste 4 : « Le grand rigodon : Le rigodon du Solon, Alla ve la fo, Les filles de mai, Quand ma mio vin me veire » (trad.) piste 13 : suite du Vercors : Les vachourins/ rigodon de chauffarel
+	- Piste 2 : « Rigodon de Manse » (trad.)
+	- Piste 3 : « Suite de rigodons : Le coucou / Rigodon gapençais » (trad.)
+	- Piste 6 : « Rigodons : Les filles des Meyers, Les filles de vers Saint-Martin » (trad.)
+	- Piste 7 : « Rigodon de Saint-Bonnet » (trad.)
+	- Piste 9 : « Chant de noce et rigodon : Qu'il fait bon être à table / La iren plus dansa » (trad.)
+	- Piste 10 : « Rigodons du Vercors : Les Vachourins / Quand plantavou des salades » (trad.)
+	- Piste 11 : « Rigodons du Trièves : Ma maire n'avio qu'uno dent, Que soun fier lou berger » (trad.)
+	- Piste 13 : « Rigodons du Trièves : Aï cinq sous, Véni vé lou riou » (trad.)
+	- Piste 14 : « Rigodons du Champsaur : Les quatre cordons, La barco viro, Débrays de Laïa » (trad.)
+- RURAL CAFÉ, Les couleurs du cercle, musique traditionnelle du pays d'Ardèche… et d'ailleurs, Écho des Garrigues / L'Autre distribution / Mustradem, 200?
+	- Piste 4 : « Suite de rigodons "géographiques" » (trad. Dauphiné & Vivarais) Las filhas della z'eiras/ ma maire n'avio/veni ve lo riou (chantés en langue d'OC)
+	- Piste 7 : « Rigodons de Genestelle et Rigodon de Manse » (trad. Dauphiné & Vivarais)
+- RURAL CAFÉ, En suivant la draille, Écho des Garrigues / L'Autre distribution / Mustradem, 2005
+	- Piste 4 : « Le grand rigodon : Le rigodon du Solon, Alla ve la fo, Les filles de mai, Quand ma mio vin me veire » (trad.)
+	- Piste 13 : suite du Vercors : Les vachourins/ rigodon de chauffarel
 * RURAL CAFE– Original Folkestra Les Couleurs du Cercle Écho des Garrigues / Mustradem CD 2002
 - PASSE MONTAGNE, Les Pieds dans le plat, Muance Productions 3009 402, 1999
 - SARRELOUPS (GROUPE FOLKLORIQUE), TRADITIONS DU DAUPHINÉ, Chants de mai et airs à danser, autoprod. 01SAR
-	- piste 5 : « Qu’in j’allave à Choranche. Rigaudon » (trad. Vercors) - piste 15 : « Les violons sont cassés. Rigaudon » (trad. Beaumont) - piste 16 : « Ta mare a fa in bandit » (trad. Beaumont) - piste 21 : « La viravole. Rigaudon à 2 » (trad. Chambaran)
-- SYNDROME DE L’ARDÈCHE (LE), Mastic central, Modal PleinJeu MPJ111033, 2003
+	- Piste 5 : « Qu'in j'allave à Choranche. Rigaudon » (trad. Vercors)
+	- Piste 15 : « Les violons sont cassés. Rigaudon » (trad. Beaumont)
+	- Piste 16 : « Ta mare a fa in bandit » (trad. Beaumont)
+	- Piste 21 : « La viravole. Rigaudon à 2 » (trad. Chambaran)
+- SYNDROME DE L'ARDÈCHE (LE), Mastic central, Modal PleinJeu MPJ111033, 2003
 	- Piste 8 : « Marche nuptiale / Rigodons » (trad. arr. Stéphane Maujean)
 - ENTRE MER ET MONTAGNE, artistes et ensembles de musique traditionnelle de la région PACA, 2004
-	- - Draille (rigodon Vers bonte) - Les Violons du Rigodon (Rigodons d'Emile Giglione)
-- TROCLET Jean-Jacques, VIGNON Jocelyne & Christian, Dansons le Dauphiné volume 2 , CRDP Grenoble / Rigodons & Traditions 380C1682, 199 ? (il existe au moins un autre volume que je n’ai pas)
-	- piste 1 : « Rigodon de Gresse-en-Vercors » (trad., issu d’un collectage auprès de l’accordéoniste Emile Martin) - piste 3 : « Rigodon : Lou salades » (trad., issu d’un collectage auprès de Bernadette Gervasoni) - piste 5 : « Rigodons : Mon petit oiseau / Mon Bertamiou » (trad., Vaulnaveys). - piste 7 : « Rigodon : Le Gicons » (trad., au répertoire notamment de Roger Michel) - piste 9 : « Rigodons : Les tourtons / L’oreille d’âne » (compos JJ Troclet) - piste 12 : « Rigodons : Viens vers le ruisseau / Les fiancés » (trad.) - piste 14 : « Rigodon de La Salette » (trad., issu d’un collectage auprès d’Henriette Pra et Marcel Peytard) - piste 16 : « Rigodon : La débraillée de Laye » (trad. Champsaur) - piste 18 : « Rigodons : Ta maire a fait un bandit / Les filles de Véloumeyer » (trad. issu d’un collectage auprès de la famille Istier, Beaumont) - piste 21 : « Rigodons : Le sautet / La souloise / Les gillardes » (compos JJ Troclet)
-- VIOLONS DU RIGODON (LES), Fanfare ménétrière , La Compagnie du Rigodon CDR200201, 2002
-	- piste 1 : « Rigodon de noce de Saint-Véran (marche) » (trad.) - piste 2 : « Rigobert / Rigodon de Saint-Jacques » (compo Robert Vargoz /trad. Valgaudemar) - piste 6 : « Barca Vira / Bouglione » (trad.) - piste 9 : « Les 4 rigodons / Rigodon de Thuoux » (trad. / compo Josuah Roché) - piste 12 : « Rigodon à 4 cordons / Para lou tsa / Les bergers » (trad.) - piste 14 : « Débraillée de Laye » (trad., du répertoire d’Emile Escalle)
+	- Draille (rigodon Vers bonte) - Les Violons du Rigodon (Rigodons d'Emile Giglione)
+- TROCLET Jean-Jacques, VIGNON Jocelyne & Christian, Dansons le Dauphiné volume 2, CRDP Grenoble / Rigodons & Traditions 380C1682, 199? (il existe au moins un autre volume que je n'ai pas)
+	- Piste 1 : « Rigodon de Gresse-en-Vercors » (trad., issu d'un collectage auprès de l'accordéoniste Emile Martin)
+	- Piste 3 : « Rigodon : Lou salades » (trad., issu d'un collectage auprès de Bernadette Gervasoni)
+	- Piste 5 : « Rigodons : Mon petit oiseau / Mon Bertamiou » (trad., Vaulnaveys).
+	- Piste 7 : « Rigodon : Le Gicons » (trad., au répertoire notamment de Roger Michel)
+	- Piste 9 : « Rigodons : Les tourtons / L'oreille d'âne » (compos JJ Troclet)
+	- Piste 12 : « Rigodons : Viens vers le ruisseau / Les fiancés » (trad.)
+	- Piste 14 : « Rigodon de La Salette » (trad., issu d'un collectage auprès d'Henriette Pra et Marcel Peytard)
+	- Piste 16 : « Rigodon : La débraillée de Laye » (trad. Champsaur)
+	- Piste 18 : « Rigodons : Ta maire a fait un bandit / Les filles de Véloumeyer » (trad. issu d'un collectage auprès de la famille Istier, Beaumont)
+	- Piste 21 : « Rigodons : Le sautet / La souloise / Les gillardes » (compos JJ Troclet)
+- VIOLONS DU RIGODON (LES), Fanfare ménétrière, La Compagnie du Rigodon CDR200201, 2002
+	- Piste 1 : « Rigodon de noce de Saint-Véran (marche) » (trad.)
+	- Piste 2 : « Rigobert / Rigodon de Saint-Jacques » (compo Robert Vargoz /trad. Valgaudemar)
+	- Piste 6 : « Barca Vira / Bouglione » (trad.)
+	- Piste 9 : « Les 4 rigodons / Rigodon de Thuoux » (trad. / compo Josuah Roché)
+	- Piste 12 : « Rigodon à 4 cordons / Para lou tsa / Les bergers » (trad.)
+	- Piste 14 : « Débraillée de Laye » (trad., du répertoire d'Emile Escalle)
 - Trois p'tits tours en Provence (Patrick Vaillant 1997)
-	- 1-Rigaudon du Lézard
+	- Piste 1 : Rigaudon du Lézard
 - Hier, Aujourd'hui, Collectages et pratiques actuelles autour du Rigodon (Buda musique 2001)
-	- 2- Les Violons du Rigodon > Rigobert + Rigodon de Saint Jacques /4- Passe Montagne > Rigodon de Bouglio,e + Ay cinq sous / 8- Rural Café > Las fillas de las Eiras, Ma maire n'avia qu'un anheu, Veni lvelou riou / 13- Drailles > Rigodon de Vendemie, Paure gramuse / 15- Passe Montagne > Rigodon du Vercors / 17- Les Violons du Rigodon > la iren plu dansa / 20- Rura Café > Tu vas à Champipi, la débraillée de Laye / 21- Drailles > la bouteille roulera / 22- Drailles > Les bergers, Rigodon d'Orcière, Rigodon du Selon
+	- Piste 2 : Les Violons du Rigodon > Rigobert + Rigodon de Saint Jacques 
+	- Piste 4 : Passe Montagne > Rigodon de Bouglio, e + Ay cinq sous
+	- Piste 8 : Rural Café > Las fillas de las Eiras, Ma maire n'avia qu'un anheu, Veni lvelou riou
+	- Piste 13 : Drailles > Rigodon de Vendemie, Paure gramuse
+	- Piste 15 : Passe Montagne > Rigodon du Vercors
+	- Piste 17 : Les Violons du Rigodon > la iren plu dansa
+	- Piste 20 : Rura Café > Tu vas à Champipi, la débraillée de Laye
+	- Piste 21 : Drailles > la bouteille roulera
+	- Piste 22 : Drailles > Les bergers, Rigodon d'Orcière, Rigodon du Selon
 - 22 Rigodons à danser, Cie du Rigodon (2002)
 - Les Balbelettes (Isabelle Barthelemy - Annik Magnin, Cie du Rigodon 2007)
-	- 6- Demoiselles qui dansez / 7- Les filles de vers Saint Martin
+	- Piste 6 : Demoiselles qui dansez
+	- Piste 7 : Les filles de vers Saint Martin
 - Le PAYS GAVOT De passage au chateau de Tallard 45T 1986 (?)
 - 3 rigodons dont le rigodon du Selon joué par E Escalle, ainsi que la Troika du Champsaur. Le rigodon des 4 cordons et le coucou joués à l'accordéon par M Bolognesi.
 - Tornamai (Mana Serrano - Basile Brémaud - Nicolas Roche - Clément Gauthier 2014)
-	- 7- Rigodon Vers Bonte / 8- Rigaudons des Vaus, Los Segaires, Lo Tornet
+	- Piste 7 : Rigodon Vers Bonte
+	- Piste 8 : Rigaudons des Vaus, Los Segaires, Lo Tornet
 - Danses du Gapençais et du Val Durance, réalisé par la Taïole (Stéphane Delval, M et JC Guillon)
 	- Livre pédagogique (partitions + chorégraphies)
 - Violoneuses (Perrine Bourel et Mana Serrano), Collectif La Novia (2015)
-	- 4- Les Filles de Mens, La coumaire, Alla ve la fo
+	- Piste 4 : Les Filles de Mens, La coumaire, Alla ve la fo
 - La Preyra (Béatrice Terrasse et Louis Jacques) 2015
-	- 2- Mie Jeanneton / 5- La Barca Vira + Rigodon du Valgaudemar / 10- Rigodon des Quatre Cordons / 13- Les Filles sont promises
+	- Piste 2 : Mie Jeanneton
+	- Piste 5 : La Barca Vira + Rigodon du Valgaudemar
+	- Piste 10 : Rigodon des Quatre Cordons
+	- Piste 13 : Les Filles sont promises
 - Bougnat Sound (Loic Etienne - Julien Barbances - Olivier Sulpice) 2017
-	- 9- Le doux printemps (le coucou) + air du gapençais d'après E. Giglione
+	- Piste 9 : Le doux printemps (le coucou) + air du gapençais d'après E. Giglione
 - Des Montagnes (solo Perrine Bourel), Collectif a Novia (2018)
-	- 3- Rigodon du Cheteau d'Ancelle / 4- Si e un ene
+	- Piste 3 : Rigodon du Cheteau d'Ancelle
+	- Piste 4 : Si e un ene
 * Cahier de répertoire rigodon, Perrine Bourel produit par la Compagnie du Rigodon, 2019
 	- Livre-CD Pédagogique avec partitions, enregistrements + vidéos en ligne
 - Le Soleil ni même la lune (Jacques Puech et Perrine Bourel), Collectif La Novia (sortie janvier 2021)
-	- 1- Rigodon de Patacol / 8- Rigodon à quatre cordons d'Escalle /12- Les Salades, Rigodon du Vercors
+	- Piste 1 : Rigodon de Patacol
+	- Piste 8 : Rigodon à quatre cordons d'Escalle
+	- Piste 12 : Les Salades, Rigodon du Vercors
 - Duo Perrine Bourel - Mosin Kawa (violon - tablas) - Cie du Rigodon
 	- A sortir en 2021
 - Duo Vargoz (Robin et Guillaume Vargoz) (violon / harmonica) - Cie du Rigodon
 	- A sortir en 2021
-- TRIP -Trad In Progress - prod asso KAYA 2010 ?
-	- 3- Rigodon du Selon + Vers Bonte (avec Emmanuel Lamic/Batterie, Christen Becart/Machines, Agnès Clauzel/cornemuses, Perrine Bourel/violon, Luca Moccia/basse, Ilio Amisano/accordéon, Francesco Busso/vielle à roue)
+- TRIP - Trad In Progress - prod asso KAYA 2010 ?
+	- Piste 3 : Rigodon du Selon + Vers Bonte (avec Emmanuel Lamic/Batterie, Christen Becart/Machines, Agnès Clauzel/cornemuses, Perrine Bourel/violon, Luca Moccia/basse, Ilio Amisano/accordéon, Francesco Busso/vielle à roue)
 - CAMIN D'AVURO Chansons traditionnelles de la Drôme CD JB Plantevin et Rural Café Ass Croupatas 2010
-	- 2 suites de Rigodon de la Drôme, avec chants et instruments dont rythmique compléte : Piste 3 : A la dança li son quatre, Quand ma mia vin me veire piste 10 : Rigodon d'estableù, Au chasteù de ribateù. Direction musicale, Arrangements et violon P Mazellier/ Chant JB Plantevin/flûtes A Clauzel/Guitare C Pillemy/ percus R Monteiro, Contrebasse C Devaux.
+	- 2 suites de Rigodon de la Drôme, avec chants et instruments dont rythmique compléte :
+	- Piste 3 : A la dança li son quatre, Quand ma mia vin me veire
+	- Piste 10 : Rigodon d'estableù, Au chasteù de ribateù. Direction musicale, Arrangements et violon P Mazellier/ Chant JB Plantevin/flûtes A Clauzel/Guitare C Pillemy/ percus R Monteiro, Contrebasse C Devaux.
 - PAYS GAVOT 33T groupe folklorique 1984
 	- 4 rigodons joués à l'accordéon par M Bolognesi (Rigodon de Gap, 4 cordons, Rigodon de Veynes, Rigodon du Devoluy) Troika et scottish en carré jouées par E Escalle violon seul.
 - En Co Nostre Cassette LA Faraça Groupe occitan des Vans (07) 1991
-	- Sud Vivarais. Face B Rigaudon dels Vans Accordéon Y Caurla violon R Bourbal
-- Empi et Riaume 33T Groupe folklorique de Romans ( vers 1960?)
-	- Bas Dauphiné - Vercors. Rigaudon de Romans n°8 face B / n° 7 Le chat ( en fait mélodie du rigodon "quand ma mia vin me veire")
+	- Sud Vivarais.
+	- Face B Rigaudon dels Vans Accordéon Y Caurla violon R Bourbal
+- Empi et Riaume 33T Groupe folklorique de Romans (vers 1960?)
+	- Bas Dauphiné - Vercors.
+	- Rigaudon de Romans n°8 face B
+	- n° 7 Le chat (en fait mélodie du rigodon "quand ma mia vin me veire")
 
 ## Archives AUDIOVISUELLES
 
 - film (muet), filmé à Clelles en 1946, durée 1mn - Déposé au musée Dauphinois par Geneviève Chuzel et Patrick Mazellier
-	- Trièves. Musée Dauphinois / Non visible pour le grand public actuellement
-- Montage divers films sur le rigodon réalisé pour l'exposition "Les violons du Rigodon" 1994 dont film sur Escalle, A Istier...
-	- Triéves, Beaumont, Matheysine, Coiron.. Montage de films anciens et contemporains concernant principalement la danse du rigodon réalisés par Olivier Richaume dans le cadre de l'exposition Les violons du Rigodon (1994)
+	- Trièves.
+	- Musée Dauphinois / Non visible pour le grand public actuellement
+- Montage divers films sur le rigodon réalisé pour l'exposition « Les violons du Rigodon » 1994 dont film sur Escalle, A Istier...
+	- Triéves, Beaumont, Matheysine, Coiron..
+	- Montage de films anciens et contemporains concernant principalement la danse du rigodon réalisés par Olivier Richaume dans le cadre de l'exposition Les violons du Rigodon (1994)
 - Extrait film Adieu Paysans (Audrey Maurion, 2014), images d'archives 1947 ?
 	- très court extrait de 10 secondes entre 0'40 et 0'50
 - Extrait film Enterrement de la vie de garçon, 1965
 	- Voiron (38) / Nom du groupe inconnu
 - RIGODONS & TRADITIONS voir DVD Pas à Pas...
-	- Film sur 4 régions avec la participation "d'anciens" .dansant leur RIGODON. Vercors, Trièves, Dévoluy, Champsaur
+	- Vercors, Trièves, Dévoluy, Champsaur
+	- Film sur 4 régions avec la participation "d'anciens" dansant leur RIGODON.
