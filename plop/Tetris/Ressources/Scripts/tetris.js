@@ -346,7 +346,7 @@ function init()
 	
 	/* */
 	
-	lireAudio();
+	//lireAudio();
 
 	$('audio').on('ended', function () 
 	{

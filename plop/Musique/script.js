@@ -75,17 +75,20 @@ function sonComplexe(freq, harmonique, sampleRate, length, tab) {
 
 }
 
-function playThatShit(data) {
+function playThatShit(data, do_not_play) {
     'use strict';
     var audio, wave;
-
-    audio = $('.play')[0];
     wave = new RIFFWAVE(); // create an empty wave file
 
     wave.header.sampleRate = 8000;
 
     wave.Make(data); // make the wave file
+
+    audio = document.getElementsByClassName('play')[0]
     audio.src = wave.dataURI;
+    if (do_not_play) {
+        return;
+    }
     audio.play();
 }
 
@@ -221,7 +224,7 @@ function init() {
     $(window).on('keypress', function (e) {
         //Si on appuie sur la barre d'espace on fait play/pause
         if (e.which === 32) {
-            audio = $('.play')[0];
+            audio = document.getElementsByClassName('play')[0];
             if (audio.duration > 0 && !audio.paused) {
                 audio.pause();
             } else {
@@ -237,5 +240,10 @@ function init() {
         dispSine(data);
         playThatShit(data);
         dispParametres();
-    }).trigger('ended');
+    });//.trigger('ended');
+
+    var data = createSound(options);
+    dispSine(data);
+    playThatShit(data, true);
+    dispParametres();
 }

@@ -2,13 +2,10 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="/plop/assets/jquery.js"></script>
     <script src="riffwave.js"></script>
     <script src="UI.js"></script>
     <script src="script.js"></script>
-    <script>
-        document.body.addEventListener("click", init);
-    </script>
     <style>
         label {
             display: inline-block;
@@ -34,7 +31,7 @@
     Choisir la duree:
         predefini ou aleatoire avec un max et un min-->
 
-<body>
+<body onload="init()">
     <audio class="play" controls></audio>
     <p>Cette page genere des sons aléatoires grace a la librairie <a href="http://www.codebase.es/riffwave/">RIFFWAVE</a>.</p>
     <p>Les sons générés ont une frequence qui change a chaque fois et le nombre d'harmonique qui les composent aussi.</p>
@@ -92,7 +89,6 @@
     </div>
 
     <canvas height="300" width="500"></canvas>
-
 
 </body>
 
