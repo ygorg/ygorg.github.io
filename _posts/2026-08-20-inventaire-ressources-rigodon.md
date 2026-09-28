@@ -4,6 +4,9 @@ title:  "CMTRA - Inventaire des ressources autour du Rigodon"
 date:   2026-08-20 10:00:00 +0900
 ---
 
+* TOC
+{:toc}
+
 Ce post est une version textuelle revue et augmentée (voir historique git du fichier) de l'"Inventaire des ressoureces autour du Rigodon" mis en ligne par le CMTRA en septembre 2021.
 J'essaie au maximum d'établir si la piste contient du chant (si j'ai accès à un enregistrement).
 
@@ -11,6 +14,7 @@ J'essaie au maximum d'établir si la piste contient du chant (si j'ai accès à 
 
 
 # Inventaire des ressources autour du Rigodon
+{:.no_toc}
 
 Dans le souhait de centraliser et valoriser les sources nombreuses et éparses ayant trait au rigodon, plusieurs membres impliqués dans l'étude et la pratique du rigodon se sont réunis au sein d'un groupe de travail accompagné par le CMTRA. En découle cet inventaire non exhaustif mais déjà bien fourni de collectes, enquêtes, publications livre, CD et DVD, objets pédagogiques, textes ou vidéos en ligne, pouvant alimenter la connaissance de chacun. Si les ressources ne sont pas disponibles en ligne, que le lieu de consultation n'est pas indiqué, elles se trouvent peut-être dans la bibliothèque d'associations ou de particuliers. Contactez-nous !
 
@@ -549,3 +553,121 @@ Bout de rigodon chanté:
 https://www.labandesonore.fr/inventaire-rigodon/
 https://www.youtube.com/watch?v=TvJZ-3eLBeA
 https://www.youtube.com/watch?v=DMVHdRoVegs
+
+
+<style>
+html {
+	scroll-behavior: smooth;
+}
+
+.section-nav, #markdown-toc {
+  /*display: none;*/
+  position: fixed;
+  top: 62px;
+  right: 5px;
+  width: 10em;
+  white-space: nowrap;
+  font-size: 1em;
+  padding-left: 0;
+  border-left: 1px solid #e8e8e8;
+  background-color: rgba(255, 255, 255, 0.7);
+  @media (max-width: 1024px) {
+	display: block;
+  }
+
+	list-style: none;
+	margin: 0;
+	padding: 0;
+  ul, ol {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+  }
+  li {margin-left: 1rem;}
+  li.active > a {
+	color: #333;
+	font-weight: 500;
+  }
+
+  a {
+	overflow: hidden;
+	text-overflow: ellipsis;
+
+	text-decoration: none;
+	display: block;
+	padding: .125rem 0;
+	color: #ccc;
+	transition: all 50ms ease-in-out;
+  }
+  a:hover, a:focus {
+	color: #666;
+  }
+}
+</style>
+
+<script>
+function createScrollObserver(element) {
+	//From https://codepen.io/bramus/pen/ExaEqMJ
+	if (element === null) {
+		return;
+	}
+	if (typeof element === 'string') {
+		element = document.querySelector(element);
+	}
+	console.log(element);
+
+	const observer = new IntersectionObserver(entries => {
+		entries.forEach(entry => {
+			const id = entry.target.getAttribute('data-heading');
+			if (entry.intersectionRatio > 0) {
+				element.querySelector(`li a[href="#${id}"]`).parentElement.classList.add('active');
+			} else {
+				element.querySelector(`li a[href="#${id}"]`).parentElement.classList.remove('active');
+			}
+		});
+	});
+
+	// Track all sections that have an `id` applied
+	document.querySelectorAll('section[data-heading]').forEach((section) => {
+		observer.observe(section);
+	});
+}
+
+function main() {
+	createScrollObserver('#markdown-toc');
+}
+
+// Ajoute les sections pour le IntersectionObserver
+document.addEventListener('DOMContentLoaded', () => {
+	// From perplexity AI
+	const headings = Array.from(document.querySelectorAll('h1, h2'));
+	if (!headings.length) return;
+
+	const body = document.querySelector('.post-content');
+
+	for (let i = 0; i < headings.length; i++) {
+	  const h = headings[i];
+	  if (h.tagName !== 'H2') continue; // only wrap sections starting at h2
+
+	  // 1. Create section
+	  const section = document.createElement('section');
+	  // 2. Move nodes after this h2 until next h1/h2 into section
+	  let next = h.nextSibling;
+	  while (next) {
+		if (next.nodeType === 1 && /^(H1|H2)$/.test(next.nodeName)) break;
+		let tmp = next;
+		next = next.nextSibling;
+		section.appendChild(tmp);
+	  }
+
+	  // 4. Insert section where h2 originally was
+	  section.setAttribute('data-heading', h.id);
+	  //h.id = null;
+	  body.insertBefore(section, h); // h is now inside section, but insertBefore still works
+
+	  section.insertBefore(h, section.firstChild);
+	}
+});
+
+document.addEventListener('DOMContentLoaded', main);
+</script>
