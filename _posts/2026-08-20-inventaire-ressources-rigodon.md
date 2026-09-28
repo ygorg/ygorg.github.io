@@ -23,6 +23,8 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 ## Bibliographie
 
 - BERAUD-WILLIAMS Sylvette, « Chansons à danser » au sein du chapitre « Chansons et danses » in CARLAT Michel (Dir.), L'Ardèche, Curandera, 1985, pp 538-540.
+- LANCELOT Francine, BUARD M, « Lou Rigaudoun », dans le fond Francine LANCELOT
+	- [nakala.org](https://nakala.fr/10.34847/nkl.feaf2j4m)
 - CANTELOUBE Joseph, « Rigaudons » in Anthologie des chants populaires français, tome 2, Paris : Durand & Cie, 1951, pp 47-49 ("Haut-Dauphiné") puis pp 62-64 ("Bas-Dauphiné").
 - CHUZEL Geneviève et MAZELLIER Patrick, « Musiques, chants et danses » in Patrimoine en Isère : Trièves, Grenoble : Musée Dauphinois/Conservation Départementale du Patrimoine de l'Isère, 1996, pp 196-201.
 - CMTRA, Le Rigodon, Lettre d'information n°63, Automne 2006
@@ -68,6 +70,7 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 	- Drôme
 	- Livre CD p 274 à 285 rigodons collectés dans la Drôme (Diois, Vercors...) dont collecte de A Rochas en 1853.
 - TIERSOT Julien, « Le rigodon » in Chansons populaires recueillies dans les Alpes françaises (Savoie et Dauphiné), Grenoble : Librairie Dauphinoise, Moûtiers : Librairie Savoyarde, pp 509-530. Isère, Hautes-Alpes, Drôme.
+	- [gallica.bnf.fr](https://gallica.bnf.fr/ark:/12148/bpt6k6574754j/f583.item)
 - VAN GENNEP Arnold, « Rigaudons » dans le chapitre « Rondes et danses » in Le folklore du Dauphiné (Isère). Tome II, Paris : Librairie Orientale et Américaine, 1933, pp 667-669.
 - BARRACHIN Justin : Le rigodon dans la région Gapençaise (Ribaud éditeurs, 1951)
 	- Hautes-Alpes, Gapençais
@@ -118,11 +121,17 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 	- [youtube.com](https://www.youtube.com/watch?v=fuMDkeRsBMM)
 - Airs de rigodon du Gapençais par Rural Café (violon, cornemuse, bouzouki, contrebasse, percus...)
 	- [youtube.com](https://www.youtube.com/watch?v=FLz0N4_c_UQ)
-- Rigodon du Vercors Las filhas de la San Marti - Violon : Patrick Mazellier / Atelier danse Véronique Elouard
+- Rigodon du Vercors Las filhas de la San Marti - Violon : Patrick Mazellier / Atelier danse Véronique Elouard, 2017
 	- Vercors
 	- [youtube.com](https://www.youtube.com/watch?v=wk-mjE7cZAE)
 - CMTRA, Ce que l’archive sonore ne transmet pas : l’exemple du rigodon, 2022
 	- [infrasons.prg](https://infrasons.org/article/37/Ce-que-l-archive-sonore-ne-transmet-pas-l-exemple-du-rigodon/)
+- Danses traditionnelles en vivarais, L'Echo des Garrigues, 2023
+	- Ardèche
+	- #1 Veni ve la font rigodon valse [youtube.com](https://www.youtube.com/watch?v=zPh5ktiuluo)
+	- #2 Chasteu [youtube.com](https://www.youtube.com/watch?v=QyqPDeOhdTg)
+	- #3 Rigodons Les filles de mai, Quand ma mio vin me veire [youtube.com](https://www.youtube.com/watch?v=3PbStHaEuOc)
+	- #4 Les Vires du Coiron : A Lavilledieu, Coquinas de Peire [youtube.com](https://www.youtube.com/watch?v=QQAXUM7HQaI)
 
 ## Archives sonores inédites
 
@@ -134,21 +143,6 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 	- Quelques mentions du violoneux Félicien Philippe (du Château d'Ancelle) dans une série d'entretiens réalisés en février 2019 à Gap et Ancelle sur son histoire familiale (notamment auprès des frères Maizel d'Ancelle, ayant bien connu ce violoneux).
 - Fonds Devigne à la BnF (enquête de 1939).
 	- [comitehistoire.bnf.fr](http://comitehistoire.bnf.fr/dictionnaire-fonds/roger-d%C3%A9vigne)
-- Fonds Patrice Lejeune
-	- Vercors + Plateau Ardéchois
-	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37296&fonds=8&nat=3&cid=1198)
-- Fonds Sylvette Béraud-Williams
-	- Ardèche (Boutières)
-	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37689&fonds=8&nat=3&cid=1346)
-- Fonds Charles Joisten / Musée Dauphinois
-	- Champsaur
-	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=31770&fonds=8)
-- Fonds Pierre Adolphe Bérard, dit Patacol
-	- Valbonnais (Isère)
-	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=40777&fonds=8&nat=3&cid=3368)
-- Fonds Sylvestre Ducaroy
-	- Bresse
-	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=27194&fonds=&nat=3&cid=345)
 - Fonds Francine Lancelot-Coursange
 	- Ardèche, Haut et bas Vivarais, Cévennes et Coiron
 	- Travail d'inventaire et relevés effectués par P Mazellier dans le cadre des Rencontres 2019
@@ -160,9 +154,6 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 	- Champsaur
 	- Enquêtes de 1978 auprès d'Emile Escalle / MMSH
 	- [calames.abes.fr](https://calames.abes.fr/pub/ms/Calames-2023111717445134880)
-- Enquête auprès d'un chanteur à danser du plateau du Coiron
-	- Ardèche (Coiron)
-	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=29759&fonds=3&cid=50)
 - Enquêtes de Dominique Laperche et Aline Sevila
 	- Ardèche (Coiron)
 	- Non déposées
@@ -189,6 +180,29 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 	- Champsaur Triéves, Vercors, Vivarais..
 	- Musée Dauphinois / CMTRA / Ainsi que quelques fonds non déposés / [ruralcafe.com](http://www.ruralcafe.com/recherches-et-ethnomusicologie/)
 
+### Patrimoine Oral
+
+Ce document rassemble au format tableur les archives disponibles sur le site Patrimoine Oral [notion.com](https://app.notion.com/p/3e655ac9ef7280dc8d32ce02295ff0d5) (ou .xlsx ici [frama.space](https://as-queer-as-folk.frama.space/s/C6Y7rcQj3ZMD69s)). Les fichiers audio correspondants sont aussi ici [frama.space](https://as-queer-as-folk.frama.space/s/LiXqTCBrMaEjZoR) <span style="font-size: 0.7rem;">(mot de passe: une danse un _ et un nom de montagne, pas de majuscules)</span>
+- Fonds Patrice Lejeune
+	- Vercors + Plateau Ardéchois
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37296&fonds=8&nat=3&cid=1198)
+- Fonds Sylvette Béraud-Williams
+	- Ardèche (Boutières)
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37689&fonds=8&nat=3&cid=1346)
+- Fonds Charles Joisten / Musée Dauphinois
+	- Champsaur
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=31770&fonds=8)
+- Fonds Pierre Adolphe Bérard, dit Patacol
+	- Valbonnais (Isère)
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=40777&fonds=8&nat=3&cid=3368)
+- Fonds Sylvestre Ducaroy
+	- Bresse
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=27194&fonds=&nat=3&cid=345)
+- Enquête auprès d'un chanteur à danser du plateau du Coiron (Jean-François Dutertre)
+	- Ardèche (Coiron)
+	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=29759&fonds=3&cid=50)
+
+
 ## Enregistrements de collecte édités
 
 - Ardèche. Apprends-moi ton langage. Chansons recueillies en Ardèche, Aigardent AIG107, 1985
@@ -212,11 +226,13 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 	- Face B/5 Rigodon De Vandémie (Augustin Istier)
 	- Face B/9 Jean De La Viole (Camille Roussin)
 - Les chants de la soie. Atlas sonore Rhône-Alpes n°7 . CMTRA CMT007, 1993
+	- Piste 9 : « Venez à la font » (chanté par Maria Valette, collectage du 11 mars 1985 par Sylvette Beraud-Williams à Saint-Julien-du-Gua) [patrimoine-oral.org](https://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=40616)
 	- Piste 10 (Face A/6) : « Le rigodon des Vans » (chanté par Marcelle Champetier, collectage à une date inconnue par Sylvette Beraud-Williams à Chazallus-Grospierres)
 	- [cmtra.org](https://cmtra.org/Nos_actions/Ressources/33_Les_chants_de_la_soie.html)
 - Les Baronnies en Drôme provençale. Atlas sonore Rhône-Alpes n°8 . CMTRA CMT008, 1994
 	- Drôme.
-	- Piste 28/29 (Face B/13) : « Aie aie aie moun ami Piaulet » / « Rigodon d'Aucelon » (joué par M. Ponson, accordéon et chant, collectage à une date inconnue à La Motte-Chalançon).
+	- Piste 6 : « Quan mon gran-païre » (accordéon et chant par Les dansaires du Buech)
+	- Piste 28/29 : « Aie aie aie moun ami Piaulet » (joué par M. Ponson, accordéon et chant, collectage à une date inconnue à La Motte-Chalançon).
 	- Piste 36 (Face B/20) : « Rigodon d'Aucelon » (joué par M. Ponson, accordéon et chant, collectage à une date inconnue à La Motte-Chalançon).
 	- [cmtra.org](https://www.cmtra.org/Nos_actions/Ressources/41_Les_Baronnies_en_Drome_provencale.html)
 - Vercors (Le). Atlas sonore Rhône-Alpes 15, CMTRA, 2001
@@ -430,8 +446,8 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 	- Piste 22 : Drailles > Les bergers, Rigodon d'Orcière, Rigodon du Selon
 - 22 Rigodons à danser, Cie du Rigodon (2002)
 - Les Balbelettes (Isabelle Barthelemy - Annik Magnin, Cie du Rigodon 2007)
-	- Piste 6 : Demoiselles qui dansez
-	- Piste 7 : Les filles de vers Saint Martin
+	- Piste 6 : Demoiselles qui dansez (chanté)
+	- Piste 7 : Les filles de vers Saint Martin (chanté)
 - Le PAYS GAVOT De passage au chateau de Tallard 45T 1986 (?)
 	- [discogs.com](https://www.discogs.com/fr/release/33507101-Le-Groupe-Folklorique-Du-Pays-Gavot-Gap-Hautes-Alpes-De-Passage-Au-Ch%C3%A2teau-De-Tallard)
 	- 3 rigodons dont le rigodon du Selon joué par E Escalle, ainsi que la Troika du Champsaur. Le rigodon des 4 cordons et le coucou joués à l'accordéon par M Bolognesi.
