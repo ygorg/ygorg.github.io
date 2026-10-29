@@ -26,82 +26,46 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 
 ## Bibliographie
 
-- BERAUD-WILLIAMS Sylvette, « Chansons à danser » au sein du chapitre « Chansons et danses » in CARLAT Michel (Dir.), L'Ardèche, Curandera, 1985, pp 538-540.
-- LANCELOT Francine, BUARD M, « Lou Rigaudoun », dans le fond Francine LANCELOT
-	- [nakala.org](https://nakala.fr/10.34847/nkl.feaf2j4m)
-- CANTELOUBE Joseph, « Rigaudons » in Anthologie des chants populaires français, tome 2, Paris : Durand & Cie, 1951, pp 47-49 ("Haut-Dauphiné") puis pp 62-64 ("Bas-Dauphiné").
-- CHUZEL Geneviève et MAZELLIER Patrick, « Musiques, chants et danses » in Patrimoine en Isère : Trièves, Grenoble : Musée Dauphinois/Conservation Départementale du Patrimoine de l'Isère, 1996, pp 196-201.
-- CMTRA, Le Rigodon, Lettre d'information n°63, Automne 2006
-	-  [cmtra.org](https://cmtra.org/Nos_actions/Ressources/819_Le_Rigodon.html)
-- CMTRA, « Tirroirs » : Le rigodon en question, Entretien avec Michel Favre, date inconnue
-	- [cmtra.org](https://cmtra.org/Nos_actions/Lettres_dinformation/809_Tiroirs.html)
-- COMPAGNIE RECOURDÀS (LA), Rigodons et autres danses traditionnelles en Dauphiné, Autoédité, 200?.
-- GAUTHIER-LURTY P. & VINCENT M., « Trois rigaudons de Beaumont » in 31 chansons populaires dauphinoises, Grenoble : Didier Richard, pp 62-64.
-- GAUTHIER-VILLARS Marguerite, « Rigaudons » in Chansons du Dauphiné : Villard de Lans, Paris : Roudanez, 1929, pp 144-153
-	- Isère, Vercors
-- GUILCHER Jean-Michel, « Le domaine du rigodon, une province originale de la danse » in Chants et danses de tradition, Le monde alpin et rhodanien n°1-2/1984, Grenoble : Centre Alpin et Rhodanien d'Ethnologie, 1984, pp 7-72.
-	- [persee.fr](https://www.persee.fr/issue/mar_0758-4431_1984_num_12_1)
-- GUILCHER Jean-Michel, Danse traditionnelle et anciens milieux ruraux français. Tradition, Histoire, Société, Paris : L'Harmattan (Collection « Ethnomusicologie et anthropologie musicale de l'espace français »), 2009. (Diverses références au rigodon tout au long de l'ouvrage).
-	- [journals.openedition.org](https://journals.openedition.org/rsa/173)
-- GUILCHER Yves, « Rigodon (ou rigaudon) » in La danse traditionnelle en France, d'une ancienne civilisation paysanne à un loisir revivaliste, Saint-Jouin-de-Milly : FAMDT Modal, Folio / ADP / Librairie de la Danse, 1998, pp 265-266.
-	- Lien mort : https://docplayer.fr/22531496-La-danse-traditionnelle-en-france-d-une-ancienne-civilisation-paysanne-a-un-loisir-revivaliste-par-yves-guilcher.html
-- MAZELLIER Patrick, « Refrains à danser : rigodons » in Les Renveillés d'Orcières. Une tradition de chant dans les Hautes-Alpes, Documents d'Ethnologie Régionale vol.21, livre+CD, Grenoble : Centre Alpin et Rhodanien d'Ethnologie, 2001, pp 104-106.
-	- Livre CD
-- MAZELLIER Patrick, « Violoneux traditionnels en Dauphiné » in Violon populaire : le caméléon merveilleux, Saint-Jouin-de-Milly : Modal, 200?, pp 20-31
-- MAZELLIER Patrick, « Des folkloristes aux collectes contemporaines de chansons populaires. Quelques aspects des matériaux recueillis en Dauphiné et Vivarais » in Le monde alpin et rhodanien n°3-4/2004, Grenoble : Centre Alpin et Rhodanien d'Ethnologie, 2004, pp 69-94
-	- [persee.fr](https://www.persee.fr/doc/mar_0758-4431_2004_num_32_3_1850#mar_0758-4431_2004_num_32_3_T1_0084_0000)
-- MAZELLIER Patrick, « Rigodon » in Violon traditionnel. Dauphiné, Vivarais, Savoie. 35 mélodies, Vallon-Pont-D'Arc : Écho des Garrigues, 2013, pp 36-50.
-	- Dauphiné, Vivarais, Savoie
-	- Livre-CD Pédagogique : Trente-cinq mélodies notées, jouées et commentées dont 7 interprétations revivalistes au violon par P Mazellier de rigodons du Vivarais au Champsaur :
-		- Les Vachourins
-		- Le rigodon de Genestelle
-		- Au chasteù de ribateù (violon, guitare)
-		- Los debrayas de Laye (violon, bouzouki)
-		- La barca vira
-		- Les 4 cordons
-		- Rigodon de Saint Firmin
-		- Le rigodon du Selon
-- MULLER Claude, « Coutumes diverses : dansons le rigodon » in Coutumes et traditions du Dauphiné, Grenoble ? : éditions des Quatre Seigneurs, 1977, pp 107-110 (Le tome II, que je n'ai pas, évoque aussi le rigodon).
-- PITTION Paul, « Les rigodons » in En pays dauphinois. Danses et chants traditionnels, Grenoble : Roissard, 1950, pp 14-100.
-	- Isère
-- RICHAUME Olivier, « La restitution du patrimoine musical : Les musiques "traditionnelles" entre le musée et les pratiques vivantes » in Buëch et Patrimoine : Patrimoine, facteur de développement ? Actes du colloque de Serres (Hautes-Alpes), 19 et 20 avril 1996, Association Départementale de Sauvegarde du Patrimoine du Pays du Buëch et des Baronnies, 1997, pp 113-125.
-	- Hautes-Alpes
-- RICHAUME Olivier, « De vive voix les chansons d'ici, les Pays du Buëch » 1998 - CDMD 05
-	- Hautes-Alpes, Pays du Buëch
-- RIGODONS & TRADITIONS, Dansons le Dauphiné livrets 1 et 2
-	- Sud Isère et Hautes Alpes Livrets explicatifs de Danses du Dauphiné (chorégraphie, musique) avec contenu pédagogique
-- SCHOOK Han, ZORZIN Nicolas, PASTUREL Valérie, MAZELLIER Patrick, RAMEL Jean-Louis & PLANTEVIN Jean-Bernard, « Danses » in Chansons traditionnelles et populaires de la Drôme, livre+CD, Nyons : Culture et Langue d'Oc, 2005, pp 252-300.
-	- Drôme
-	- Livre CD p 274 à 285 rigodons collectés dans la Drôme (Diois, Vercors...) dont collecte de A Rochas en 1853.
-- TIERSOT Julien, « Le rigodon » in Chansons populaires recueillies dans les Alpes françaises (Savoie et Dauphiné), Grenoble : Librairie Dauphinoise, Moûtiers : Librairie Savoyarde, pp 509-530. Isère, Hautes-Alpes, Drôme.
-	- [gallica.bnf.fr](https://gallica.bnf.fr/ark:/12148/bpt6k6574754j/f583.item)
-- VAN GENNEP Arnold, « Rigaudons » dans le chapitre « Rondes et danses » in Le folklore du Dauphiné (Isère). Tome II, Paris : Librairie Orientale et Américaine, 1933, pp 667-669.
-- BARRACHIN Justin : Le rigodon dans la région Gapençaise (Ribaud éditeurs, 1951)
-	- Hautes-Alpes, Gapençais
-	- [espaci-occitan.com](https://www.espaci-occitan.com/botiga/fr/histoire-etudes/1667-le-rigodon-dans-la-region-gapencaise-justin-barrachin-9999000000137.html)
-- Chants et chansons populaires du Languedoc / recueillis et publiés avec la musique notée et la traduction française par Louis Lambert
-	- [occitanica.eu](https://occitanica.eu/items/show/3089)
-- BUYRET Louis, Danses Bressances, Groupe Folklorique du Pays de Bresse
-- GUICHARD Germain, Le rigodon dans les Trièves, 1885, pp 244-259
-	- Isère, Trièves
-	- [gallica.bnf.fr](https://gallica.bnf.fr/ark:/12148/bpt6k454106p/f270.item.r=rigodon%20Guichard)
-- RIVIÈRE Maurice, Rigaudons chantés autrefois à St-Maurice de l'Exil dans Revue des Langues Romanes, 1895, pp 232-234
-	- Textes en francoprovençal rhodanien
-	- [gallica.bnf.fr](https://gallica.bnf.fr/ark:/12148/bpt6k19861r/f232.item)
-- VASCHALDE Henry, Chansons populaires du Vivarais Paris 1897 chansons à danser paroles en occitan de « Rigaudons » pp 52-59
-- D'INDY Vincent, Chansons populaires du Vivarais opus 52 4 rigaudons paroles en occitan et musiques pp 142-146
-- MEYER David, Sous lo rispo dou Drau Contes et Fatorgues en patois du Champsaur Pays Gavot GAP 1980 Hautes-Alpes
-	- Champsaur
-	- Paroles de Rigaudons en occitan vivaro alpin p 185-188
-- Mémoires du Plateau ardèchois, EDG Vallon Pont d'Arc, 2014, Plateau ardèchois, Saint Etienne de lugdarés (07)
-	- [journals.openedition.org](https://journals.openedition.org/ethnomusicologie/4166)
-- LE VERCORS Chroniques et études Un siécle en hiver club d'histoire lycée J Prévot Villard de Lans 1982 Vercors les pays des 4 montagnes
-	- Villard de Lans / Livre etudes sur la vie rurale. p 186-188
-	- 7 rigaudons sans musique collectés auprés de Mme Noaro.
-- MAZELLIER Patrick, Les Violons du Rigodons (nov 1994) in Trad Magazine n° 37
-	- article 4 pages avec photos Article qui résume l'exposition Les Violons du rigodon commande CDMD 05 à P Mazellier en 1994 et réalisée avec la participation d'Olivier Richaume
-- MAZELLIER Patrick, Permanences identitaires et echanges culturels dans les musiques traditionnelles des Alpes du Dauphiné in ARA Ethnomusicologie...
-	- Mais encore pp 50-54 n°53 200
+<div id="bibliography-list">
+  <input class="fuzzy-search" placeholder="Rechercher..."/>
+  <span class="sort" data-sort="year">Tri par année</span>
+  <span class="sort" data-sort="terroir">Tri par terroir</span>
+<ul class="list">
+{% for entry in site.data.rigodon_bibliography %}
+	<li data-year="{{entry.sort_year}}" data-entry="{{entry.type}}" data-terroir="{{entry.terroir}}" data-link="{{entry.link}} {{entry.partition}} {{entry.consulter}} {{entry.acheter}}">
+		<span style="display: none" class="words">
+			{%- for attr in entry -%}
+			  {{ attr[1] | append: "" | slugify: "latin" | replace: "-", " "}} {% endfor -%}
+		</span>
+		<div>
+			{% if entry.consulter %}
+				<a href="{{entry.consulter}}" target="_blank"><img width="24px" src="/assets/icons/book.svg"/></a>
+			{% endif %}
+			{% if entry.partition %}
+				<a href="{{entry.partition}}" target="_blank"><img width="24px" src="/assets/icons/sheet_music.svg"/></a>
+			{% endif %}
+			{% if entry.link %}
+				<a href="{{entry.link}}" target="_blank"><img width="24px" src="/assets/icons/info.svg"/></a>
+			{% endif %}
+			{% if entry.acheter %}
+				<a href="{{entry.acheter}}" target="_blank"><img width="24px" src="/assets/icons/shopping_cart.svg"/></a>
+			{% endif %}
+			<!---->
+			{{entry.author}}.{% if entry.year %} ({{entry.year}}).{% endif %} <span style="font-style: italic">{{entry.title}}</span>.
+			{% if entry.booktitle %}
+			In {% if entry.editor %}{{entry.editor}}, {% endif %}<span>"{{entry.booktitle}}"</span>
+			{% endif %}
+			{% if entry.pages %} (pp. {{entry.pages}}).{% endif %}
+			{% if entry.publisher %} {{entry.publisher}}{% if entry.address %}, {{entry.address}}{% endif %}.{% endif %}
+		</div>
+		<div>
+			{% if entry.note %}<span class="note">{{entry.note}}</span>{% endif %}
+			{% if entry.terroir %}<span>{{entry.terroir}}</span>{% endif %}
+		</div>
+	</li>
+{% endfor %}
+</ul>
+</div>
 
 
 ## Autres ressources en ligne
@@ -555,7 +519,41 @@ https://www.youtube.com/watch?v=TvJZ-3eLBeA
 https://www.youtube.com/watch?v=DMVHdRoVegs
 
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+
 <style>
+#bibliography-list {
+  width: 50vw;
+  position: relative;
+  left: calc(-25vw + 50%);
+  li {
+  	margin-bottom: 10px;
+  }
+}
+.note {
+	color: grey;
+}
+.sort {
+  padding:5px 15px;
+  border-radius: 6px;
+  border:none;
+  display:inline-block;
+  color:#fff;
+  text-decoration: none;
+  background-color: #666;
+  /*height:20px;*/
+}
+.sort:hover {
+  text-decoration: none;
+  background-color:#888;
+}
+.sort.asc::before{
+	content: "⬆";
+}
+.sort.desc::before{
+	content: "⬇";
+}
+
 html {
 	scroll-behavior: smooth;
 }
@@ -614,7 +612,6 @@ function createScrollObserver(element) {
 	if (typeof element === 'string') {
 		element = document.querySelector(element);
 	}
-	console.log(element);
 
 	const observer = new IntersectionObserver(entries => {
 		entries.forEach(entry => {
@@ -635,6 +632,14 @@ function createScrollObserver(element) {
 
 function main() {
 	createScrollObserver('#markdown-toc');
+	var options = {
+		valueNames: [
+			{data: ['year', 'terroir', 'entry', 'link']},
+			'words'
+		],
+		searchColumns: ['words']
+	};
+	new List('bibliography-list', options);
 }
 
 // Ajoute les sections pour le IntersectionObserver
