@@ -150,7 +150,9 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 
 ### Patrimoine Oral
 
-Ce document rassemble au format tableur les archives disponibles sur le site Patrimoine Oral [notion.com](https://app.notion.com/p/3e655ac9ef7280dc8d32ce02295ff0d5) (ou .xlsx ici [frama.space](https://as-queer-as-folk.frama.space/s/C6Y7rcQj3ZMD69s)). Les fichiers audio correspondants sont aussi ici [frama.space](https://as-queer-as-folk.frama.space/s/LiXqTCBrMaEjZoR) <span style="font-size: 0.7rem;">(mot de passe: une danse un _ et un nom de montagne, pas de majuscules)</span>
+Ce document rassemble au format tableur les archives disponibles sur le site Patrimoine Oral [notion.com](https://app.notion.com/p/3e655ac9ef7280dc8d32ce02295ff0d5) (ou .xlsx ici [frama.space](https://as-queer-as-folk.frama.space/s/C6Y7rcQj3ZMD69s)). Les fichiers audio correspondants sont aussi ici [frama.space](https://as-queer-as-folk.frama.space/s/LiXqTCBrMaEjZoR) <span style="font-size: 0.7rem;">(mot de passe: une danse un _ et un nom de montagne, pas de majuscules)</span>. Pour en savoir plus sur la [méthodologie](/2026/08/20/rigodon-archives-inedites.html
+).
+
 - Fonds Patrice Lejeune
 	- Vercors + Plateau Ardéchois
 	- [patrimoine-oral.org](http://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=37296&fonds=8&nat=3&cid=1198)
