@@ -10,6 +10,19 @@
   title: Chansons à danser
   type: bibliography
   year: 1985
+- author: Béraud-Williams, Sylvette
+  booktitle: "Chansons populaires d'Ardèche recueillies dans le pays des Boutières"
+  editor: Edition du CNRS
+  pages: 91--93
+  publisher: Edisud
+  sort_year: 1985
+  terroir: Ardèche, Boutières
+  title: Refrains à danser
+  type: bibliography
+  year: 1987
+  note: 'Trois rigodons sont décrits, dont deux avec partitions: p. 91 "Ma maire
+    n''avia qu''un anhèl"; p. 92 "Venètz a la font"; p. 93 "fillettes que vous voulez
+    danser" (musique non notée, mais il se chante sur la mélodie du premier rigodon).'
 - acheter: https://www.ruralcafe.com/boutique/
   author: Mazellier, Patrick & Gränicher, Annette & Julien, Jacques & Oller, Christian
   note: Livret + CD + DVD
@@ -60,10 +73,10 @@
   display: 'GAUTHIER-LURTY P. & VINCENT M., « Trois rigaudons de Beaumont » in 31
     chansons populaires dauphinoises, Grenoble : Didier Richard, pp 62-64.'
   pages: 62--64
-  partition: https://www.aepem.com/dph-060/
+  link: https://www.aepem.com/dph-060/
   address: Grenoble
   publisher: 'Didier-Richard'
-  editor: "Edition de la Fédération des Œvres Laïques et de l'Union des Délégués
+  editor: "Edition de la Fédération des Œuvres Laïques et de l'Union des Délégués
     cantonaux du département de l'Isère"
   sort_year: 1936
   terroir: Dauphiné
@@ -248,7 +261,7 @@
   type: bibliography
   year: 1950
 - author: Tiersot, Julien
-  booktitle: hansons populaires recueillies dans les Alpes françaises (Savoie et Dauphiné)
+  booktitle: Chansons populaires recueillies dans les Alpes françaises (Savoie et Dauphiné)
   consulter: https://gallica.bnf.fr/ark:/12148/bpt6k6574754j/f583.item
   display: 'TIERSOT Julien, « Le rigodon » in Chansons populaires recueillies dans
     les Alpes françaises (Savoie et Dauphiné), Grenoble : Librairie Dauphinoise, Moûtiers
