@@ -534,13 +534,8 @@ https://www.youtube.com/watch?v=DMVHdRoVegs
 <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
 
 <style>
-#bibliography-list {
-  width: 50vw;
-  position: relative;
-  left: calc(-25vw + 50%);
-  li {
-  	margin-bottom: 10px;
-  }
+#bibliography-list.li {
+		margin-bottom: 10px;
 }
 .note {
 	color: grey;
@@ -553,7 +548,6 @@ https://www.youtube.com/watch?v=DMVHdRoVegs
   color:#fff;
   text-decoration: none;
   background-color: #666;
-  /*height:20px;*/
 }
 .sort:hover {
   text-decoration: none;
