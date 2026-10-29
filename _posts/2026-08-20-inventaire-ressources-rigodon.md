@@ -175,10 +175,10 @@ Ce document rassemble au format tableur les archives disponibles sur le site Pat
 
 ## Enregistrements de collecte édités
 
-- Ardèche. Apprends-moi ton langage. Chansons recueillies en Ardèche, Aigardent AIG107, 1985
+- Apprends-moi ton langage. Chansons recueillies en Ardèche, Aigardent AIG107, 1985
 	- Ardéche, Bas Vivarais, Coiron.
 	- [famdt-ardeche.fr](https://famdt-ardeche.fr/wp/le-cd-apprends-moi-ton-langage/)
-	- Face A/6 : « Ma maire n'aviá qu'un anhèu (rigodon) » (chanté par Milou Liotard, collectage en 1980 par Aline et Dominique Laperche à Saint-Gineys-en-Coiron) rare Rigodon au tra la la chanté par M Liotard (titre zappé dans le titrage de la reédition!)differentes vires chantées au tra la la, variantes locales du rigodon. [deezer.com](https://www.deezer.com/us/track/137072078)
+	- Face A/6 : « Ma maire n'aviá qu'un anhèu (rigodon) » (chanté par Milou Liotard, collectage en 1980 par Aline et Dominique Laperche à Saint-Gineys-en-Coiron) rare Rigodon au tra la la chanté par M Liotard (titre zappé dans le titrage de la reédition!) differentes vires chantées au tra la la, variantes locales du rigodon. [deezer.com](https://www.deezer.com/us/track/137072078)
 - Violoneux et chanteurs traditionnels du Dauphiné (Champsaur, Beaumont), Anthologie de la musique traditionnelle française volume 4, 33T Le chant du Monde LDX74687, 1977
 	- Hautes-Alpes (Champsaur), Isère (Beaumont)
 	- 33T CDM 1977
@@ -196,15 +196,15 @@ Ce document rassemble au format tableur les archives disponibles sur le site Pat
 	- Face B/5 Rigodon De Vandémie (Augustin Istier)
 	- Face B/9 Jean De La Viole (Camille Roussin)
 - Les chants de la soie. Atlas sonore Rhône-Alpes n°7 . CMTRA CMT007, 1993
+	- [cmtra.org](https://cmtra.org/Nos_actions/Ressources/33_Les_chants_de_la_soie.html)
 	- Piste 9 : « Venez à la font » (chanté par Maria Valette, collectage du 11 mars 1985 par Sylvette Beraud-Williams à Saint-Julien-du-Gua) [patrimoine-oral.org](https://patrimoine-oral.org/dyn/portal/index.seam?page=alo&aloId=40616)
 	- Piste 10 (Face A/6) : « Le rigodon des Vans » (chanté par Marcelle Champetier, collectage à une date inconnue par Sylvette Beraud-Williams à Chazallus-Grospierres)
-	- [cmtra.org](https://cmtra.org/Nos_actions/Ressources/33_Les_chants_de_la_soie.html)
 - Les Baronnies en Drôme provençale. Atlas sonore Rhône-Alpes n°8 . CMTRA CMT008, 1994
 	- Drôme.
+	- [cmtra.org](https://www.cmtra.org/Nos_actions/Ressources/41_Les_Baronnies_en_Drome_provencale.html)
 	- Piste 6 : « Quan mon gran-païre » (accordéon et chant par Les dansaires du Buech)
 	- Piste 28/29 : « Aie aie aie moun ami Piaulet » (joué par M. Ponson, accordéon et chant, collectage à une date inconnue à La Motte-Chalançon).
 	- Piste 36 (Face B/20) : « Rigodon d'Aucelon » (joué par M. Ponson, accordéon et chant, collectage à une date inconnue à La Motte-Chalançon).
-	- [cmtra.org](https://www.cmtra.org/Nos_actions/Ressources/41_Les_Baronnies_en_Drome_provencale.html)
 - Vercors (Le). Atlas sonore Rhône-Alpes 15, CMTRA, 2001
 	- [cmtra.org](https://cmtra.org/Nos_actions/Ressources/84_Le_Vercors.html)
 	- Piste 5 : « Tous les vachourins, La Genevoise (rigodons) » (chanté par Gilbert Ravix, collectage en 2000 par Patrick Mazellier à Villard de Lans)
@@ -212,9 +212,9 @@ Ce document rassemble au format tableur les archives disponibles sur le site Pat
 	- Piste 20 : « Las filhas de la San-Marti, Allà ve la fon Jeanneton (rigodons) » (réinterprétation par Patrick Mazellier, violon / trad.)
 - Chants en francoprovençal de Rhône-Alpes. Atlas sonore Rhône-Alpes n°22, livre + 2CD, CMTRA, 2012
 	- Isère/Drôme (Vercors).
+	- [cmtra.org](https://cmtra.org/Nos_actions/Ressources/113_Chants_en_francoprovencal_de_Rhone-Alpes.html)
 	- Piste 3 du CD1 : « La filla devè Corrençon / Tous les vachourins (rigodons) » (chanté par Gilbert Ravix, collectage en 2000 par Patrick Mazellier à Villard de Lans)
 	- Piste 4 du CD2 : « Quand ma mie vin me vère (rigodon) » (chanté par Rémi Bourgeon, collectage en 2000 par Patrick Mazellier à Saint-Agnan-en-Vercors)
-	- [cmtra.org](https://cmtra.org/Nos_actions/Ressources/113_Chants_en_francoprovencal_de_Rhone-Alpes.html)
 - Chansons traditionnelles et populaires de la Drôme, livre+CD (voir bibliographie)
 	- Drôme.
 	- Piste 12 du CD joint : « La mère fricasso / La tanto Genevievo » (chanté par Paulin Donzet, collectage de 2003 par Valérie Pasturel à Villeperdrix).
@@ -330,7 +330,7 @@ Ce document rassemble au format tableur les archives disponibles sur le site Pat
 	- Piste 4 : « Rigodon du bandit » (trad.)
 	- Piste 13 « La débraya de Layo / Lou coucou » (trad.)
 - PASSE MONTAGNE, Les Pieds dans le plat, Muance Productions 3009 402, 1999
-	- [bandcomp.com](https://musavida.bandcamp.com/album/les-pieds-dans-le-plat)
+	- [bandcamp.com](https://musavida.bandcamp.com/album/les-pieds-dans-le-plat)
 	- Piste 2 : « La barque vire » (trad., issu du répertoire d'Emile Escalle)
 	- Piste 4 : « Débraillée de Laye / rigodon de Manse » (trad., issus du répertoire de 1/ Emile Escalle & 2/ M. Jeanselme)
 	- Piste 7 : « Rigodon du Dévoluy » (trad.)
@@ -496,6 +496,16 @@ Ce document rassemble au format tableur les archives disponibles sur le site Pat
 	- Bas Dauphiné - Vercors.
 	- Face A/3 Le chat (en fait mélodie du rigodon "quand ma mia vin me veire", chant)
 	- Face A/9 Rigaudon de Romans (chant)
+- MAZELLIER Patrick, « Rigodon » in Violon traditionnel. Dauphiné, Vivarais, Savoie. 35 mélodies, Vallon-Pont-D'Arc : Écho des Garrigues, 2013, pp 36-50.
+	- Dauphiné, Vivarais, Savoie
+	- Piste 12 : Les Vachourins
+	- Piste 13 : Le rigodon de Genestelle
+	- Piste 14 : Au chasteù de ribateù (violon, guitare)
+	- Piste 15 : Los debrayas de Laye (violon, bouzouki)
+	- Piste 16 : La barca vira / Les 4 cordons
+	- Piste 17 : Rigodon de Saint Firmin
+	- Piste 18 : Le rigodon du Selon
+
 
 ## Archives Audiovisuelles
 
