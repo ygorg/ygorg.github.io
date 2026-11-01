@@ -50,6 +50,9 @@ L'équipe du CMTRA tient à remercier Guillaume Veillet, Patrick Mazellier, Robi
 			{% if entry.acheter %}
 				<a href="{{entry.acheter}}" target="_blank"><img width="24px" src="/assets/icons/shopping_cart.svg"/></a>
 			{% endif %}
+			{% if entry.emprunter %}
+				<a href="{{entry.emprunter}}" target="_blank"><img width="24px" src="/assets/icons/library.svg"/></a>
+			{% endif %}
 			<!---->
 			{{entry.author}}.{% if entry.year %} ({{entry.year}}).{% endif %} <span style="font-style: italic">{{entry.title}}</span>.
 			{% if entry.booktitle %}
@@ -199,6 +202,9 @@ Ce document rassemble au format tableur les archives disponibles sur le site Pat
 			{% if entry.acheter %}
 				<a href="{{entry.acheter}}" target="_blank"><img width="24px" src="/assets/icons/shopping_cart.svg"/></a>
 			{% endif %}
+			{% if entry.emprunter %}
+				<a href="{{entry.emprunter}}" target="_blank"><img width="24px" src="/assets/icons/library.svg"/></a>
+			{% endif %}
 			<!---->
 			{{entry.author}}.{% if entry.year %} ({{entry.year}}).{% endif %} <span style="font-style: italic">{{entry.title}}</span>.
 			{% if entry.booktitle %}
@@ -246,6 +252,9 @@ Ce document rassemble au format tableur les archives disponibles sur le site Pat
 			{% endif %}
 			{% if entry.acheter %}
 				<a href="{{entry.acheter}}" target="_blank"><img width="24px" src="/assets/icons/shopping_cart.svg"/></a>
+			{% endif %}
+			{% if entry.emprunter %}
+				<a href="{{entry.emprunter}}" target="_blank"><img width="24px" src="/assets/icons/library.svg"/></a>
 			{% endif %}
 			<!---->
 			{{entry.author}}.{% if entry.year %} ({{entry.year}}).{% endif %} <span style="font-style: italic">{{entry.title}}</span>.
